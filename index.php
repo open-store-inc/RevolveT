@@ -6,7 +6,7 @@
   <body>
   <header>
     <div class="header_box">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/headlogo.png" alt="logo"/ class="logoImage" width="500">
+      <img src="<?php echo get_template_directory_uri(); ?>/image/headlogo.png" alt="logo"/ class="logoImage" width="500" alt="Re'volve 本町">
     </div>
   </header>
   <div class="main">
@@ -24,38 +24,38 @@
     <div class="page1_message_4">
       <div class="page1_message_4_title">
       <div class="page1_message_4_title_1">
-          <img src="<?php echo get_template_directory_uri(); ?>/image/45312.png" width="40">
+          <img src="<?php echo get_template_directory_uri(); ?>/image/45312.png" width="40" alt="こんな髪の悩みはありませんか？">
           こんな髪の悩みはありませんか？
         </div>
       </div>
       <ol>
         <li class="page1_message_4_title_li">
           <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="薄毛をなんとかごまかそうと髪型に苦心している">
             薄毛をなんとかごまかそうと髪型に苦心している
           </span>
         </li>
         <li class="page1_message_4_title_li">
           <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="明るい所や日が当たる場所で、頭髪がみえてしまう...">
             明るい所や日が当たる場所で、頭髪がみえてしまう...
           </span>
         </li>
         <li class="page1_message_4_title_li">
         <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="髪が薄くなってきたことにより自信がなくなってた">
             髪が薄くなってきたことにより自信がなくなってた
           </span>
         </li>
         <li class="page1_message_4_title_li">
         <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="今まで散々色々なものを色々なものを試したがどれも効かなかった">
             今まで散々色々なものを色々なものを試したがどれも効かなかった
           </span>
         </li>
         <li class="page1_message_4_title_li">
         <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="風が強いとすぐに髪の毛が乱れてしまう">
             風が強いとすぐに髪の毛が乱れてしまう
           </span>
         </li>
@@ -81,19 +81,19 @@
 
         <th>
           <div class="page2_message_1">
-          <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 1.png" width="300">
+          <img src="<?php echo get_template_directory_uri(); ?>/image/media1.png" width="300" alt="今テレビ雑誌メディアで話題">
           </div>
         </th>
 
         <th>
           <div class="page2_message_1">
-          <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 2.png" width="300">
+          <img src="<?php echo get_template_directory_uri(); ?>/image/media2.png" width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
           </div>
         </th>
 
         <th>
           <div class="page2_message_1">
-          <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 3.png" width="300">
+          <img src="<?php echo get_template_directory_uri(); ?>/image/media3.png" width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
           </div>
         </th>
 
@@ -122,7 +122,7 @@
       <sapn>
       <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが当施術院は<br><span class="page2_message_2_6"><br></span>
         脂肪由来幹細胞培養液と比較した場合再生因子は<span>264倍も高い濃度で含有しています。</span><br>
-        <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRevolvve提供店のみとなります)</span>
+        <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
       </span>
     </div>
     
@@ -150,7 +150,7 @@
         </div> -->
       </div>
       <div class="page2_message_3_image">
-      <div class="page2_message_3_image_1"><img src="<?php echo get_template_directory_uri(); ?>/image/LED.jpg" width="400"></div>
+      <div class="page2_message_3_image_1"><img src="<?php echo get_template_directory_uri(); ?>/image/LED.jpg" width="400" alt="LED照射"></div>
       </div>
 
       <!-- 以下はabsolute -->
@@ -174,7 +174,7 @@
       <span>そもそもヒト幹細胞培養液に限らず、どれだけ高級な美容液や育毛剤を<br>ただ塗っているだけでは表面で止まっているだけで奥には浸透しません。</span>
         <div class="page2_message_4_image">
           <div class="page2_message_4_image_1">
-            <span><img src="<?php echo get_template_directory_uri(); ?>/image/スクリーンショット 2021-02-10 13.55.35.png" width="400"></span>
+            <span><img src="<?php echo get_template_directory_uri(); ?>/image/スクリーンショット 2021-02-10 13.55.35.png" width="400" alt="エレクトロポーションで効果・持続性がアップ!"></span>
           </div>
         </div>
 
@@ -194,7 +194,7 @@
 
 
     <div class="page2_message_4">
-      <span><img src="<?php echo get_template_directory_uri(); ?>/image/17440.png" width="40">当店がTV取材を受けました</span>
+      <span><img src="<?php echo get_template_directory_uri(); ?>/image/17440.png" width="40" alt="TV取材">当店がTV取材を受けました</span>
         <div class="page2_message_4_image">
           <span>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/b_aTGKeWGA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -356,7 +356,7 @@
       </div>
 
       <div class="page3_message_title">
-        <span>ホームおエージを見た方限定</span>
+        <span>ホームページを見た方限定</span>
       </div>
       <span>最先端の幹細胞施術による発毛促進</span>
       <div class="page3_message_1">
@@ -419,7 +419,7 @@
       駐車場
     </div>
 
-    <span>大変申し訳ございません。ご用意しておりません。</span>
+    <span>当サロンにはありません。申し訳ありませんが近隣の駐車場をお使いください。</span>
 
 
     </div>
