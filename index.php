@@ -17,7 +17,7 @@
     <div class="under_line"></div>
 
     <div class="page1_message_2">
-      <span>医師が推奨する技術を<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使って顧客満足度</span>
+      <span>医師が推奨する技術をを<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使って顧客満足度</span>
     </div>
     <span class="page1_message_2_1">98.8%</span>
 
