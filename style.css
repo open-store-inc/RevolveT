@@ -1,1 +1,240 @@
-init
+/*
+Theme Name: Revolve theme
+Description: Revolve theme
+Version: 1.0
+Author: 
+*/
+
+@import url("css/normalize.css");
+
+body {
+  background-image: url("image/bodyback.png");
+  background-size: cover;
+  height: 500vh;
+  width: 110vw;
+}
+ol {
+  list-style-type: none;
+}
+main {
+  width: 100%;
+}
+
+.header_box {
+  text-align: center;
+  width: 100%;
+}
+
+.upper_line {
+  width: 68%;
+  height: 1px;
+  text-align: center;
+  margin: 0 16%;
+  border-bottom: solid 3px #333333;
+}
+
+.page1_message_1 {
+  text-align: center;
+  font-size: 2rem;
+  margin: 3%;
+}
+.under_line {
+  width: 80%;
+  height: 1px;
+  text-align: center;
+  margin: 0 10% 5% 10%;
+  border-bottom: solid 3px #333333;
+}
+
+.page1_message_2 {
+  margin: 0 10% 3%;
+  font-size: 2rem;
+  float: left;
+  height: 80px;
+  width: 40%;
+}
+.page1_message_2_1 {
+  font-size: 6rem;
+}
+
+.page1_message_4 {
+  margin: 7% 0;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 3%;
+}
+.page1_message_4_title {
+  text-align: center;
+}
+.page1_message_4_title_1 {
+  width: 70%;
+  margin: 0 15%;
+  font-size: 2rem;
+  border-bottom: solid 1.5px #777777;
+  padding-bottom: 5px;
+}
+.page1_message_4_title_1_1 {
+  font-size: 1.2rem;
+  margin: 5px;
+}
+.page1_message_4_title_li {
+  margin: 20px 0;
+}
+
+.page1_message_5 {
+  position: absolute;
+  left: 15%;
+  top: 40%;
+}
+.page1_message_5 {
+  font-size: 1.8rem;
+  padding: 10px 30px;
+  background-color: #0099ff;
+  color: white;
+  border: solid 3px white;
+  border-radius: 10px;
+}
+.page1_message_5:before {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: 15%;
+  margin-left: -15px;
+  border: 15px solid transparent;
+  border-bottom: 15px solid #0099ff;
+}
+
+.page1_message_6 {
+  font-size: 2rem;
+  margin: 10px 0 10px 15%;
+}
+.page1_message_6_1 {
+  color: red;
+  font-size: 2.8rem;
+  -webkit-text-emphasis: filled circle red;
+  text-emphasis: filled circle red;
+}
+
+.page1_message_6_table {
+  width: 100%;
+}
+.page2_message_1 {
+  height: 50px;
+}
+
+.page2_message_2 {
+  text-align: center;
+  margin-top: 300px;
+  font-size: 2rem;
+}
+
+.page2_message_2_1 {
+  color: #0099ff;
+}
+.page2_message_2_2 {
+  font-size: 2.5rem;
+  color: #0099ff;
+}
+.page2_message_2_3 {
+  color: red;
+}
+.page2_message_2_4 {
+  font-size: 1.5rem;
+}
+.page2_message_2_5 {
+  font-size: 2.5rem;
+}
+.page2_message_2_6 {
+  font-size: 1rem;
+}
+
+.page2_message_3 {
+  text-align: center;
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+}
+.page2_message_2_7 {
+  font-size: 1.3rem;
+}
+
+.page2_message_3_title {
+  text-align: center;
+  font-size: 1.7rem;
+}
+.page2_message_3_title_line {
+  margin: 10px 40%;
+  width: 20%;
+  height: 1px;
+  border-bottom: solid 3px #777777;
+}
+.page2_message_3_1 {
+  color: white;
+
+  background-color: #0099ff;
+  margin: 3% 7%;
+  padding: 1% 7%;
+  text-align: center;
+  border-radius: 60px;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+.page2_message_3_1_1 {
+  /* font-size: 2.2rem; */
+  font-size: 2.2rem;
+  /* display: table-cell; */
+  list-style-image: url("image/fin.png");
+  /* padding-left:15px; */
+  line-height: 10px;
+}
+
+.page2_message_3_image {
+  padding: 10px;
+  background-color: white;
+  width: 420px;
+  margin: 0 30%;
+}
+.page2_message_3_image_1 {
+  margin: 10px;
+}
+
+.page2_message_3_abusolute {
+  font-size: 1.6rem;
+  position: absolute;
+  background-color: #0099ff;
+  padding: 5% 1%;
+  color: white;
+  top: 2400px;
+  left: 13%;
+  border-radius: 20px;
+}
+
+.page2_message_3_abusolute:before {
+  border: solid transparent;
+  content: "";
+  height: 0;
+  width: 0;
+  pointer-events: none;
+  position: absolute;
+  border-color: rgba(0, 153, 255, 0);
+  border-top-width: 42px;
+  border-bottom-width: 42px;
+  border-left-width: 49px;
+  border-right-width: 49px;
+  margin-left: -49px;
+  border-bottom-color: #0099ff;
+  bottom: 100%;
+  left: 47%;
+}
+
+.page2_message_4 {
+  margin-top: 200px;
+}
+
+.page2_message_4_image {
+  margin-top: 100px;
+}
+
+.page2_message_3_abusolute_1 {
+  font-size: 1.7rem;
+}
+.page2_message_3_abusolute_2 {
+  color: red;
+}
