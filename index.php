@@ -1,4 +1,3 @@
-
 <html>
   <head>
   <meta name="viewport">
@@ -73,7 +72,7 @@
   </div>
 <!-- 以上はabsolute -->
 
-    
+
 
 
     <div class="page1_message_6">
@@ -88,19 +87,19 @@
 
         <th>
           <div class="page2_message_1">
-          <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 1.png" width="300" width="300" alt="今テレビ雑誌メディアで話題">
+          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-1.png" width="300" width="300" alt="今テレビ雑誌メディアで話題">
           </div>
         </th>
 
         <th>
           <div class="page2_message_1">
-          <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 2.png" width="300" width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
+          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-2.png" width="300" width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
           </div>
         </th>
 
         <th>
           <div class="page2_message_1">
-          <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 3.png" width="300" width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
+          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-3.png" width="300" width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
           </div>
         </th>
 
@@ -132,13 +131,13 @@
         <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
       </span>
     </div>
-    
+
     <div class="page2_message_3_title">
       <div class="page2_message_3_title_line">&nbsp;</div>
       POINT
       <div class="page2_message_3_title_line">&nbsp;</div>
     </div>
-    
+
 
     <div class="page2_message_3">
       <div class="page2_message_3_1">
@@ -189,7 +188,7 @@
       <div class="page2_message_4_2">そもそもヒト幹細胞培養液に限らず、どれだけ高級な美容液や育毛剤を<br>ただ塗っているだけでは表面で止まっているだけで奥には浸透しません。</div>
         <div class="page2_message_4_image">
           <div class="page2_message_4_image_1">
-            <span><img src="<?php echo get_template_directory_uri(); ?>/image/スクリーンショット 2021-02-10 13.55.35.png" width="600" alt="エレクトロポーションで効果・持続性がアップ!"></span>
+            <span><img src="https://hidetonishi.com/wp-content/uploads/2021/02/スクリーンショット-2021-02-10-13.55.35.png" width="600" alt="エレクトロポーションで効果・持続性がアップ!"></span>
           </div>
         </div>
 
@@ -230,25 +229,26 @@
       <div class="page3_message_title_sub">最先端の幹細胞施術による発毛促進</div>
       <div class="page3_message_1">
         <span class="page3_message_1_1">初回</span>カウンセリング&nbsp;&nbsp;  <span class="price8000">￥８,０００-</span><br>
-        
+
       </div>
 
       <div class="page3_message_2">
         <div class="page3_message_2_1">まずは<br>ご相談ください<br></div>
       </div>
-      
+
       <div class="page3_message_3__">
         <span class="page3_message_3_1"><img src="<?php echo get_template_directory_uri(); ?>/image/26526.png" width="50" class="page3_message_3_1_img">06-7410−1982</span><span class="price2980"> ￥２,９８０</span>
       </div>
 
       <!-- 以下はabsolute -->
       <div class="page3_message_3_image">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 6.png" width="100">
+      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
       </div>
       <!-- 以上はabsolute -->
 
       <div class="page3_message_3_">
-          まずは頭皮カウンセリングから始める▶
+          <p>まずは頭皮カウンセリングから始める</p>
+          <div class="tr"></div>
       </div>
 
 
@@ -306,7 +306,7 @@
     </div>
 
     <div class="page3_message_6_image">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/image-03.jpg" width="800">  
+      <img src="<?php echo get_template_directory_uri(); ?>/image/image-03.jpg" width="800">
     </div>
 
     <div class="page3_message_6">
@@ -345,7 +345,7 @@
       お客様の声
     </div>
     <div class="page4_message_1_image">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 4.png" width="600">
+      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-4.png" width="600">
     </div>
     <div class="page4_message_1_age">
       53歳 &nbsp;&nbsp;&nbsp;女性
@@ -371,7 +371,7 @@
     </div>
 
     <div class="page4_message_1_image">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 5.png" width="600">
+      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-5.png" width="600">
     </div>
     <div class="page4_message_2">
       毎朝、鏡を見てセットをするのが楽しみになっています。
@@ -460,18 +460,18 @@
 
       <!-- 以下はabsolute -->
       <div class="page6_message_image1">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 6.png" width="100">
+      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
       </div>
       <div class="page6_message_image2">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 6.png" width="100">
+      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
       </div>
       <div class="page6_message_image3">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 6.png" width="100">
+      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
       </div>
       <div class="page6_message_image4">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/アセット 6.png" width="100">
+      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
       </div>
-      <!-- 以上はabsolute -->  
+      <!-- 以上はabsolute -->
 
 
 
@@ -481,7 +481,7 @@
       <div class="page3_message_title_sub">最先端の幹細胞施術による発毛促進</div>
       <div class="page3_message_1">
         <span class="page3_message_1_1">初回</span>カウンセリング  <span class="price8000">￥８,０００-</span><br>
-        
+
       </div>
 
       <div class="page3_message_2">
@@ -493,8 +493,9 @@
       </div>
 
       <div class="page3_message_3_">
-          まずは頭皮カウンセリングから始める▶
-      </div>
+        <p>まずは頭皮カウンセリングから始める</p>
+          <div class="tr"></div>
+		</div>
     </div>
     <div class="infomation_line"></div>
     <div class="infomation">Infomation</div>
