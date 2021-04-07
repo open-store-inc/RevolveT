@@ -505,7 +505,6 @@
       <br>
       本町店の所在地
     </div>
-    
 
     <div class="infomation_map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.8817111170133!2d135.4963631152652!3d34.68293479167717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e71d62c8065b%3A0xba12c9e826b33a86!2z44CSNTQxLTAwNTMg5aSn6Ziq5bqc5aSn6Ziq5biC5Lit5aSu5Yy65pys55S677yU5LiB55uu77yU4oiS77yR77yW!5e0!3m2!1sja!2sjp!4v1613025845712!5m2!1sja!2sjp" width="900" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
