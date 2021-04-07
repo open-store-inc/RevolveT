@@ -566,11 +566,13 @@
 
 
     </div>
-	　　<footer>
-        <div class="footer-btn">
-			<div class="footer-text">まずは気軽に頭皮カウンセリングから始める</div>
+	 <a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">
+	　  　 <footer>
+		   <div class="footer-btn">
+			   <div class="footer-text">まずは気軽に頭皮カウンセリングから始める</div>
            <div class="tr2"></div>
-		  </div>
-		</footer>
+		   </div>
+		 </footer>
+	  </a>
   </body>
 </html>
