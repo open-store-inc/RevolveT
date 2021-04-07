@@ -566,5 +566,11 @@
 
 
     </div>
+	　　<footer>
+        <div class="footer-btn">
+			<div class="footer-text">まずは気軽に頭皮カウンセリングから始める</div>
+           <div class="tr2"></div>
+		  </div>
+		</footer>
   </body>
 </html>
