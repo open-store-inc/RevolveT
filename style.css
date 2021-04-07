@@ -24,7 +24,6 @@ main {
 .header_box {
   text-align: center;
   width: 100%;
-  margin-top:20px;
 }
 
 .upper_line {
@@ -105,7 +104,7 @@ main {
 .page1_message_5 {
   position: absolute;
   left: 15%;
-  top: 890px;
+  top: 1140px;
   font-size: 2.0rem;
   padding: 20px 60px;
   background-color: #0071BB;
@@ -125,7 +124,7 @@ main {
 .page1_message_image{
   position: absolute;
   left: 64%;
-  top: 620px;
+  top: 875px;
 }
 
 .page1_message_6 {
@@ -237,7 +236,7 @@ main {
   background-color: #0099ff;
   padding: 5% 1%;
   color: white;
-  top: 2500px;
+  top: 2750px;
   left: 13%;
   border-radius: 20px;
 }
@@ -315,7 +314,7 @@ main {
   background-color: #0099ff;
   padding: 5% 1%;
   color: white;
-  top: 3440px;
+  top: 3690px;
   left: 7%;
   border-radius: 20px;
   width: 95%;
@@ -669,10 +668,10 @@ main {
     font-size:7rem;
   }
   .page1_message_5{
-    top: 1000px;
+    top: 1270px;
   }
   .page1_message_image{
-    top: 740px;
+    top: 1014px;
   }
   .page1_message_6{
     margin: 10px 0 10px 20%;
@@ -684,7 +683,7 @@ main {
     margin: 0 35%;
   }
   .page2_message_3_abusolute{
-    top: 2700px;
+    top: 2950px;
     left: 23%;
   }
   .page2_message_3_abusolute:before {
@@ -696,7 +695,7 @@ main {
     background-color: #0099ff;
     padding: 5% 1%;
     color: white;
-    top: 3650px;
+    top: 3900px;
     left: 7%;
   }
 
@@ -728,7 +727,7 @@ main {
   }
   .page3_message_3_image{
     left: 73%;
-    top:4810px;
+    top:5060px;
   }
   .page5_message_1_image_box{
     margin: 0 30% 30px 30%;
@@ -739,18 +738,18 @@ main {
   }
   .page6_message_image1{
     left:16%;
-    top:12460px;
+    top:12770px;
   }
   .page6_message_image2{
     left:16%;
-    top:12670px;
+    top:12990px;
   }
   .page6_message_image3{
     left:16%;
-    top:12890px;
+    top:13200px;
   }
   .page6_message_image4{
     left:70%;
-    top:13440px;
+    top:13760px;
   }
 }
