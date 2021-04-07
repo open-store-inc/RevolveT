@@ -6,7 +6,7 @@
   <body>
   <header>
     <div class="header_box">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/headlogo.png" alt="logo"/ class="logoImage" width="500" alt="Re'volve 本町">
+      <img src="http://revolvet.local/wp-content/uploads/2021/04/Revolve-logo.png" alt="logo"/ class="logoImage" alt="Re'volve 本町">
     </div>
   </header>
   <div class="main">
@@ -131,7 +131,7 @@
         <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
       </span>
     </div>
-
+	  
     <div class="page2_message_3_title">
       <div class="page2_message_3_title_line">&nbsp;</div>
       POINT
@@ -221,6 +221,20 @@
         <iframe width="560" height="315" src="https://www.youtube.com/embed/b_aTGKeWGA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </span>
     </div>
+	 
+	 <div class="page2_message_4_6">
+        <ul>
+          <li class="page2_message_4_1_1">
+             当店の紹介動画です
+			　　</li>
+        </ul>
+    </div>
+
+	 <div class="page2_message_4_image">
+	 <div class="video">
+		 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3ife-OcREI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	 </div>
+	 </div>
 
     <div class="page3_message_box">
       <div class="page3_message_title">
@@ -338,9 +352,7 @@
     しかし医療の進歩によって「再生医療技術」が進化し、<br>
     今までになかった新しい毛髪へのアプローチが可能になりました。
     </div>
-
-
-
+		
     <div class="page4_message_1">
       お客様の声
     </div>
