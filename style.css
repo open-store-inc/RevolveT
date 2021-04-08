@@ -8,6 +8,7 @@ Author:
 @import url("css/normalize.css");
 
 body {
+  background-color: #f4f5f7;
   height: 15000px;
   width: 110vw;
   font-weight:bold;
@@ -913,11 +914,15 @@ footer:hover {
     padding: 40px 0 40px 3%;
     font-size: 2rem;
 }
+	
+.page3_message_title {
+    padding: 120px 0 20px;
+}
 
-	.google_map{
-     width: 900;
-     height: 700;
-	}
+.google_map{
+   width: 900;
+   height: 700;
+}
 
 	footer{
 	  margin: 20px 7%;
