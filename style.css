@@ -8,8 +8,6 @@ Author:
 @import url("css/normalize.css");
 
 body {
-  background-image: url("image/bodyback.png");
-  background-size: cover;
   height: 15000px;
   width: 110vw;
   font-weight:bold;
@@ -71,7 +69,7 @@ main {
 
 .page1_message_4 {
   margin: 15% 0;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: #ff00a51f;
   padding: 3%;
 }
 .page1_message_4_title {
@@ -163,7 +161,7 @@ main {
   color: red;
 }
 .page2_message_2_4 {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 .page2_message_2_5 {
   font-size: 2.8rem;
@@ -185,7 +183,7 @@ main {
   padding-bottom: 100px;
 }
 .page2_message_2_7 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 .page2_message_3_title {
@@ -448,7 +446,7 @@ main {
   font-size:2rem;
   margin: 20px 5% 30px 5%;
   padding:20px;
-  background-color: white;
+  background-color: #ff00001f;
   border-radius: 60px;
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
@@ -531,7 +529,7 @@ main {
   text-align: left;
   margin:10px 5% 100px 5%;
   padding:40px 0 40px 3%;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: #ff000005;
   font-size:1.4rem;
   height:420px;
   border-radius: 30px;
@@ -834,6 +832,19 @@ footer:hover {
     box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
   }
 	
+.page2_message_3 {
+    font-size: 2rem;
+}
+	
+	.page2_message_2_7 {
+    font-size: 2rem;
+}
+
+.page3_message_8{
+  margin: 40px 0 30px 0;
+  font-size:1.8rem;
+}
+
 	footer{
 	  margin: 20px 7%;
 	}

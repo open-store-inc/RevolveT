@@ -76,14 +76,16 @@
 
 
     <div class="page1_message_6">
-      安心してください。当サロンが重ね発見した<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最新の
+		<div class="page1_message_6_xxx">
+        安心してください。当サロンが重ね発見した
+		</div>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最新の
       <span class="page1_message_6_1">育毛発毛促進技術</span>
       が登場
     </div>
 
     <table class="page1_message_6_table">
-      <tr>
+      <tr><br>
 
         <th>
           <div class="page2_message_1">
