@@ -260,11 +260,6 @@
       </div>
       <!-- 以上はabsolute -->
 
-      <div class="page3_message_3_">
-          <p>まずは頭皮カウンセリングから始める</p>
-          <div class="tr"></div>
-      </div>
-
 
       <div class="page3_message_2_">
         初回カウンセリングの流れ
@@ -410,7 +405,7 @@
     </div>
 
     <div class="page5_message_1_image_box">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/image-04.jpg" width="540" class="page5_message_1_image">
+      <img src="<?php echo get_template_directory_uri(); ?>/image/image-04.jpg"  width="540" class="page5_message_1_image">
       <div class="page5_message_1_image_text">
         本町店オーナーの吉田です!
       </div>
@@ -504,16 +499,12 @@
         <span class="page3_message_3_1"><img src="<?php echo get_template_directory_uri(); ?>/image/26526.png" width="50" class="page3_message_3_1_img">06-7410−1982</span><span class="price2980"> ￥２,９８０</span>
       </div>
 
-      <div class="page3_message_3_">
-        <p>まずは頭皮カウンセリングから始める</p>
-          <div class="tr"></div>
-		</div>
     </div>
     <div class="infomation_line"></div>
     <div class="infomation">Infomation</div>
     <div class="infomation_line"></div>
     <div class="infomation_image">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/headlogo.png" alt="logo"/ class="logoImage" width="420">
+      <img src="http://revolvet.local/wp-content/uploads/2021/04/Revolve-logo.png" alt="logo"/ class="logoImage" width="600" height="300">
       <br>
       本町店の所在地
     </div>
@@ -523,7 +514,7 @@
     </div>
 
     <div class="infomation_message">
-      店名
+      店舗名
     </div>
 
     <span class="infomation_message_text">ヒト幹細胞サロン Re'volve本町店</span>
@@ -556,7 +547,7 @@
       定休日
     </div>
 
-    <span>無休(年末年始12/29〜1/4除く)</span>
+    <span class="infomation_message_text">  無休(年末年始12/29〜1/4除く)</span>
 
     <div class="infomation_message">
       駐車場
