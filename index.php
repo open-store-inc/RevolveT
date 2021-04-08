@@ -6,7 +6,7 @@
   <body>
   <header>
     <div class="header_box">
-      <img src="http://revolvet.local/wp-content/uploads/2021/04/Revolve-logo.png" alt="logo"/ class="logoImage" alt="Re'volve 本町">
+      <img src=https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png alt="logo"/ class="logoImage" alt="Re'volve 本町">
     </div>
   </header>
   <div class="main">
@@ -506,7 +506,7 @@
     <div class="infomation">Infomation</div>
     <div class="infomation_line"></div>
     <div class="infomation_image">
-      <img src="http://revolvet.local/wp-content/uploads/2021/04/Revolve-logo.png" alt="logo"/ class="logoImage" width="600" height="300">
+      <img src="https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png" alt="logo"/ class="logoImage" width="600" height="300">
       <br>
       本町店の所在地
     </div>
