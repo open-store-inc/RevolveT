@@ -220,21 +220,21 @@
 
     <div class="page2_message_4_image">
       <span>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/b_aTGKeWGA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/b_aTGKeWGA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
       </span>
     </div>
 	 
 	 <div class="page2_message_4_6">
         <ul>
           <li class="page2_message_4_1_1">
-             当店の紹介動画です
+             こちらで分かりやすく解説しています
 			　　</li>
         </ul>
     </div>
 
 	 <div class="page2_message_4_image">
 	 <div class="video">
-		 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3ife-OcREI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3ife-OcREI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
 	 </div>
 	 </div>
 
@@ -294,10 +294,9 @@
     </div>
 
     <div class="page3_message_5">
-    実は、薄毛で悩んでいる方で<br>
-    「
-    <span class="page3_message_5_1">自分自身の薄毛の原因</span>
-    」をわじゃっていない方は大多数いらっしゃいます!!
+       実は、薄毛で悩んでいる方で 「
+      <span class="page3_message_5_1">自分自身の薄毛の原因</span>」<br>
+       をわかっていない方は大多数いらっしゃいます!!
     </div>
 
     <div class="page3_message_5_image">
@@ -512,7 +511,7 @@
     </div>
 
     <div class="infomation_map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.8817111170133!2d135.4963631152652!3d34.68293479167717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e71d62c8065b%3A0xba12c9e826b33a86!2z44CSNTQxLTAwNTMg5aSn6Ziq5bqc5aSn6Ziq5biC5Lit5aSu5Yy65pys55S677yU5LiB55uu77yU4oiS77yR77yW!5e0!3m2!1sja!2sjp!4v1613025845712!5m2!1sja!2sjp" width="900" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.8817111170133!2d135.4963631152652!3d34.68293479167717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e71d62c8065b%3A0xba12c9e826b33a86!2z44CSNTQxLTAwNTMg5aSn6Ziq5bqc5aSn6Ziq5biC5Lit5aSu5Yy65pys55S677yU5LiB55uu77yU4oiS77yR77yW!5e0!3m2!1sja!2sjp!4v1613025845712!5m2!1sja!2sjp" width="900" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" class="google_map"></iframe>
     </div>
 
     <div class="infomation_message">
