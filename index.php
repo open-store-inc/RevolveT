@@ -2,7 +2,7 @@
   <head>
   <meta name="viewport">
     <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" />
-  </had>
+  </head>
   <body>
   <header>
     <div class="header_box">
@@ -207,9 +207,15 @@
         </div>
       <!-- 以上はabsolute -->
     </div>
+		  
+<!-- 	 <div class="eye_catch">
+		 <p>
+			 業界激震
+		 </p>
+	 </div> -->
 
 
-    <div class="page2_message_4">
+    <div class="page2_message_10">
       <div class="page2_message_4_5">
         <ul>
           <li class="page2_message_4_1_1">
