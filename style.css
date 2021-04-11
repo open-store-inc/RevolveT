@@ -211,7 +211,6 @@ main {
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 .page2_message_3_1_1 {
-  /* font-size: 2.2rem; */
   font-size: 2.2rem;
   /* display: table-cell; */
   list-style-image: url("image/fin.png");
@@ -766,9 +765,7 @@ footer:hover {
   .page1_message_6{
     margin: 10px 0 100px 20%;
   }
-  .page2_message_3_1_1{
-    font-size:3.0rem;
-  }
+
   .page2_message_3_image{
     margin: 0 35%;
   }
@@ -850,7 +847,7 @@ footer:hover {
 
 
 @media screen  and (max-width: 999px ) {
-
+	
 	.page1_message_2 {
      margin: 0 10px 0 50px;
   }

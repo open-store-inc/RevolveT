@@ -77,7 +77,7 @@
 
     <div class="page1_message_6">
 		<div class="page1_message_6_xxx">
-        安心してください。当サロンが重ね発見した
+        安心してください。当サロンが研究を重ね発見した
 		</div>
       <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最新の
       <span class="page1_message_6_1">育毛発毛促進技術</span>
@@ -145,7 +145,7 @@
       <div class="page2_message_3_1">
         <ul>
           <li class="page2_message_3_1_1">
-              薬に依存しないLED照射で細胞事態を活性化!
+              薬に依存しないLED照射で細胞自体を活性化!
           </li>
         <ul>
 
@@ -248,10 +248,10 @@
       <div class="page3_message_title">
         <span>ホームページを見た方限定</span>
       </div>
+		
       <div class="page3_message_title_sub">最先端の幹細胞施術による発毛促進</div>
       <div class="page3_message_1">
         <span class="page3_message_1_1">初回</span>カウンセリング&nbsp;&nbsp;  <span class="price8000">￥８,０００-</span><br>
-
       </div>
 
       <div class="page3_message_2">
@@ -264,7 +264,7 @@
 
       <!-- 以下はabsolute -->
       <div class="page3_message_3_image">
-      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
+      　　　　<img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
       </div>
       <!-- 以上はabsolute -->
 
@@ -332,78 +332,78 @@
 
     <div class="page3_message_4">
       <div class="page3_message_4_1">
-      毛母細胞が弱ると<br>
-        </div>
+      　毛母細胞が弱ると<br>
+      </div>
       <div class="page3_message_4_2">
-      薬や従来の施術では難しい...?
-        </div>
+     　　　　 薬や従来の施術では難しい...?
+      </div>
     </div>
 
 
 
-    <div class="page3_message_8">
-    毛髪細胞が髪の毛を生成する機能が残っていれば、<br>
-    若々しい髪の毛に戻すために従来通りのアプローチでも有効な場合があります。<br>
-    しかし、毛髪細胞がある一定の水準まで弱ってしまったり、<br>
-    そもそも細胞が死んでしまっていると二度と元の状態に戻すことはできません。<br>
+    　　<div class="page3_message_8">
+			毛髪細胞が髪の毛を生成する機能が残っていれば、<br>
+			若々しい髪の毛に戻すために従来通りのアプローチでも有効な場合があります。<br>
+			しかし、毛髪細胞がある一定の水準まで弱ってしまったり、<br>
+			そもそも細胞が死んでしまっていると二度と元の状態に戻すことはできません。<br>
 
-    <div class="page3_message_8_1">つまり毛髪細胞が「手遅れ状態」に陥ってしまった方は泣き寝入りするしかなかったのです...</div>
-    </div>
+    		<div class="page3_message_8_1">つまり毛髪細胞が「手遅れ状態」に陥ってしまった方は泣き寝入りするしかなかったのです...</div>
+    	</div>
 
-    <div class="page3_message_9">
-    しかし医療の進歩によって「再生医療技術」が進化し、<br>
-    今までになかった新しい毛髪へのアプローチが可能になりました。
-    </div>
+   	　　<div class="page3_message_9">
+			しかし医療の進歩によって「再生医療技術」が進化し、<br>
+			今までになかった新しい毛髪へのアプローチが可能になりました。
+    　　　</div>
 		
-    <div class="page4_message_1">
-      お客様の声
-    </div>
-    <div class="page4_message_1_image">
-      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-4.png" width="600">
-    </div>
-    <div class="page4_message_1_age">
-      53歳 &nbsp;&nbsp;&nbsp;女性
-    </div>
+		<div class="page4_message_1">
+		  お客様の声
+		</div>
+		<div class="page4_message_1_image">
+		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-4.png" width="600">
+		</div>
+		<div class="page4_message_1_age">
+		  53歳 &nbsp;&nbsp;&nbsp;女性
+		</div>
 
-    <div class="page4_message_2">
-      カウンセリングで悩みの原因や、<br>
-      どうしたら髪の毛が生えてくるのかを丁寧におしえていただきました!
-    </div>
-    <div class="page4_message_3">
-    ボリュームが気になり、いつしか分け目をどう隠そうかと気になっていたところ、<br>
-    Re’volveさんのホームページを見つけて カウンセリングをお願いしました。<br><br>
-    最初はかなり不安だったのですが、カウンセリングで悩みの原因や、<br>
-    どうしたら髪の毛が生えてくるのかを丁寧に教えて頂いたおかげで 不安が和らぎ、<br>
-    自分がどう変わっていくのか今後が楽しみになりました。<br><br>
-    発毛施術を受けるにあたって私の場合は、<br>
-    １ヶ月半を過ぎたところで普段の抜け毛が減ったのを実感しました。<br><br>
-    それから半年後の今では、気になっていた分け目を隠さなくてもよくなるなんて、<br>
-    当時は想像もしていませんでした。<br><br>
-    おかげさまで、人の目を気にせず毎日を送ることが出来ています。<br><br>
-    最初は不安でしたが、先生の応援もあって続ける事が出来ました。<br>
-    ありがとうございました。
-    </div>
+		<div class="page4_message_2">
+		  カウンセリングで悩みの原因や、<br>
+		  どうしたら髪の毛が生えてくるのかを丁寧におしえていただきました!
+		</div>
+		<div class="page4_message_3">
+			ボリュームが気になり、いつしか分け目をどう隠そうかと気になっていたところ、<br>
+			Re’volveさんのホームページを見つけて カウンセリングをお願いしました。<br><br>
+			最初はかなり不安だったのですが、カウンセリングで悩みの原因や、<br>
+			どうしたら髪の毛が生えてくるのかを丁寧に教えて頂いたおかげで 不安が和らぎ、<br>
+			自分がどう変わっていくのか今後が楽しみになりました。<br><br>
+			発毛施術を受けるにあたって私の場合は、<br>
+			１ヶ月半を過ぎたところで普段の抜け毛が減ったのを実感しました。<br><br>
+			それから半年後の今では、気になっていた分け目を隠さなくてもよくなるなんて、<br>
+			当時は想像もしていませんでした。<br><br>
+			おかげさまで、人の目を気にせず毎日を送ることが出来ています。<br><br>
+			最初は不安でしたが、先生の応援もあって続ける事が出来ました。<br>
+			ありがとうございました。
+		</div>
 
-    <div class="page4_message_1_image">
-      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-5.png" width="600">
-    </div>
-    <div class="page4_message_2">
-      毎朝、鏡を見てセットをするのが楽しみになっています。
-    </div>
-    <div class="page4_message_1_age">
-      61歳 &nbsp;&nbsp;&nbsp;女性
-    </div>
-    <div class="page4_message_3"><br><br>
-    今まではパーマをあてるとボリュームが出ていましたが、ここ最近はパーマを<br>
-    あてても満足いくようなボリュームがなく、髪の毛が痩せ細ってきたような気がします。<br><br>
-    歳なので仕方ないかなと思いつつも、若々しくいたいなという気持ちがあり、<br>
-    勇気を出してカウセリングを申し込みました。<br><br>
-    一つ一つ丁寧で分かりやすい説明でしたので、諦めずに挑戦してみようと思えました。<br><br>
-    施術を受けて3ヶ月経過した頃から、<br>
-    気になっていた分け目の辺りに少し毛が生えてきました。<br><br>
-    ぺたんこでパーマをあてないと嫌だったのに もう、あてなくても良くなりそうな気がして<br>
-    今では、毎朝、鏡を見てセットをするのが楽しみになっています。<br>
-    </div>
+		<div class="page4_message_1_image">
+		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-5.png" width="600">
+		</div>
+		<div class="page4_message_2">
+		  毎朝、鏡を見てセットをするのが楽しみになっています。
+		</div>
+		<div class="page4_message_1_age">
+		  61歳 &nbsp;&nbsp;&nbsp;女性
+		</div>
+		<div class="page4_message_3"><br><br>
+			今まではパーマをあてるとボリュームが出ていましたが、ここ最近はパーマを<br>
+			あてても満足いくようなボリュームがなく、髪の毛が痩せ細ってきたような気がします。<br><br>
+			歳なので仕方ないかなと思いつつも、若々しくいたいなという気持ちがあり、<br>
+			勇気を出してカウセリングを申し込みました。<br><br>
+			一つ一つ丁寧で分かりやすい説明でしたので、諦めずに挑戦してみようと思えました。<br><br>
+			施術を受けて3ヶ月経過した頃から、<br>
+			気になっていた分け目の辺りに少し毛が生えてきました。<br><br>
+			ぺたんこでパーマをあてないと嫌だったのに もう、あてなくても良くなりそうな気がして<br>
+			今では、毎朝、鏡を見てセットをするのが楽しみになっています。<br>
+		</div>
 
 
     <div class="page4_message_2">
