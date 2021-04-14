@@ -129,7 +129,7 @@
     <div class="page2_message_3">
       <sapn>
       <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが当施術院は<br><span class="page2_message_2_6"><br></span>
-        脂肪由来幹細胞培養液と比較した場合再生因子は<span>264倍も高い濃度で含有しています。</span><br>
+		  脂肪由来幹細胞培養液と比較した場合再生因子は<span><span class="page2_message_2_3">264倍</span>も高い濃度で含有しています。</span><br>
         <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
       </span>
     </div>
