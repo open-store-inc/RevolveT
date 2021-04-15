@@ -23,10 +23,10 @@
 
     <div class="page1_message_4">
       <div class="page1_message_4_title">
-      <div class="page1_message_4_title_1">
-          <img src="<?php echo get_template_directory_uri(); ?>/image/45312.png" width="40" alt="こんな髪の悩みはありませんか？">
-          こんな髪の悩みはありませんか？
-        </div>
+         <div class="page1_message_4_title_1">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/45312.png" width="40" alt="こんな髪の悩みはありませんか？">
+             こんな髪の悩みはありませんか？
+         </div>
       </div>
       <ol>
         <li class="page1_message_4_title_li">
@@ -60,17 +60,16 @@
           </span>
         </li>
       </ol>
-    </div>
-
 <!-- 以下はabsolute -->
-  <div class="page1_message_5">
-    このようなお悩みをお持ちの方
-  </div>
+		  <div class="page1_message_5">
+			このようなお悩みをお持ちの方
+		  </div>
 
-  <div class="page1_message_image">
-  <img src="<?php echo get_template_directory_uri(); ?>/image/2021_0212.png" width="450">
-  </div>
+		  <div class="page1_message_image">
+		  <img src="<?php echo get_template_directory_uri(); ?>/image/2021_0212.png" width="450">
+		  </div>
 <!-- 以上はabsolute -->
+	  </div>
 
 
 
@@ -148,17 +147,9 @@
               薬に依存しないLED照射で細胞自体を活性化!
           </li>
         <ul>
-
-
-        <!-- <div class="page2_message_3_1_1">
-          <img src="<?php echo get_template_directory_uri(); ?>/image/17440.png" width="40">
-        </div>
-        <div class="page2_message_3_1_2">
-          薬に依存しないLED照射で細胞事態を活性化!
-        </div> -->
       </div>
       <div class="page2_message_3_image">
-      <div class="page2_message_3_image_1"><img src="<?php echo get_template_directory_uri(); ?>/image/LED.jpg" width="400" alt="LED照射"></div>
+        <div class="page2_message_3_image_1"><img src="<?php echo get_template_directory_uri(); ?>/image/LED.jpg" width="400" alt="LED照射"></div>
       </div>
 
       <!-- 以下はabsolute -->
@@ -181,7 +172,7 @@
       <div class="page2_message_4_1">
         <ul>
           <li class="page2_message_4_1_1">
-            イオン導入の約60倍のエレクトロポーションで効果・持続性がアップ!
+            イオン導入の約60倍のエレクトロポーションで効果・持続性がアップ !
           </li>
         </ul>
       </div>
@@ -565,7 +556,7 @@
 
     </div>
 	 <a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">
-	　  　 <footer>
+	　  　<footer>
 		   <div class="footer-btn">
 			   <div class="footer-text">まずは気軽に頭皮カウンセリングから始める</div>
            <div class="tr2"></div>
