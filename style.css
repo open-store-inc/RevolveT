@@ -874,10 +874,6 @@ footer:hover {
 
 @media screen  and (max-width: 999px ) {
 	
-  .page1_message_5 {
-    top: 1400px;
-  }
-	
 	.page1_message_image {
      display:none;
    }
@@ -895,7 +891,7 @@ footer:hover {
 	.page2_message_3_abusolute {
 	   font-size: 2.5rem;
 	   line-height: 1.3em;
-		top: 3610px;
+		top: 650px;
 	}
 
 	.page2_message_3_abusolute_1 {
@@ -914,7 +910,7 @@ footer:hover {
 	.page2_message_4_abusolute {
 		font-size: 2.5rem;
 		line-height: 1.5em;
-		top: 5050px;
+		top: 740px;
 	}
 	
 	.page2_message_3_1_1 {
@@ -937,7 +933,7 @@ footer:hover {
 	}
 
 	.page3_message_3_image {
-		top: 8735px;
+		top: 400px;
 	}
 
 	.page3_message_8{
@@ -996,19 +992,19 @@ footer:hover {
 	}
 
 	.page6_message_image1 {
-		top: 18040px;
+
 	}
 
 	.page6_message_image2 {
-		top: 18250px;
+		
 	}
 
 	.page6_message_image3 {
-		top: 18460px;
+	
 	}
 
 	.page6_message_image4 {
-		 top: 19200px;
+		 top: 1470px;
 	}
 
 	.infomation_map {
