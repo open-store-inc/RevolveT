@@ -162,7 +162,7 @@ main {
 .page1_message_5 {
   position: absolute;
   left: 15%;
-  top: 1140px;
+  top: 390px;
   font-size: 2.0rem;
   padding: 20px 60px;
   background-color: #0071BB;
@@ -182,7 +182,7 @@ main {
 .page1_message_image{
   position: absolute;
   left: 64%;
-  top: 875px;
+  top: 123px;
 }
 
 .page1_message_6 {
@@ -243,6 +243,7 @@ main {
   text-align: center;
   font-size: 1.5rem;
   padding-bottom: 100px;
+	position: relative;
 }
 .page2_message_2_7 {
   font-size: 1.3rem;
@@ -295,7 +296,7 @@ main {
   background-color: #0099ff;
   padding: 5% 1%;
   color: white;
-  top: 2750px;
+  top: 570px;
   left: 13%;
   border-radius: 20px;
 }
@@ -321,6 +322,7 @@ main {
 .page2_message_4 {
   margin: 350px 0 200px 0;
   text-align: center;
+	position: relative;
 }
 
 .page2_message_10{
@@ -376,7 +378,7 @@ main {
   background-color: #0099ff;
   padding: 5% 1%;
   color: white;
-  top: 3690px;
+  top: 640px;
   border-radius: 20px;
   width: 95%;
 }
@@ -418,6 +420,7 @@ main {
   background-color: rgba(255, 255, 255, 0.7);
   border-radius: 20px;
   padding:10px 0 40px 0;
+	position: relative;
 }
 
 .page3_message_title {
@@ -464,8 +467,8 @@ main {
 
 .page3_message_3_image{
   position: absolute;
-  left: 75%;
-  top:4510px;
+  left: 65%;
+  top: 260px;
 }
 
 .page3_message_3_{
@@ -633,22 +636,22 @@ main {
 .page6_message_image1{
   position: absolute;
   left:13%;
-  top:11800px;
+  top:300px;
 }
 .page6_message_image2{
   position: absolute;
   left:13%;
-  top:12020px;
+  top:510px;
 }
 .page6_message_image3{
   position: absolute;
   left:13%;
-  top:12230px;
+  top: 720px;
 }
 .page6_message_image4{
   position: absolute;
   left:75%;
-  top:12790px;
+  top: 1320px;
 }
 
 
@@ -773,28 +776,6 @@ footer:hover {
 
 @media screen  and (min-width: 1000px) {
 
-  .page3_message_3_image{
-    top: 4530px;
-  }
-
-
-  .page6_message_image1{
-
-    top: 11830px;
-  }
-  .page6_message_image2{
-
-    top: 12040px;
-  }
-  .page6_message_image3{
-
-    top: 12250px;
-  }
-  .page6_message_image4{
-
-    top: 12810px;
-  }
-
   .page2_message_4_6{
     margin: 3% 20%;
 	}  
@@ -814,12 +795,7 @@ footer:hover {
   .page1_message_2_1 {
     font-size:7rem;
   }
-  .page1_message_5{
-    top: 1550px;
-  }
-  .page1_message_image{
-     top: 1286px;
-  }
+
   .page1_message_6{
     margin: 10px 0 100px 20%;
   }
@@ -828,7 +804,6 @@ footer:hover {
     margin: 0 35%;
   }
   .page2_message_3_abusolute{
-    top: 570px;
     left: 21%;
   }
   .page2_message_3_abusolute:before {
@@ -836,7 +811,6 @@ footer:hover {
   }
   .page2_message_4_abusolute {
     font-size: 1.6rem;
-    top: 4670px;
     padding: 5% 1%;
     left: 2%;
   }
@@ -870,8 +844,7 @@ footer:hover {
     margin: 40px 29%;
   }
   .page3_message_3_image{
-    left: 68%;
-    top: 6500px;
+    left: 65%;
   }
   .page5_message_1_image_box{
     margin: 0 30% 30px 30%;
@@ -882,19 +855,15 @@ footer:hover {
   }
   .page6_message_image1{
     left:16%;
-    top: 14550px;
   }
   .page6_message_image2{
     left:16%;
-    top: 14760px;
   }
   .page6_message_image3{
     left:16%;
-    top: 14980px;
   }
   .page6_message_image4{
     left:70%;
-    top: 15580px;
   }
 }
 
