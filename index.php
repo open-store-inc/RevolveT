@@ -143,10 +143,10 @@
     <div class="page2_message_3">
       <div class="page2_message_3_1">
         <ul>
-          <li class="page2_message_3_1_1">
+          <li class= "page2_message_3_1_1  point-title">
               薬に依存しないLED照射で細胞自体を活性化!
           </li>
-        <ul>
+		  </ul>
       </div>
       <div class="page2_message_3_image">
         <div class="page2_message_3_image_1"><img src="<?php echo get_template_directory_uri(); ?>/image/LED.jpg" width="400" alt="LED照射"></div>
@@ -171,7 +171,7 @@
     <div class="page2_message_4">
       <div class="page2_message_4_1">
         <ul>
-          <li class="page2_message_4_1_1">
+          <li class="point-title">
             イオン導入の約60倍のエレクトロポーションで効果・持続性がアップ !
           </li>
         </ul>
@@ -209,7 +209,7 @@
     <div class="page2_message_10">
       <div class="page2_message_4_5">
         <ul>
-          <li class="page2_message_4_1_1">
+          <li class="point-title">
             当店がTV取材を受けました
           </li>
         </ul>
@@ -223,7 +223,7 @@
 	 
 	 <div class="page2_message_4_6">
         <ul>
-          <li class="page2_message_4_1_1">
+          <li class="point-title">
              こちらで分かりやすく解説しています
 			　　</li>
         </ul>
