@@ -11,9 +11,6 @@ Author:
 /* ここからfrontページ用CSS */
 
 
-header {
-}
-
 .front-header_box {
 	 position: fixed;
     z-index: 999;
@@ -66,16 +63,13 @@ header {
 
 body {
   background-color: #f4f5f7;
-  height: 15000px;
   width: 100%;
   font-weight:bold;
 }
 ol {
   list-style-type: none;
 }
-main {
-  width: 100%;
-}
+
 
 .header_box {
   text-align: center;
@@ -124,7 +118,11 @@ main {
 .page1_message_2_2{
   font-weight:bold;
   line-height:4rem;
-  float: left;
+}
+
+.page1_message_2_2_1{
+  font-weight:bold;
+  line-height:4rem;
 }
 
 .page1_message_4 {
@@ -146,17 +144,16 @@ main {
 }
 .page1_message_4_title_1_1 {
   font-weight:bold;
-  font-size: 1.8rem;
   margin: 5px;
 }
 .page1_message_4_title_1_2 {
   font-weight:bold;
-  font-size: 1.8rem;
   margin: 5px;
   color:red;
 }
 .page1_message_4_title_li {
   margin: 20px 0;
+  font-size: 1.8rem;
 }
 
 .page1_message_5 {
@@ -187,14 +184,20 @@ main {
 
 .page1_message_6 {
   font-size: 2rem;
-  margin: 10px 0 100px 15%;
+  margin: 10px 0 100px;
   font-weight: bold;
+  text-align: center;
 }
+
+.page1_message_6_yyy {
+	padding-left: 10px;
+}
+
 .page1_message_6_1 {
   color: red;
   font-size: 2.8rem;
-  -webkit-text-emphasis: filled circle #BF2D32;
-  text-emphasis: filled circle #BF2D32;
+/*   -webkit-text-emphasis: filled circle #BF2D32;
+  text-emphasis: filled circle #BF2D32; */
 }
 
 .page1_message_6_table {
@@ -227,12 +230,6 @@ main {
 .page2_message_2_5 {
   font-size: 2.8rem;
 	color: red;
-/*   text-decoration : underline;
-  text-decoration-color:white;
-  text-decoration-thickness: 20px;
-  text-decoration-skip-ink: none;
-  text-underline-offset: -25px;
- */
 }
 .page2_message_2_6 {
   font-size: 1rem;
@@ -279,7 +276,7 @@ main {
 }
 
 .page2_message_3_1_1 {
-	transform: translateY(-65px);
+	transform: translateY(-40px);
 }
 
 .page2_message_3_image {
@@ -336,12 +333,23 @@ main {
     
 
 .page2_message_4_image {
-  margin-top: 60px;
-  padding: 10px;
-  background-color: white;
-  margin: 40px 20%;
-  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin-top: 60px;
+    padding: 10px;
+    background-color: white;
+    margin: 40px auto;
+    box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
+    width: 610px;
 }
+
+.page2_message_4_iframe {
+    margin-top: 60px;
+    width: 570px;
+    padding: 10px;
+    background-color: white;
+    margin: 40px auto;
+    box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
+}
+
 .page2_message_4_image_1 {
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
@@ -429,7 +437,7 @@ main {
 
 .page3_message_title_sub {
   margin: 30px 20%;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   background-color: #0071BB;
   color: white;
   border-radius: 10px;
@@ -776,33 +784,24 @@ footer:hover {
 
 
 @media screen and (max-width: 1200px) {
-  body {
-    height: 15800px;
-  }
+	
   .page1_message_2_2{
     font-size:3.5rem;
   }
   .page1_message_2_1 {
-    font-size:7rem;
   }
 
   .page1_message_6{
-    margin: 10px 0 100px 20%;
   }
 
-  .page2_message_3_image{
+/*   .page2_message_3_image{
     margin: 0 35%;
-  }
+  } */
   .page2_message_3_abusolute{
-    left: 21%;
   }
   .page2_message_3_abusolute:before {
-    left: 50%;
   }
   .page2_message_4_abusolute {
-    font-size: 1.6rem;
-    padding: 5% 1%;
-    left: 2%;
   }
 	
 
@@ -829,17 +828,15 @@ footer:hover {
   }
 	
   .page2_message_4_image{
-    margin: 40px 29%;
   }
+	
   .page3_message_3_image{
     left: 65%;
   }
-  .page5_message_1_image_box{
+/*   .page5_message_1_image_box{
     margin: 0 30% 30px 30%;
-  }
+  } */
   .page4_message_3{
-    font-size:1.8rem;
-    height: 540px;
   }
   .page6_message_image1{
     left:16%;
@@ -881,31 +878,141 @@ footer:hover {
 
 
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 767px){
+	
+	.image {
+	  width: 100%;
+	}
+	
+	.inline_img {
+		width: 20px;
+	}
+	
+	.iframe {
+     width: 100%;
+	}
+	
+	.google_map {
+		width: 100%;
+	}
+	
+	.page1_message_1 {
+    font-size: 1.2rem;
+    margin: 5%;
+}
 	
 	.page1_message_image {
      display:none;
    }
 
 	.page1_message_image {
-		position: absolute;
 		left: 64%;
 		top: 1200px;
 	}
+	
+   .page1_message_2 {
+    text-align: center;
+    float: none;
+  }
+	
+	.page1_message_2_1 {
+    font-size: 3rem;
+    text-shadow: none;
+    text-decoration: none;
+	padding-left: 40%;
+}
+	
+	.page1_message_2_2 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+	
+	.page1_message_2_2_1 {
+    font-size: 1.5rem;
+  }
+	
+	.page1_message_4_title_1 {
+    font-size: 1.2rem;
+}
+	
+	.page1_message_4_title_li {
+    font-size: 1.2rem;
+}
+	
+	.page1_message_5 {
+    font-size: 1.2rem;
+	 left: 0%;
+	 text-align: center;
+	 top: 440px;
+}
+	
+	.page1_message_5:before {
+    left: 50%;
+	}
+	
+	.page1_message_6 {
+    font-size: 1.5rem;
+	 margin: 150px 5% 100px;
+}
+	
+	.page1_message_6_1 {
+    font-size: 1.6rem;
+}
+	
+	.page2_message_2 {
+    font-size: 1.2rem;
+}
+	
+	.page2_message_2_2 {
+    font-size: 1.2rem;
+  }
+	
+	.page2_message_2_4 {
+    font-size: 1.2rem;
+}
+	
+	.page2_message_2_5 {
+    font-size: 1.5rem;
+}
+	
+	 .page2_message_2_7 {
+	   font-size: 1.2rem;
+	}
+	
+	.page2_message_3_title {
+    font-size: 2rem;
+}
 
+	.page2_message_3_title_line {
+    margin: 10px auto;
+    width: 70%;
+}
+	
 	.page2_message_3 {
-		font-size: 2rem;
+		font-size: 1.2rem;
+	}
+	
+	.page2_message_3_1 {
+    margin: 3% 7%;
+    padding: 2% 3%;
+}
+	
+	
+	
+	.page2_message_3_image {
+		width: 80%;
 	}
 
 	.page2_message_3_abusolute {
-	   font-size: 2.5rem;
 	   line-height: 1.3em;
 		top: 650px;
+		width: 90%;
+		font-size: 1.2rem;
 	}
 
 	.page2_message_3_abusolute_1 {
-		font-size: 2.5rem;
 		line-height: 1.3em;
+		font-size: 1.2rem;
 	}
 
 	.page2_message_4 {
@@ -917,24 +1024,28 @@ footer:hover {
 	}
 
 	.page2_message_4_abusolute {
-		font-size: 2.5rem;
+		font-size: 1.2rem;
 		line-height: 1.5em;
 		top: 740px;
 	}
-
 	
 	.point-title {
-		 line-height: 60px;
-		transform: translateY(0px);
-	}
-
+    line-height: 30px;
+    transform: translateY(-50px);
+	 font-size: 1.2rem;
+}
+	
+	
+.page2_message_4_2 {
+    font-size: 1.2rem;
+}
 	.page2_message_4_5 {
 		margin: 3% 20%;
 	}
-
-		.page2_message_2_7 {
-		font-size: 2rem;
-	}
+	
+	.page3_message_title {
+    font-size: 1.5rem;
+}
 
 	.page3_message_3_image {
 		top: 400px;
@@ -942,8 +1053,9 @@ footer:hover {
 
 	.page3_message_8{
 	  margin: 40px 0 30px 0;
-	  font-size:1.8rem;
+	  font-size: 1rem;
 	}
+	
 		.page2_message_4_6 {
 		margin: 3% 3%;
 	}
@@ -952,76 +1064,141 @@ footer:hover {
 	.page2_message_4_6 {
 	   margin: 8% 7% 4%;
 	}
+	
+	.page3_message_1 {
+    font-size: 1.5rem;
+  }
 
+	.page3_message_1_1 {
+    font-size: 1.5rem;
+  }
+	
+	.page3_message_2 {
+    font-size: 1.5rem;
+}
+	
 	.page3_message_5 {
-		font-size: 2rem;
+		font-size: 1rem;
 	}
 
 	.page2_message_4_image {
-		margin-top: 60px;
-		margin: 40px 90px;
+     width: 90%;
 	}
-
-	.iframe {
-		width: 850;
-		height: 600;
-	}
+	
+	.page2_message_4_iframe {
+    width: 90%;
+}
 
 	.page3_message_6 {
-		font-size: 1.9rem;
+		font-size: 1rem;
 	}
+	
+	.page3_message_6_title {
+    font-size: 1.2rem;
+}
 
 	.page3_message_title_sub {
 		margin: 30px 10%;
-		font-size: 2.5rem;
+		font-size: 1.5rem;
 	}
 
 	.page3_message_box {
 		margin: 300px 5% 170px 5%;
 	}
+	
+	.page3_message_2_ {
+    font-size: 1.2rem;
+}
 
 	.page3_message_3 {
-		font-size: 2rem;
+		font-size: 1rem;
 		margin: 20px 5% 30px 5%;
 	}
+	
+	.page3_message_3__ {
+     font-size: 1.5rem;
+   }
 
 	.page4_message_3 {
+		font-size: 1rem;
 		margin: 30px 5% 100px 5%;
 		padding: 40px 0 40px 3%;
-		font-size: 2rem;
 	}
+	
+	.page3_message_4 {
+    font-size: 1.2rem;
+	}
+	
+	.page3_message_9 {
+    font-size: 1rem;
+}
 
 	.page3_message_title {
 		padding: 120px 0 20px;
 	}
-
-	.page6_message_image1 {
-
-	}
-
-	.page6_message_image2 {
-		
-	}
-
-	.page6_message_image3 {
 	
+	.page4_message_1_age {
+    font-size: 1.2rem;
+}
+	
+	.page4_message_1 {
+    font-size: 1.2rem;
+    margin: 20px 15%;
+}
+	
+	.page4_message_2 {
+    font-size: 1rem;
+}
+	
+	.page5_message_1_image_box {
+    width: 80%;
+    height: 260px;
 	}
+	
+	.page5_message_1_image_text {
+    font-size: 1.2rem;
+}
+	
+	.page6_message_1 {
+    font-size: 1rem;
+}
 
 	.page6_message_image4 {
 		 top: 1470px;
 	}
 
+	.No {
+    font-size: 1.2rem;
+}
+	
+	.infomation_image {
+    font-size: 1.5rem;
+}
+	
 	.infomation_map {
 	  margin: 20px 0 100px;
 	}
-
-  .google_map {
-	   width: 900;
-	   height: 700;
-	}
+	
+	.infomation_line {
+    width: 80%;
+    margin: 0 auto;
+}
+	
+	.infomation {
+    font-size: 2rem;
+}
+	
+	.infomation_message {
+    font-size: 1.5rem;
+  }
+	
+	.infomation_message_text {
+    font-size: 1.4rem;
+  }
 
 	footer{
 	  margin: 20px 7%;
+		font-size: 1rem;
 	}
 	
 	.footer-text{

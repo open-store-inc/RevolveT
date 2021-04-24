@@ -1,49 +1,56 @@
 <html>
+	
   <head>
-  <meta name="viewport">
-    <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" />
   </head>
+	
   <body>
-  <header>
-    <div class="header_box">
-      <img src=https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png alt="logo"/ class="logoImage" alt="Re'volve 本町">
-    </div>
-  </header>
-  <div class="main">
-    <div class="upper_line"></div>
-    <div class="page1_message_1">
-      <span>女性のための発育技術<br>自慢できる美しい髪で明るい生活を楽しめる</span>
-    </div>
-    <div class="under_line"></div>
+	  <header>
+			<div class="header_box">
+			   <img src=https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png alt="logo"/ class="image" alt="Re'volve 本町">
+			</div>
+	  </header>
+	  
+	  <div class="main">
+        <div class="upper_line"></div>
+        <div class="page1_message_1">
+			  <span>女性のための発育技術<br>自慢できる美しい髪で明るい生活を楽しめる</span>
+		  </div>
+		  <div class="under_line"></div>
 
-    <div class="page1_message_2">
-      <span class="page1_message_2_2">医師が推奨する技術を<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使って顧客満足度</span>
-    </div>
-    <span class="page1_message_2_1">98.8%</span>
+		  <div class="page1_message_2">
+		    <span class="page1_message_2_2">医師が推奨する技術を</span>
+			  <br>
+			 <span class="page1_message_2_2_1">使って顧客満足度</span>
+		  </div>
+		  
+		  <span class="page1_message_2_1">98.8%</span>
 
-    <div class="page1_message_4">
-      <div class="page1_message_4_title">
-         <div class="page1_message_4_title_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/45312.png" width="40" alt="こんな髪の悩みはありませんか？">
-             こんな髪の悩みはありませんか？
-         </div>
-      </div>
+			<div class="page1_message_4">
+			  <div class="page1_message_4_title">
+				 <div class="page1_message_4_title_1">
+					<img src="<?php echo get_template_directory_uri(); ?>/image/45312.png" width="40" alt="こんな髪の悩みはありませんか？" class="inline_img">
+					 こんな髪の悩みはありませんか？
+				 </div>
+			  </div>
+			
       <ol>
         <li class="page1_message_4_title_li">
           <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="薄毛をなんとかごまかそうと髪型に苦心している">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="薄毛をなんとかごまかそうと髪型に苦心している" class="inline_img">
             薄毛をなんとかごまかそうと髪型に苦心している
           </span>
         </li>
         <li class="page1_message_4_title_li">
           <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="明るい所や日が当たる場所で、頭髪がみえてしまう...">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="明るい所や日が当たる場所で、頭髪がみえてしまう..." class="inline_img">
             明るい所や日が当たる場所で、頭髪がみえてしまう...
           </span>
         </li>
         <li class="page1_message_4_title_li">
         <span class="page1_message_4_title_1_2">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="髪が薄くなってきたことにより自信がなくなってた">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="髪が薄くなってきたことにより自信がなくなってた" class="inline_img">
             髪が薄くなってきたことにより自信がなくなってた
           </span>
         </li>
@@ -76,34 +83,35 @@
 
     <div class="page1_message_6">
 		<div class="page1_message_6_xxx">
-        安心してください。当サロンが研究を重ね発見した
+         安心してください。当サロンが研究を重ね発見した
 		</div>
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最新の
-      <span class="page1_message_6_1">育毛発毛促進技術</span>
-      が登場
+      <br>
+		<div class="page1_message_6_yyy">
+			最新の
+        <span class="page1_message_6_1">育毛発毛促進技術</span>
+         が登場
+		</div>
     </div>
-
+　
     <table class="page1_message_6_table">
       <tr><br>
-
-        <th>
+		  <th>
           <div class="page2_message_1">
-          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-1.png" width="300" width="300" alt="今テレビ雑誌メディアで話題">
+             <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-1.png" class="image" width="300" width="300" alt="今テレビ雑誌メディアで話題">
           </div>
         </th>
 
         <th>
           <div class="page2_message_1">
-          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-2.png" width="300" width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
+          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-2.png" class="image" width="300" width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
           </div>
         </th>
 
         <th>
           <div class="page2_message_1">
-          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-3.png" width="300" width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
+          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-3.png" class="image" width="300" width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
           </div>
         </th>
-
       </tr>
     </table>
 
@@ -126,7 +134,7 @@
 
 
     <div class="page2_message_3">
-      <sapn>
+      <span>
       <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが当施術院は<br><span class="page2_message_2_6"><br></span>
 		  脂肪由来幹細胞培養液と比較した場合再生因子は<span><span class="page2_message_2_3">264倍</span>も高い濃度で含有しています。</span><br>
         <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
@@ -143,15 +151,16 @@
     <div class="page2_message_3">
       <div class="page2_message_3_1">
         <ul>
-          <li class= "page2_message_3_1_1  point-title">
-              薬に依存しないLED照射で細胞自体を活性化!
+          <li class= "page2_message_3_1_1  point-title">
+            薬に依存しないLED照射で細胞自体を活性化!
           </li>
 		  </ul>
       </div>
       <div class="page2_message_3_image">
-        <div class="page2_message_3_image_1"><img src="<?php echo get_template_directory_uri(); ?>/image/LED.jpg" width="400" alt="LED照射"></div>
+        <div class="page2_message_3_image_1">
+           <img src="<?php echo get_template_directory_uri(); ?>/image/LED.jpg" alt="LED照射" / class="image" width="400">
+		  </div>
       </div>
-
       <!-- 以下はabsolute -->
       <div class="page2_message_3_abusolute">
         <span class="page2_message_3_abusolute_1">
@@ -171,7 +180,7 @@
     <div class="page2_message_4">
       <div class="page2_message_4_1">
         <ul>
-          <li class="point-title">
+          <li class="point-title">
             イオン導入の約60倍のエレクトロポーションで効果・持続性がアップ !
           </li>
         </ul>
@@ -181,7 +190,7 @@
       <div class="page2_message_4_2">そもそもヒト幹細胞培養液に限らず、どれだけ高級な美容液や育毛剤を<br>ただ塗っているだけでは表面で止まっているだけで奥には浸透しません。</div>
         <div class="page2_message_4_image">
           <div class="page2_message_4_image_1">
-            <span><img src="https://hidetonishi.com/wp-content/uploads/2021/02/スクリーンショット-2021-02-10-13.55.35.png" width="600" alt="エレクトロポーションで効果・持続性がアップ!"></span>
+            <span><img src="https://hidetonishi.com/wp-content/uploads/2021/02/スクリーンショット-2021-02-10-13.55.35.png" class="image" width="600" alt="エレクトロポーションで効果・持続性がアップ!"></span>
           </div>
         </div>
 
@@ -198,13 +207,6 @@
         </div>
       <!-- 以上はabsolute -->
     </div>
-		  
-<!-- 	 <div class="eye_catch">
-		 <p>
-			 業界激震
-		 </p>
-	 </div> -->
-
 
     <div class="page2_message_10">
       <div class="page2_message_4_5">
@@ -215,7 +217,7 @@
         </ul>
     </div>
 
-    <div class="page2_message_4_image">
+    <div class="page2_message_4_iframe">
       <span>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/b_aTGKeWGA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
       </span>
@@ -224,12 +226,12 @@
 	 <div class="page2_message_4_6">
         <ul>
           <li class="point-title">
-             こちらで分かりやすく解説しています
-			　　</li>
+            こちらで分かりやすく解説しています
+          </li>
         </ul>
     </div>
 
-	 <div class="page2_message_4_image">
+	 <div class="page2_message_4_iframe">
 	 <div class="video">
 		 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3ife-OcREI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
 	 </div>
@@ -255,7 +257,7 @@
 
       <!-- 以下はabsolute -->
       <div class="page3_message_3_image">
-      　　　　<img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
+        <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
       </div>
       <!-- 以上はabsolute -->
 
@@ -297,7 +299,7 @@
     </div>
 
     <div class="page3_message_5_image">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/image-02.jpg" width="800">
+      <img src="<?php echo get_template_directory_uri(); ?>/image/image-02.jpg" class="image" width="800">
     </div>
 
     <div class="page3_message_6_title">
@@ -313,7 +315,7 @@
     </div>
 
     <div class="page3_message_6_image">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/image-03.jpg" width="800">
+      <img src="<?php echo get_template_directory_uri(); ?>/image/image-03.jpg" class="image" width="800">
     </div>
 
     <div class="page3_message_6">
@@ -323,34 +325,34 @@
 
     <div class="page3_message_4">
       <div class="page3_message_4_1">
-      　毛母細胞が弱ると<br>
+        毛母細胞が弱ると<br>
       </div>
       <div class="page3_message_4_2">
-     　　　　 薬や従来の施術では難しい...?
+        薬や従来の施術では難しい...?
       </div>
     </div>
 
 
 
-    　　<div class="page3_message_8">
+    <div class="page3_message_8">
 			毛髪細胞が髪の毛を生成する機能が残っていれば、<br>
 			若々しい髪の毛に戻すために従来通りのアプローチでも有効な場合があります。<br>
 			しかし、毛髪細胞がある一定の水準まで弱ってしまったり、<br>
 			そもそも細胞が死んでしまっていると二度と元の状態に戻すことはできません。<br>
 
-    		<div class="page3_message_8_1">つまり毛髪細胞が「手遅れ状態」に陥ってしまった方は泣き寝入りするしかなかったのです...</div>
-    	</div>
+    	<div class="page3_message_8_1">つまり毛髪細胞が「手遅れ状態」に陥ってしまった方は泣き寝入りするしかなかったのです...</div>
+    </div>
 
-   	　　<div class="page3_message_9">
+    <div class="page3_message_9">
 			しかし医療の進歩によって「再生医療技術」が進化し、<br>
 			今までになかった新しい毛髪へのアプローチが可能になりました。
-    　　　</div>
+    </div>
 		
 		<div class="page4_message_1">
 		  お客様の声
 		</div>
 		<div class="page4_message_1_image">
-		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-4.png" width="600">
+		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-4.png" class="image" width="600">
 		</div>
 		<div class="page4_message_1_age">
 		  53歳 &nbsp;&nbsp;&nbsp;女性
@@ -376,7 +378,7 @@
 		</div>
 
 		<div class="page4_message_1_image">
-		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-5.png" width="600">
+		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-5.png" class="image" width="600">
 		</div>
 		<div class="page4_message_2">
 		  毎朝、鏡を見てセットをするのが楽しみになっています。
@@ -403,7 +405,7 @@
     </div>
 
     <div class="page5_message_1_image_box">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/image-04.jpg"  width="540" class="page5_message_1_image">
+      <img src="<?php echo get_template_directory_uri(); ?>/image/image-04.jpg" class="image" width="540" >
       <div class="page5_message_1_image_text">
         本町店オーナーの吉田です!
       </div>
@@ -502,7 +504,7 @@
     <div class="infomation">Infomation</div>
     <div class="infomation_line"></div>
     <div class="infomation_image">
-      <img src="https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png" alt="logo"/ class="logoImage" width="600" height="300">
+      <img src="https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png" alt="logo"/ class="image" width="600" height="300">
       <br>
       本町店の所在地
     </div>
@@ -555,11 +557,11 @@
 
 
     </div>
-	 <a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">
-	　  　<footer>
+	  <a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">
+      <footer>
 		   <div class="footer-btn">
-			   <div class="footer-text">まずは気軽に頭皮カウンセリングから始める</div>
-           <div class="tr2"></div>
+          <div class="footer-text">まずは気軽に頭皮カウンセリングから始める</div>
+          <div class="tr2"></div>
 		   </div>
 		 </footer>
 	  </a>
