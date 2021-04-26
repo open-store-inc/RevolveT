@@ -157,13 +157,13 @@
 		  </ul>
       </div>
       <div class="page2_message_3_image">
-        <div class="page2_message_3_image_1">
+         <div class="page2_message_3_image_1">
            <img src="<?php echo get_template_directory_uri(); ?>/image/LED.jpg" alt="LED照射" / class="image" width="400">
 		  </div>
       </div>
       <!-- 以下はabsolute -->
       <div class="page2_message_3_abusolute">
-        <span class="page2_message_3_abusolute_1">
+        <span >
         当サロンでは乾燥棒の培養液と合わせてLED照射をおこないます。<br>
         </span><br>
         薬などで強制的に発毛させるのではなく、LEDとヒト幹細胞培養液とを<br>
@@ -257,7 +257,7 @@
 
       <!-- 以下はabsolute -->
       <div class="page3_message_3_image">
-        <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
+        <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
       </div>
       <!-- 以上はabsolute -->
 
@@ -460,23 +460,23 @@
         今後の状態の見通しが出来る
       </div>
 
-      <div class="page6_message_1">
+      <div class="page6_message_1_end">
         薄くなる原因を徹底的に分析し、カウンセリングが終わる頃には、<br>
         今抱えているお悩みの原因を解消いたします!!
       </div>
 
       <!-- 以下はabsolute -->
       <div class="page6_message_image1">
-      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
+		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
       </div>
       <div class="page6_message_image2">
-      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
+      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
       </div>
       <div class="page6_message_image3">
-      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
+      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
       </div>
       <div class="page6_message_image4">
-      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100">
+      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
       </div>
       <!-- 以上はabsolute -->
 
@@ -504,13 +504,13 @@
     <div class="infomation">Infomation</div>
     <div class="infomation_line"></div>
     <div class="infomation_image">
-      <img src="https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png" alt="logo"/ class="image" width="600" height="300">
+      <img src="https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png" alt="logo"/ class="info_image" width="600" height="300">
       <br>
       本町店の所在地
     </div>
 
     <div class="infomation_map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.8817111170133!2d135.4963631152652!3d34.68293479167717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e71d62c8065b%3A0xba12c9e826b33a86!2z44CSNTQxLTAwNTMg5aSn6Ziq5bqc5aSn6Ziq5biC5Lit5aSu5Yy65pys55S677yU5LiB55uu77yU4oiS77yR77yW!5e0!3m2!1sja!2sjp!4v1613025845712!5m2!1sja!2sjp" width="900" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" class="google_map"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.8817111170133!2d135.4963631152652!3d34.68293479167717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e71d62c8065b%3A0xba12c9e826b33a86!2z44CSNTQxLTAwNTMg5aSn6Ziq5bqc5aSn6Ziq5biC5Lit5aSu5Yy65pys55S677yU5LiB55uu77yU4oiS77yR77yW!5e0!3m2!1sja!2sjp!4v1613025845712!5m2!1sja!2sjp" width="900" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" class="google_map"></iframe>
     </div>
 
     <div class="infomation_message">
@@ -553,17 +553,14 @@
       駐車場
     </div>
 
-    <span class="infomation_message_text">大変申し訳ございません。ご用意しておりません。</span>
+    <span class="infomation_message_text">大変申し訳ございません。ご用意しておりません。</span>
 
-
-    </div>
-	  <a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">
-      <footer>
-		   <div class="footer-btn">
-          <div class="footer-text">まずは気軽に頭皮カウンセリングから始める</div>
-          <div class="tr2"></div>
-		   </div>
-		 </footer>
-	  </a>
+     </div>
+	  <div id="under-fix">
+         <ul id="nav">
+				<li class="fix1"><a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">WEBで予約</a></li>
+				<li class="fix2"><a href="https://line.me/R/ti/p/%40170wzspd">LINEで予約</a></li>
+			</ul>
+		</div>
   </body>
 </html>

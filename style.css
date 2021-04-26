@@ -59,7 +59,9 @@ Author:
 /* ここまでfrontページ用CSS */
 
 
-
+html {
+  height: 100%;
+}
 
 body {
   background-color: #f4f5f7;
@@ -268,11 +270,19 @@ ol {
   height: 60px;
 }
 
+ul {
+    padding-inline-start: 0px;
+}
+
 .point-title {
+	margin: 0;
+	padding: 36px 0 36px 50px;
+	list-style: none;
+	background-image: url(image/fin.png);
+	background-repeat: no-repeat;
+	background-size: 50px;
   font-size: 2rem;
-  list-style-image: url("image/fin.png");
-  line-height: 10px;
-  transform: translateY(-50%);
+  transform: translateY(-30%);
 }
 
 .page2_message_3_1_1 {
@@ -327,7 +337,8 @@ ol {
 }
 
 .page2_message_10{
-  margin: 500px 0 200px 0;
+  margin: 500px 5% 0 5%;
+	padding-bottom: 100px;
   text-align: center;
 }
     
@@ -369,6 +380,11 @@ ol {
   text-align: center;
   border-radius: 60px;
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+  height: 60px;
+}
+.page2_message_4_1_1{
+    font-size: 2rem;
+	    transform: translateY(-30px);
 }
 
 .page2_message_4_2 {
@@ -415,15 +431,16 @@ ol {
 .page2_message_4_5 {
   color: white;
   background-color: #0071BB;
-  margin: 3% 30%;
+  margin: 3% 25%;
   padding: 1% 3%;
   text-align: center;
   border-radius: 60px;
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+	height: 60px;
 }
 
 .page3_message_box {
-  margin: 50px 5% 30px 5%;
+  margin: 50px 0 30px 0;
   background-color: rgba(255, 255, 255, 0.7);
   border-radius: 20px;
   padding:10px 0 40px 0;
@@ -475,7 +492,7 @@ ol {
 .page3_message_3_image{
   position: absolute;
   left: 65%;
-  top: 260px;
+  top: 280px;
 }
 
 .page3_message_3_{
@@ -525,7 +542,7 @@ ol {
 }
 .page3_message_4{
   font-size:2rem;
-  margin:100px 5% 50px 5%;
+  margin:100px 0 50px 0;
   color:white;
   border-radius: 30px;
   background-color: #0071BB;
@@ -590,7 +607,7 @@ ol {
 }
 .page4_message_2{
   font-size: 1.8rem;
-  margin: 20px 5%;
+  margin: 20px 0;
   color: white;
   border-radius: 30px;
   background-color: #0071BB;
@@ -599,7 +616,7 @@ ol {
 
 .page4_message_3{
   text-align: left;
-  margin:10px 5% 100px 5%;
+  margin:10px 0 100px 0;
   padding:40px 0 40px 3%;
   background-color: #ff000005;
   font-size:1.4rem;
@@ -639,6 +656,11 @@ ol {
   margin:60px 0 50px 15%;
 }
 
+.page6_message_1_end {
+    font-size: 1.5rem;
+    margin: 60px 0px 50px 15%;
+}
+
 .page6_message_image1{
   position: absolute;
   left:13%;
@@ -656,8 +678,8 @@ ol {
 }
 .page6_message_image4{
   position: absolute;
-  left:75%;
-  top: 1320px;
+  left: 65%;
+  top: 1340px;
 }
 
 
@@ -690,23 +712,25 @@ ol {
 }
 .infomation_message_text{
   font-size:2.4rem;
+  padding-bottom: 100px;
 }
 
 .page2_message_4_6{
     color: white;
     background-color: #0071BB;
-    margin: 3% 15%;
+    margin: 3% 10%;
     padding: 1% 3%;
     text-align: center;
     border-radius: 60px;
     box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
+	height: 60px;
 }
 
 .video {
 	text-align: center;
 }
 
-footer {
+/* footer {
 	 position: fixed;
     bottom: 0px;
 	 width: 80%;
@@ -718,20 +742,13 @@ footer {
     box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
     border-radius: 20px;
     display: flex;
-}
+} */
 
-footer:hover {
+ footer:hover {
   	transform: scale(1.1);	/*画像の拡大率*/
 	transition-duration: 0.3s;	/*変化に掛かる時間*/
-}
-.footer-btn{
-	width:100%;
-}
+} 
 
-.footer-text{
-	padding-left: 20%;
-  float: left;
-}
 
 .tr2 {
     width: 0px;
@@ -750,20 +767,70 @@ footer:hover {
 	color: red;
 }
 
+#under-fix {
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
+	z-index: 999;
+	font-size: 2rem;
+}
+
+#nav {
+	list-style: none;
+	margin: 0px;
+  display: flex;
+	
+}
+
+.fix1 {
+	 width: 50%;
+    height: 70px;
+    background-color: rgb(243, 45, 79);
+    background-image: url(http://revolvet.local/wp-content/uploads/2021/04/予約・受付け看板の無料アイコン素材-2.png);
+    background-repeat: no-repeat;
+    background-position: 35px center;
+    background-size: 45px;
+}
+
+.fix2 {
+    height: 70px;
+    background-color: #07b53b;
+    background-image: url(http://revolvet.local/wp-content/uploads/2021/04/LINE_SOCIAL_Circle.png);
+    background-repeat: no-repeat;
+    background-position: 30px center;
+    background-size: 68px;
+    width: 50%;
+    line-height: 1.25em;
+    font-weight: bold;
+}
+
+#nav a {
+	color: #fff;
+	text-decoration: none;
+   display: block;
+	height: 100%;
+}
+
+.fix1 a {
+  padding: 20px 0 0px 45%;
+}
 
 
 
 
+}
 
+.fix1:hover {
+	background-color: rgb(343, 55, 89);
+}
 
+.fix2 a {
+  padding: 20px 0 0px 45%;
+}
 
-
-
-
-
-
-
-
+.fix2:hover {
+	background-color: #17c54b;
+}
 
 
 
@@ -800,6 +867,7 @@ footer:hover {
   .page2_message_3_abusolute{
   }
   .page2_message_3_abusolute:before {
+	  
   }
   .page2_message_4_abusolute {
   }
@@ -807,21 +875,6 @@ footer:hover {
 
 
   .page2_message_4_abusolute:before {
-    border: solid transparent;
-    content: "";
-    height: 0;
-    width: 0;
-    pointer-events: none;
-    position: absolute;
-    border-color: rgba(0, 153, 255, 0);
-    border-top-width: 42px;
-    border-bottom-width: 42px;
-    border-left-width: 49px;
-    border-right-width: 49px;
-    margin-left: -49px;
-    border-bottom-color: #0099ff;
-    bottom: 100%;
-    left: 50%;
   }
   .page2_message_4_5{
     margin-top:450px;
@@ -913,13 +966,14 @@ footer:hover {
    .page1_message_2 {
     text-align: center;
     float: none;
+	 margin-bottom: 50px;
   }
 	
 	.page1_message_2_1 {
     font-size: 3rem;
-    text-shadow: none;
+    text-shadow: 3px 2px 3px #808080;
     text-decoration: none;
-	padding-left: 40%;
+	padding-left: 35%;
 }
 	
 	.page1_message_2_2 {
@@ -932,18 +986,23 @@ footer:hover {
   }
 	
 	.page1_message_4_title_1 {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 	
 	.page1_message_4_title_li {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 	
 	.page1_message_5 {
-    font-size: 1.2rem;
-	 left: 0%;
-	 text-align: center;
-	 top: 440px;
+    font-size: 1rem;
+	 left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+top: 380px;;
+		    width: 90%;
+    text-align: center;
+		padding: 20px 10px;
 }
 	
 	.page1_message_5:before {
@@ -952,7 +1011,7 @@ footer:hover {
 	
 	.page1_message_6 {
     font-size: 1.5rem;
-	 margin: 150px 5% 100px;
+	 margin: 150px 5% 30px;
 }
 	
 	.page1_message_6_1 {
@@ -960,23 +1019,24 @@ footer:hover {
 }
 	
 	.page2_message_2 {
-    font-size: 1.2rem;
+    font-size: 1rem;
+		    margin-top: 110px;
 }
 	
 	.page2_message_2_2 {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
 	
 	.page2_message_2_4 {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 	
 	.page2_message_2_5 {
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 	
 	 .page2_message_2_7 {
-	   font-size: 1.2rem;
+	   font-size: 1rem;
 	}
 	
 	.page2_message_3_title {
@@ -989,7 +1049,7 @@ footer:hover {
 }
 	
 	.page2_message_3 {
-		font-size: 1.2rem;
+		font-size: 1rem;
 	}
 	
 	.page2_message_3_1 {
@@ -1001,14 +1061,23 @@ footer:hover {
 	
 	.page2_message_3_image {
 		width: 80%;
+		margin: 50px auto;
 	}
 
 	.page2_message_3_abusolute {
 	   line-height: 1.3em;
-		top: 650px;
+		top: 400px;
 		width: 90%;
-		font-size: 1.2rem;
+		font-size: 1rem;
 	}
+	
+	.page2_message_3_abusolute:before {
+    border-top-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
+    border-right-width: 15px;
+    margin-left: -20px;
+}
 
 	.page2_message_3_abusolute_1 {
 		line-height: 1.3em;
@@ -1016,7 +1085,13 @@ footer:hover {
 	}
 
 	.page2_message_4 {
-		margin: 680px 0 1400px 0;
+		margin: 150px 0 0 0;
+	}
+	
+	.page2_message_4_1_1 {
+	  font-size: 1rem;
+     transform: translateY(-10%);
+	  padding: 10px;
 	}
 
 	.page2_message_100 {
@@ -1024,57 +1099,78 @@ footer:hover {
 	}
 
 	.page2_message_4_abusolute {
-		font-size: 1.2rem;
+		font-size: 1rem;
 		line-height: 1.5em;
-		top: 740px;
+		top: 480px;
+	}
+	
+	  .page2_message_4_abusolute:before {
+    border-top-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
+    border-right-width: 15px;
+    margin-left: -20px;
+  }
+	
+	ul {
+		margin-block-start: 0em;
+		margin-block-end: 0em;
 	}
 	
 	.point-title {
-    line-height: 30px;
-    transform: translateY(-50px);
-	 font-size: 1.2rem;
+    line-height: 25px;
+    transform: none;
+    font-size: 1rem;
+    padding: 10px 0 10px 30px;
+    background-size: 30px;
 }
-	
 	
 .page2_message_4_2 {
-    font-size: 1.2rem;
+    font-size: 1rem;
+    margin: 80px 5% 0px;
+    line-height: 20px;
 }
 	.page2_message_4_5 {
-		margin: 3% 20%;
+		margin: 3% 5%;
+		height: 50px;
 	}
+	
 	
 	.page3_message_title {
     font-size: 1.5rem;
 }
 
 	.page3_message_3_image {
-		top: 400px;
+		top: 225px;
+      left: 70%;
 	}
 
 	.page3_message_8{
 	  margin: 40px 0 30px 0;
 	  font-size: 1rem;
 	}
-	
-		.page2_message_4_6 {
-		margin: 3% 3%;
-	}
-
 
 	.page2_message_4_6 {
-	   margin: 8% 7% 4%;
+	   margin: 8% 2% 4%;
 	}
 	
 	.page3_message_1 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 
 	.page3_message_1_1 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 	
 	.page3_message_2 {
     font-size: 1.5rem;
+}
+	
+	.page3_message_2_1 {
+    font-size: 1rem;
+}
+	.page3_message_3_1_img {
+    width: 25px;
 }
 	
 	.page3_message_5 {
@@ -1098,12 +1194,12 @@ footer:hover {
 }
 
 	.page3_message_title_sub {
-		margin: 30px 10%;
-		font-size: 1.5rem;
+    margin: 30px 5%;
+    font-size: 1rem;
 	}
 
 	.page3_message_box {
-		margin: 300px 5% 170px 5%;
+		margin: 50px 0 170px 0;
 	}
 	
 	.page3_message_2_ {
@@ -1116,12 +1212,12 @@ footer:hover {
 	}
 	
 	.page3_message_3__ {
-     font-size: 1.5rem;
+     font-size: 1.2rem;
    }
 
 	.page4_message_3 {
 		font-size: 1rem;
-		margin: 30px 5% 100px 5%;
+		margin: 30px 0 100px 0;
 		padding: 40px 0 40px 3%;
 	}
 	
@@ -1134,7 +1230,7 @@ footer:hover {
 }
 
 	.page3_message_title {
-		padding: 120px 0 20px;
+		padding: 30px 0 20px;
 	}
 	
 	.page4_message_1_age {
@@ -1143,7 +1239,7 @@ footer:hover {
 	
 	.page4_message_1 {
     font-size: 1.2rem;
-    margin: 20px 15%;
+    margin: 20px 5%;
 }
 	
 	.page4_message_2 {
@@ -1161,10 +1257,34 @@ footer:hover {
 	
 	.page6_message_1 {
     font-size: 1rem;
+    margin: 60px 20px 50px 80px;
+}
+	
+	.page6_message_1_end {
+    font-size: 1rem;
+    margin: 20px;
+}
+	
+	.page6_message_image1 {
+    left: 30px;
+}
+	
+		.page6_message_image2 {
+    left: 30px;
+		top: 500px;
+}
+	
+		.page6_message_image3 {
+    left: 30px;
 }
 
 	.page6_message_image4 {
-		 top: 1470px;
+		 top: 1220px;
+	}
+	
+	
+	.allow_icon {
+		width: 30px;
 	}
 
 	.No {
@@ -1172,8 +1292,13 @@ footer:hover {
 }
 	
 	.infomation_image {
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
+	
+	.info_image {
+	  width: 100%;
+		height: 200px;
+	}
 	
 	.infomation_map {
 	  margin: 20px 0 100px;
@@ -1189,11 +1314,11 @@ footer:hover {
 }
 	
 	.infomation_message {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 	
 	.infomation_message_text {
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 
 	footer{
@@ -1204,4 +1329,26 @@ footer:hover {
 	.footer-text{
 		padding-left: 10%;
 	}
+	
+	#under-fix {
+    font-size: 1rem;
+   }
+	
+	.fix1 {
+    background-position: 15px center;
+    background-size: 25px;
+  }
+	
+	.fix1 a {
+    padding: 25px 0 0px 35%;
+   }
+	
+	.fix2 {
+    background-position: 15px center;
+    background-size: 30px;
+   }
+	
+	.fix2 a {
+    padding: 25px 0 0px 35%;
+   }
 }
