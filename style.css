@@ -759,12 +759,6 @@ ul {
     float: left;
 }
 
-.eye_catch{
-	text-align: center;
-	font-size: 5rem;
-	color: red;
-}
-
 #under-fix {
 	width: 100%;
 	position: fixed;
@@ -781,25 +775,34 @@ ul {
 }
 
 .fix1 {
-	 width: 50%;
-    height: 70px;
-    background-color: rgb(243, 45, 79);
-    background-image: url(http://revolvet.local/wp-content/uploads/2021/04/予約・受付け看板の無料アイコン素材-2.png);
-    background-repeat: no-repeat;
-    background-position: 35px center;
-    background-size: 45px;
+	height: 100px;
+	background-color: #ff62d6;
+	background-image: url(http://revolvet.local/wp-content/uploads/2021/04/予約・受付け看板の無料アイコン素材-2.png);
+	background-repeat: no-repeat;
+	background-position: 35px center;
+	background-size: 45px;
+	width: 34%;
 }
 
 .fix2 {
-    height: 70px;
+    height: 100px;
     background-color: #07b53b;
     background-image: url(http://revolvet.local/wp-content/uploads/2021/04/LINE_SOCIAL_Circle.png);
     background-repeat: no-repeat;
     background-position: 30px center;
     background-size: 68px;
-    width: 50%;
-    line-height: 1.25em;
-    font-weight: bold;
+    width: 33%;
+}
+
+
+.fix3 {
+    height: 100px;
+    background-color: #e69e45;
+    background-image: url(http://revolvet.local/wp-content/uploads/2021/04/お問い合わせのアイコン-Q-Aの吹き出し-4-2.png);
+    background-repeat: no-repeat;
+    background-position: 30px center;
+    background-size: 50px;
+    width: 33%;
 }
 
 #nav a {
@@ -810,29 +813,28 @@ ul {
 }
 
 .fix1 a {
-  padding: 20px 0 0px 45%;
-}
-
-
-
-
+  padding: 35px 0 0px 35%;
 }
 
 .fix1:hover {
-	background-color: rgb(343, 55, 89);
+  background-color: #ff72e6;
 }
 
 .fix2 a {
-  padding: 20px 0 0px 45%;
+  padding: 35px 0 0px 35%;
 }
 
 .fix2:hover {
 	background-color: #17c54b;
 }
 
+.fix3 a {
+  padding: 35px 0 0px 35%;
+}
 
-
-
+.fix3:hover {
+    background-color: #f6ae55;
+}
 
 
 
@@ -874,6 +876,10 @@ ul {
     margin-top:450px;
   }
 	
+	.page3_message_title_sub {
+    margin: 50px 20%;
+}
+	
   .page3_message_3_image{
     left: 75%;
     top: 320px;
@@ -899,6 +905,28 @@ ul {
     left: 75%;
     top: 1390px;
   }
+	
+  .fix1 a {
+  }
+	
+  .fix2 a {
+  }
+	
+.fix1 {
+	background-position: 35px center;
+	background-size: 45px;
+}
+
+.fix2 {
+    background-position: 30px center;
+    background-size: 68px;
+}
+
+
+.fix3 {
+    background-position: 30px center;
+    background-size: 50px;
+}
 
 }
 
@@ -1309,25 +1337,34 @@ ul {
 	}
 	
 	#under-fix {
-    font-size: 1rem;
+    font-size: 1.2rem;
    }
 	
 	.fix1 {
     background-position: 15px center;
-    background-size: 25px;
+
   }
 	
 	.fix1 a {
-    padding: 25px 0 0px 35%;
+    padding: 42px 0 0px 40%;
    }
 	
 	.fix2 {
     background-position: 15px center;
-    background-size: 30px;
+
    }
 	
 	.fix2 a {
-    padding: 25px 0 0px 35%;
+     padding: 42px 0 0px 40%;
+   }
+	
+		.fix3 {
+    background-position: 15px center;
+
+   }
+	
+	.fix3 a {
+    padding: 42px 0 0px 40%;
    }
 }
 
@@ -1349,7 +1386,7 @@ ul {
 	}
 	
 	.inline_img {
-		width: 20px;
+     width: 12px;
 	}
 	
 	.iframe {
@@ -1396,24 +1433,22 @@ ul {
     font-size: 1.5rem;
   }
 	
+	.page1_message_4 ol {
+		padding-inline-start: 0px;
+	}
+	
 	.page1_message_4_title_1 {
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 	
 	.page1_message_4_title_li {
-    font-size: 1rem;
+    font-size: 0.6rem;
 }
 	
 	.page1_message_5 {
-    font-size: 1rem;
-	 left: 50%;
-    transform: translateX(-50%);
-    -webkit-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-top: 380px;;
-		    width: 90%;
-    text-align: center;
-		padding: 20px 10px;
+    font-size: 0.8rem;
+    top: 250px;
+    width: 70%;
 }
 	
 	.page1_message_5:before {
@@ -1421,12 +1456,12 @@ top: 380px;;
 	}
 	
 	.page1_message_6 {
-    font-size: 1.5rem;
+    font-size: 1rem;
 	 margin: 150px 5% 30px;
 }
 	
 	.page1_message_6_1 {
-    font-size: 1.6rem;
+    font-size: 1.1rem;
 }
 	
 	.page2_message_2 {
@@ -1479,7 +1514,7 @@ top: 380px;;
 	   line-height: 1.3em;
 		top: 400px;
 		width: 90%;
-		font-size: 1rem;
+		font-size: 0.8rem;
 	}
 	
 	.page2_message_3_abusolute:before {
@@ -1510,7 +1545,7 @@ top: 380px;;
 	}
 
 	.page2_message_4_abusolute {
-		font-size: 1rem;
+		font-size: 0.8rem;
 		line-height: 1.5em;
 		top: 480px;
 	}
@@ -1531,13 +1566,13 @@ top: 380px;;
 	.point-title {
     line-height: 25px;
     transform: none;
-    font-size: 1rem;
+    font-size: 0.8rem;
     padding: 10px 0 10px 30px;
     background-size: 30px;
 }
 	
 .page2_message_4_2 {
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin: 80px 5% 0px;
     line-height: 20px;
 }
@@ -1606,7 +1641,7 @@ top: 380px;;
 
 	.page3_message_title_sub {
     margin: 30px 5%;
-    font-size: 1rem;
+    font-size: 0.8rem;
 	}
 
 	.page3_message_box {
@@ -1614,7 +1649,7 @@ top: 380px;;
 	}
 	
 	.page3_message_2_ {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 	.page3_message_3 {
@@ -1633,7 +1668,7 @@ top: 380px;;
 	}
 	
 	.page3_message_4 {
-    font-size: 1.2rem;
+    font-size: 1rem;
 	}
 	
 	.page3_message_9 {
@@ -1645,11 +1680,11 @@ top: 380px;;
 	}
 	
 	.page4_message_1_age {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 	
 	.page4_message_1 {
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin: 20px 5%;
 }
 	
@@ -1664,7 +1699,7 @@ top: 380px;;
 	
 	.page5_message_1_image_text {
 	 margin-top: 20px;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 	
 	.page6_message_1 {
@@ -1702,7 +1737,8 @@ top: 380px;;
 	}
 
 	.No {
-    font-size: 1.2rem;
+    font-size: 0.8rem;
+    padding: 10px;
 }
 	
 	.infomation_image {
@@ -1745,24 +1781,36 @@ top: 380px;;
 	}
 	
 	#under-fix {
-    font-size: 1rem;
+    font-size: 0.8rem;
    }
 	
 	.fix1 {
-    background-position: 15px center;
-    background-size: 25px;
+    height: 70px;
+    background-position: 10px center;
+    background-size: 20px;
   }
 	
 	.fix1 a {
-    padding: 25px 0 0px 35%;
+    padding: 30px 0 0px 30%;
    }
 	
 	.fix2 {
-    background-position: 15px center;
+    height: 70px;
+    background-position: 5px center;
     background-size: 30px;
    }
 	
 	.fix2 a {
-    padding: 25px 0 0px 35%;
+    padding: 30px 0 0px 30%;
+   }
+	
+	.fix3 {
+    height: 70px;
+    background-position: 10px center;
+    background-size: 20px;
+   }
+	
+	.fix3 a {
+    padding: 30px 0 0px 30%;
    }
 }

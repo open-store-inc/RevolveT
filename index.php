@@ -39,7 +39,7 @@
       <ol>
         <li class="page1_message_4_title_li">
           <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="薄毛をなんとかごまかそうと髪型に苦心している" class="inline_img">
+			  <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="薄毛をなんとかごまかそうと髪型に苦心している" class="inline_img">
             薄毛をなんとかごまかそうと髪型に苦心している
           </span>
         </li>
@@ -57,13 +57,13 @@
         </li>
         <li class="page1_message_4_title_li">
         <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="今まで散々色々なものを色々なものを試したがどれも効かなかった">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="今まで散々色々なものを色々なものを試したがどれも効かなかった" class="inline_img">
             今まで散々色々なものを色々なものを試したがどれも効かなかった
           </span>
         </li>
         <li class="page1_message_4_title_li">
         <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="風が強いとすぐに髪の毛が乱れてしまう">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="風が強いとすぐに髪の毛が乱れてしまう" class="inline_img" >
             風が強いとすぐに髪の毛が乱れてしまう
           </span>
         </li>
@@ -555,12 +555,13 @@
     </div>
 
     <span class="infomation_message_text">大変申し訳ございません。ご用意しておりません。</span>
-
+		
      </div>
 	  <div id="under-fix">
          <ul id="nav">
 				<li class="fix1"><a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">WEBで予約</a></li>
 				<li class="fix2"><a href="https://line.me/R/ti/p/%40170wzspd">LINEで予約</a></li>
+            <li class="fix3"><a href="https://form.run/@revolve-info--1619426354">お問い合わせ</a></li>
 			</ul>
 		</div>
       </div>
