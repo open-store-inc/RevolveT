@@ -45,8 +45,8 @@
         </li>
         <li class="page1_message_4_title_li">
           <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="明るい所や日が当たる場所で、頭髪がみえてしまう..." class="inline_img">
-            明るい所や日が当たる場所で、頭髪がみえてしまう...
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="明るい所や日が当たる場所で、頭皮がみえてしまう..." class="inline_img">
+            明るい所や日が当たる場所で、頭皮がみえてしまう...
           </span>
         </li>
         <li class="page1_message_4_title_li">
@@ -165,7 +165,7 @@
       <!-- 以下はabsolute -->
       <div class="page2_message_3_abusolute">
         <span >
-        当サロンでは乾燥棒の培養液と合わせてLED照射をおこないます。<br>
+        当サロンでは幹細胞の培養液と合わせてLED照射をおこないます。<br>
         </span><br>
         薬などで強制的に発毛させるのではなく、LEDとヒト幹細胞培養液とを<br>
         組み合わせる事によって
@@ -396,7 +396,7 @@
 			施術を受けて3ヶ月経過した頃から、<br>
 			気になっていた分け目の辺りに少し毛が生えてきました。<br><br>
 			ぺたんこでパーマをあてないと嫌だったのに もう、あてなくても良くなりそうな気がして<br>
-			今では、毎朝、鏡を見てセットをするのが楽しみになっています。<br>
+			今では、毎朝鏡を見てセットをするのが楽しみになっています。<br>
 		</div>
 
 
@@ -454,7 +454,7 @@
       </div>
 
       <div class="page6_message_1">
-        ご家庭出した方が良いケア、しない方が良いケアをお教え致します
+        ご家庭でした方が良いケア、しない方が良いケアをお教え致します
       </div>
 
       <div class="page3_message_3">
