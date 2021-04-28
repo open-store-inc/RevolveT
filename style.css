@@ -331,7 +331,7 @@ ul {
 }
 
 .page2_message_10{
-  margin: 500px 5% 0 5%;
+  margin: 500px 5% 50px 5%;
 	padding-bottom: 100px;
   text-align: center;
 }
@@ -864,12 +864,30 @@ ul {
     margin: 10px auto;
     width: 70%;
    }
+	
+	.page2_message_3_image {
+    margin: 50px auto 0px;
+  }
+	
+	.page2_message_3_abusolute {
+    top: 500px;
+  }
 
 	.page2_message_4 {
 		margin: 380px 0 200px 0;
 	}
-  .page2_message_4_5{
-    margin-top:450px;
+	
+	.page2_message_4_1 {
+    padding: 3% 3%;
+  }
+	
+	.page2_message_4_1_1 {
+    transform: translateY(-45px);
+   }
+	
+.page2_message_4_5 {
+    margin: 3% 20%;
+    margin-top:550px;
   }
 	
 	.page3_message_title_sub {
@@ -997,7 +1015,7 @@ ul {
     transform: translateX(-50%);
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
-    top: 300px;
+    top: 280px;
 	 width: 90%;
     text-align: center;
 	 padding: 20px 10px;
@@ -1064,7 +1082,7 @@ ul {
 
 	.page2_message_3_abusolute {
 	   line-height: 1.3em;
-		top: 650px;
+		top: 620px;
 		width: 90%;
 		font-size: 1rem;
 	}
@@ -1099,7 +1117,7 @@ ul {
 	.page2_message_4_abusolute {
 		font-size: 1rem;
 		line-height: 1.5em;
-		top: 600px;
+		top: 650px;
 	}
 	
 	  .page2_message_4_abusolute:before {
@@ -1118,7 +1136,7 @@ ul {
 	.point-title {
     line-height: 25px;
     transform: translateY(5px);
-    font-size: 1rem;
+    font-size: 1.2rem;
     padding: 10px 0 10px 30px;
     background-size: 30px;
 }
@@ -1140,7 +1158,7 @@ ul {
 
 	.page3_message_3_image {
 		top: 15px;
-      left: 62%;
+      left: 70%;
 	}
 
 	.page3_message_8{
@@ -1153,11 +1171,11 @@ ul {
 	}
 	
 	.page3_message_1 {
-    font-size: 1.2rem;
+    font-size: 1.8rem;
   }
 
 	.page3_message_1_1 {
-    font-size: 1.2rem;
+    font-size: 1.8rem;
   }
 	
 	.page3_message_2 {
@@ -1210,7 +1228,7 @@ ul {
 	}
 	
 	.page3_message_3__ {
-     font-size: 1.2rem;
+     font-size: 1.8rem;
    }
 
 	.page4_message_3 {
@@ -1280,7 +1298,7 @@ ul {
 
 	.page6_message_image4 {
 		 top: 15px;
-		left: 61%;
+		left: 69%;
 	}
 	
 	
