@@ -16,7 +16,7 @@
   <section class="attention">
     <div class="upper_line"></div>
        <div class="page1_message_1">
-         <h1>女性のための発育技術<br>自慢できる美しい髪で明るい生活を楽しめる</h1>
+         <h1>女性のための発毛技術<br>自慢できる美しい髪で明るい生活を楽しめる</h1>
        </div>
        <div class="under_line"></div>
        <div class="page1_message_2">
@@ -67,158 +67,144 @@
 			  <div class="page1_message_5">
 				このようなお悩みをお持ちの方
 			  </div>
-
-			  <div class="page1_message_image">
+            <div class="page1_message_image">
 			  <img src="<?php echo get_template_directory_uri(); ?>/image/2021_0212.png" width="450">
-			  </div>
+            </div>
 <!-- 以上はabsolute -->
 	  		</div>
-
 		  <div class="page1_message_6">
-			  <div class="page1_message_6_xxx">
-				  安心してください。当サロンが研究を重ね発見した
-			  </div>
-			  <br>
-			  <div class="page1_message_6_yyy">
-				  最新の
-				  <span class="page1_message_6_1">育毛発毛促進技術</span>
-				  が登場
-			  </div>
+			<div class="page1_message_6_xxx">
+				安心してください。当サロンが研究を重ね発見した
+			</div>
+			<br>
+			<div class="page1_message_6_yyy">
+				最新の
+				<span class="page1_message_6_1">育毛発毛促進技術</span>
+				が登場
+			</div>	  
 		  </div>	
-　
-    <table class="page1_message_6_table">
-      <tr><br>
-		  <th>
-          <div class="page2_message_1">
-             <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-1.png" class="image" width="300" width="300" alt="今テレビ雑誌メディアで話題">
-          </div>
-        </th>
- 
-        <th>
-          <div class="page2_message_1">
-          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-2.png" class="image" width="300" width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
-          </div>
-        </th>
- 
-        <th>
-          <div class="page2_message_1">
-          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-3.png" class="image" width="300" width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
-          </div>
-        </th>
-      </tr>
-    </table>
- 
-    <div class="page2_message_2">
-    <span>ついに
-      <span class="page2_message_2_1">最新の</span>
-      <span class="page2_message_2_2">再生技術</span>
-      で<br><span class="page2_message_2_6"><br></span>
-      <span class="page2_message_2_3">髪の毛が生える時代</span>
-      がやってきました！<br><span class="page2_message_2_6"><br></span>
-    </span>
-    <span class="page2_message_2_4">
-    当サロンでは希少な臍帯血幹細胞の培養液を使用しており<br><span class="page2_message_2_6"><br></span>
-    </span>
-    <span class="page2_message_2_5">
-      臍帯血由来幹細胞培養液
-    </span>
-      で発毛させます。<span class="page2_message_2_6"><br></span>
-    </div>
- 
- 
-    <div class="page2_message_3">
-      <span>
-		   <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが当施術院は<br><span class="page2_message_2_6"><br></span>
-			  脂肪由来幹細胞培養液と比較した場合再生因子は<span><span class="page2_message_2_3">264倍</span>も高い濃度で含有しています。</span><br>
-         <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
-      </span>
-    </div>
-  </section>
- 
-	<section class="interest">
-    <div class="page2_message_3_title">
-      <div class="page2_message_3_title_line">&nbsp;</div>
-      POINT
-      <div class="page2_message_3_title_line">&nbsp;</div>
-    </div>
- 
- 
-    <div class="page2_message_3">
-      <div class="page2_message_3_1">
-          <div class= "point-title">
-            薬に依存しないLED照射で細胞自体を活性化!
-		  </div>
-      </div>
-      <div class="page2_message_3_image">
-         <div class="page2_message_3_image_1">
-           <img src="http://revolvet.local/wp-content/uploads/2021/04/5D5A0018.jpg" alt="LED照射" / class="image" width="400">
-		  </div>
-      </div>
-      <!-- 以下はabsolute -->
-      <div class="page2_message_3_abusolute">
-        <span >
-        当サロンでは幹細胞の培養液と合わせてLED照射をおこないます。<br>
-        </span><br>
-        薬などで強制的に発毛させるのではなく、LEDとヒト幹細胞培養液とを<br>
-        組み合わせる事によって
-        <span class="page2_message_3_abusolute_2">
-          髪の毛を作る細胞事態を再生させる事で<br>薄毛を改善させる最先端の発毛システム
-        </span>
-        です。
-      </div>
-      <!-- 以上はabsolute -->
-    </div>
- 
- 
-    <div class="page2_message_4">
-      <div class="page2_message_4_1">
-		  <div class= "point-title">
-			  イオン導入の約60倍のエレクトロポーションで効果・持続性がアップ !
-		  </div>
-      </div>
-      <div class="page2_message_4_2">そもそもヒト幹細胞培養液に限らず、どれだけ高級な美容液や育毛剤を<br>ただ塗っているだけでは表面で止まっているだけで奥には浸透しません。</div>
-        <div class="page2_message_4_image">
-          <div class="page2_message_4_image_1">
-            <span><img src="https://hidetonishi.com/wp-content/uploads/2021/02/スクリーンショット-2021-02-10-13.55.35.png" class="image" width="600" alt="エレクトロポーションで効果・持続性がアップ!"></span>
-          </div>
-        </div>
-        <!-- 以下はabsolute -->
-        <div class="page2_message_4_abusolute">
-          当サロンではLED治療に加え、エレクトロポーションを使いヒト幹細胞培養液の最高峰である<br>
-          臍帯血由来の培養液を頭皮に浸透させる事で髪の毛を作る毛母細胞を再生させます。<br><br>
-          エレクトロポーションを使えば今まで注射する以外導入することができなかった<br>
-          高分子のものも導入可能になります。イオン導入では難しかった高分子成分やコラーゲンやヒアルロン酸や<br>
-          ヒト幹細胞培養液を浸透させることができます。(浸透力はイオン導入の20~60倍と言われております)<br>また
-          <span class="page2_message_4_abusolute_1">
-            痛みを感じることはありませんので「痛みに弱い」という方や「注射が苦手」な方でも安心です。
-          </span>
-        </div>
-      <!-- 以上はabsolute -->
-    </div>
-   </section>
+  　</section>
+	  
+	  
+	  
+	 <section class="interest"> 
+		<table class="page1_message_6_table">
+		  <tr><br>
+			  <th>
+			  <div class="page2_message_1">
+				 <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-1.png" class="image" width="300" width="300" alt="今テレビ雑誌メディアで話題">
+			  </div>
+			</th>
+
+			<th>
+			  <div class="page2_message_1">
+			  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-2.png" class="image" width="300" width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
+			  </div>
+			</th>
+
+			<th>
+			  <div class="page2_message_1">
+			  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-3.png" class="image" width="300" width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
+			  </div>
+			</th>
+		  </tr>
+		</table>
+		 
+	<div class="h2_box">
+       <h2>
+		 いま話題の再生医療に用いられる<span class="red">ヒト幹細胞</span>を使用した<br>最先端の<span class="blue">再生発毛システム</span>
+       </h2>
+    </div>	 
+		 
+	 <div class="page2_message_2">
+		<span>ついに最新の再生技術で<br>
+			<span class="page2_message_2_6"><br></span>
+			<span class="page2_message_2_3">髪の毛が生える時代</span>
+		  	がやってきました！<br><span class="page2_message_2_6"><br></span>
+		</span>
+		<span class="page2_message_2_4">
+		当サロンでは希少な臍帯血幹細胞の培養液を使用しており<br><span class="page2_message_2_6"><br></span>
+		</span>
+		<span class="page2_message_2_5">
+		  臍帯血由来幹細胞培養液
+		</span>
+		  で発毛させます。<span class="page2_message_2_6"><br></span>
+		</div>
+
+
+		<div class="page2_message_3">
+		  <span>
+			   <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが、当施術院は<span class="red">臍帯血幹細胞由来</span>の培養液を贅沢に使用しています。<br><span class="page2_message_2_6"><br></span>
+				  この臍帯血幹細胞由来の培養液は脂肪由来幹細胞培養液と比較すると<span><span class="red">264倍</span>も高い濃度で<span class="blue">再生因子</span>を含有しています。</span><br>
+			 <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
+		  </span>
+		</div>
+	  </section>
+	  
 
    <section class="imagine">
-	  <div class="page2_message_4_5">
-		  <div class="point-title">
-			  当店がTV取材を受けました
-		  </div>
-	  </div>
+	   <div class="page2_message_3_title">
+		   <div class="page2_message_3_title_line">&nbsp;</div>
+		   POINT
+		   <div class="page2_message_3_title_line">&nbsp;</div>
+	   </div>
 
-	  <div class="page2_message_4_iframe">
-		  <span>
-			  <iframe width="560" height="315" src="https://www.youtube.com/embed/b_aTGKeWGA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
-		  </span>
-	  </div>
 
-	  <div class="page2_message_4_6">
-		  <div class="point-title">
-			  こちらで分かりやすく解説しています 			 
-		  </div>
-	  </div>
-	 <div class="page2_message_4_iframe">
-		 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3ife-OcREI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
-	 </div>
+	   <div class="page2_message_100">
+		   <div class="page2_message_3_1">
+			   <div class= "point-title">
+				   薬に依存しないLED照射で細胞自体を活性化!
+			   </div>
+		   </div>
+		   <div class="page2_message_3_image">
+			   <div class="page2_message_3_image_1">
+				   <img src="http://revolvet.local/wp-content/uploads/2021/04/5D5A0018.jpg" alt="LED照射" / class="image" width="400">
+			   </div>
+		   </div>
+		   <!-- 以下はabsolute -->
+		   <div class="page2_message_3_abusolute">
+			   <span >
+				   当サロンでは幹細胞の培養液と合わせてLED照射をおこないます。<br>
+			   </span><br>
+			   薬などで強制的に発毛させるのではなく、LEDとヒト幹細胞培養液とを<br>
+			   組み合わせる事によって
+			   <span class="page2_message_3_abusolute_2">
+				   髪の毛を作る細胞事態を再生させる事で<br>薄毛を改善させる最先端の発毛システム
+			   </span>
+			   です。
+		   </div>
+		   <!-- 以上はabsolute -->
+	   </div>
+
+
+	   <div class="page2_message_4">
+		   <div class="page2_message_4_1">
+			   <div class= "point-title">
+				   エレクトロポーションによる導入で効果・持続性がイオン導入の約60倍UP !
+			   </div>
+		   </div>
+		   <div class="page2_message_4_2">そもそもヒト幹細胞培養液に限らず、どれだけ高級な美容液や育毛剤も<br>ただ塗っているだけでは表面で止まっているだけで奥には浸透しません。</div>
+		   <div class="page2_message_4_image">
+			   <div class="page2_message_4_image_1">
+				   <span><img src="https://hidetonishi.com/wp-content/uploads/2021/02/スクリーンショット-2021-02-10-13.55.35.png" class="image" width="600" alt="エレクトロポーションで効果・持続性がアップ!"></span>
+			   </div>
+		   </div>
+		   <!-- 以下はabsolute -->
+		   <div class="page2_message_4_abusolute">
+			   当サロンではLED治療に加え、エレクトロポーションを使いヒト幹細胞培養液の最高峰である<br>
+			   臍帯血由来の培養液を頭皮に浸透させる事で髪の毛を作る毛母細胞を再生させます。<br><br>
+			   エレクトロポーションを使えば今まで注射する以外導入することができなかった<br>
+			   高分子のものも導入可能になります。イオン導入では難しかった高分子成分やコラーゲンやヒアルロン酸や<br>
+			   ヒト幹細胞培養液を浸透させることができます。(浸透力はイオン導入の20~60倍と言われております)<br>また
+			   <span class="page2_message_4_abusolute_1">
+				   痛みを感じることはありませんので「痛みに弱い」という方や「注射が苦手」な方でも安心です。
+			   </span>
+		   </div>
+		   <!-- 以上はabsolute -->
+	   </div>
 	</section>
+	  
+	  
    <div class="reservation_box">
 	   <div class="page3_message_title">
 		   <span>ホームページを見た方限定</span>
@@ -268,12 +254,7 @@
  
 	<section class="desire">
     <div class="page3_message_4">
-      <div class="page3_message_4_1">
-        あなた自信が<br>
-        </div>
-      <div class="page3_message_4_2">
-        薄毛の原因をわかっていますか?
-        </div>
+        あなた自信が薄毛の原因をわかっていますか?
     </div>
  
     <div class="page3_message_5">
@@ -308,15 +289,8 @@
  
  
     <div class="page3_message_4">
-      <div class="page3_message_4_1">
-        毛母細胞が弱ると<br>
-      </div>
-      <div class="page3_message_4_2">
-        薬や従来の施術では難しい...?
-      </div>
+        毛母細胞が弱ると薬や従来の施術では難しい...?
     </div>
- 
- 
  
     <div class="page3_message_8">
 			毛髪細胞が髪の毛を生成する機能が残っていれば、<br>
@@ -331,8 +305,35 @@
 			しかし医療の進歩によって「再生医療技術」が進化し、<br>
 			今までになかった新しい毛髪へのアプローチが可能になりました。
     </div>
- 
-		<div class="page4_message_1">
+		
+    </section>
+	  
+    <section class="comparsion">
+		  <div class="page2_message_4_5">
+		  <div class="point-title">
+			  当店がTV取材を受けました
+		  </div>
+	  </div>
+
+	  <div class="page2_message_4_iframe">
+		  <span>
+			  <iframe width="560" height="315" src="https://www.youtube.com/embed/b_aTGKeWGA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
+		  </span>
+	  </div>
+
+	  <div class="page2_message_4_6">
+		  <div class="point-title">
+			  こちらで分かりやすく解説しています 			 
+		  </div>
+	  </div>
+	 <div class="page2_message_4_iframe">
+		 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3ife-OcREI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
+	 </div>
+		
+    </section>
+	  
+    <section class="consent">
+	  <div class="page4_message_1">
 		  お客様の声
 		</div>
 		<div class="page4_message_1_image">
@@ -360,7 +361,7 @@
 			最初は不安でしたが、先生の応援もあって続ける事が出来ました。<br>
 			ありがとうございました。
 		</div>
- 
+		
 		<div class="page4_message_1_image">
 		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-5.png" class="image" width="600">
 		</div>
@@ -381,9 +382,7 @@
 			ぺたんこでパーマをあてないと嫌だったのに もう、あてなくても良くなりそうな気がして<br>
 			今では、毎朝鏡を見てセットをするのが楽しみになっています。<br>
 		</div>
-    </section>
-	  
-    <section class="comparsion">
+		
 		<div class="page4_message_2">
 		  当ページから限定の<br>
 		  特別な料金で初回カウンセリングをさせていただきます!
@@ -476,6 +475,7 @@
 　　　　　　　　　　　<a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">初回カウンセリング予約</a>
       </div>
     </div>
+	  
   <div class="info_box">
     <div class="infomation_line"></div>
     <div class="infomation">Infomation</div>

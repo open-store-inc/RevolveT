@@ -16,7 +16,6 @@ body {
 
 #container {
 	width: 100%;
-	text-align: center;
 }
 
 ol {
@@ -28,11 +27,16 @@ ol {
   width: 100%;
 }
 
+.interest {
+    margin: 100px 0 0 0;
+}
+
 .imagine {
-	margin: 0;
+	margin-top: 100px;
 }
 
 .desire {
+	text-align: center;
 	margin: 0 5%;
 }
 
@@ -40,24 +44,40 @@ ol {
 	margin: 0 5%;
 }
 
-.reservation_box {
-  margin: 50px 5% 30px;
-  background-color: rgba(255, 255, 255, 0.7);
-  border-radius: 20px;
-  padding:10px 0 40px 0;
-	position: relative;
+.consent {
+  text-align: center;
+  margin: 0 5%;
 }
 
-.yoyaku-box {
+.reservation_box {
+  text-align: center;
   margin: 50px 5% 30px;
   background-color: rgba(255, 255, 255, 0.7);
   border-radius: 20px;
   padding:10px 0 40px 0;
-	position: relative;
+  position: relative;
 }
 
 .info_box {
+  text-align: center;
   margin: 150px 5%;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.h2_box {
+  text-align: center;
+  margin: 100px auto;
+}
+
+h2 {
+	font-size: 2.5rem;
 }
 
 .upper_lin {
@@ -92,7 +112,6 @@ ol {
   font-size: 6rem;
   font-weight: bold;
   text-shadow: 7px 7px 3px #808080;
-  
   padding-left: 10%;
 }
 .page1_message_2_2{
@@ -182,6 +201,7 @@ ol {
 
 .page1_message_6_table {
   width: 100%;
+  height: 300px;
 }
 .page2_message_1 {
   height: 50px;
@@ -190,26 +210,19 @@ ol {
 
 .page2_message_2 {
   text-align: center;
-  margin-top: 350px;
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 
-.page2_message_2_1 {
-  color: blue;
-}
 .page2_message_2_2 {
-  font-size: 2.8rem;
   color: blue;
 }
-.page2_message_2_3 {
-  color: red;
-}
+
 .page2_message_2_4 {
   font-size: 2rem;
 }
 .page2_message_2_5 {
-  font-size: 2.8rem;
+  font-size: 2.5rem;
 	color: red;
 }
 .page2_message_2_6 {
@@ -218,10 +231,10 @@ ol {
 
 
 .page2_message_3 {
-  text-align: center;
-  font-size: 1.5rem;
-  padding-bottom: 100px;
-	position: relative;
+    text-align: center;
+    font-size: 1.8rem;
+    line-height: 35px;
+	margin: 0 15%;
 }
 .page2_message_2_7 {
   font-size: 1.3rem;
@@ -232,7 +245,7 @@ ol {
 .page2_message_3_title {
   text-align: center;
   font-size: 3rem;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
 }
 .page2_message_3_title_line {
   margin: 10px 40%;
@@ -240,6 +253,11 @@ ol {
   height: 1px;
   border-bottom: solid 3px #777777;
 }
+
+.page2_message_100 {
+	position: relative;
+}
+
 .page2_message_3_1 {
   color: white;
   background-color: #0071BB;
@@ -264,7 +282,7 @@ ol {
   padding: 10px;
   background-color: white;
   width: 420px;
-  margin: 0 auto;
+  margin: 50px auto 0px;
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
@@ -299,7 +317,7 @@ ol {
 }
 
 .page2_message_4 {
-  margin: 450px 0 500px 0;
+  margin: 600px 0 500px 0;
   text-align: center;
 	position: relative;
 }   
