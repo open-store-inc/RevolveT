@@ -136,9 +136,9 @@
 
     <div class="page2_message_3">
       <span>
-      <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが当施術院は<br><span class="page2_message_2_6"><br></span>
-		  脂肪由来幹細胞培養液と比較した場合再生因子は<span><span class="page2_message_2_3">264倍</span>も高い濃度で含有しています。</span><br>
-        <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
+		   <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが当施術院は<br><span class="page2_message_2_6"><br></span>
+			  脂肪由来幹細胞培養液と比較した場合再生因子は<span><span class="page2_message_2_3">264倍</span>も高い濃度で含有しています。</span><br>
+         <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
       </span>
     </div>
 	  
@@ -159,7 +159,7 @@
       </div>
       <div class="page2_message_3_image">
          <div class="page2_message_3_image_1">
-           <img src="<?php echo get_template_directory_uri(); ?>/image/LED.jpg" alt="LED照射" / class="image" width="400">
+           <img src="http://revolvet.local/wp-content/uploads/2021/04/5D5A0018.jpg" alt="LED照射" / class="image" width="400">
 		  </div>
       </div>
       <!-- 以下はabsolute -->
@@ -181,7 +181,7 @@
     <div class="page2_message_4">
       <div class="page2_message_4_1">
         <ul>
-          <li class="point-title">
+          <li class="page2_message_4_1_1 point-title">
             イオン導入の約60倍のエレクトロポーションで効果・持続性がアップ !
           </li>
         </ul>
@@ -261,7 +261,10 @@
         <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
       </div>
       <!-- 以上はabsolute -->
-
+ 
+      <div class="yoyaku_box">
+　　　　　　　　　　　<a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">初回カウンセリング予約</a>
+      </div>
 
       <div class="page3_message_2_">
         初回カウンセリングの流れ
@@ -438,7 +441,7 @@
       </div>
 
       <div class="page6_message_1">
-        まずは専門スタッフがお客様のお悩みをしっかりお聞きします
+        専門スタッフがお客様のお悩みをしっかりお聞きします
       </div>
 
       <div class="page3_message_3">
@@ -446,7 +449,7 @@
       </div>
 
       <div class="page6_message_1">
-        マイクロスコープを使い、頭皮の現状をしっかりチェック致します
+        マイクロスコープを使い、頭皮の現状をしっかりチェックします
       </div>
 
       <div class="page3_message_3">
@@ -454,7 +457,7 @@
       </div>
 
       <div class="page6_message_1">
-        ご家庭でした方が良いケア、しない方が良いケアをお教え致します
+        ご家庭でして頂いた方が良いケア、しない方が良いケアをお教えします
       </div>
 
       <div class="page3_message_3">
@@ -498,6 +501,10 @@
 
       <div class="page3_message_3__">
         <span class="page3_message_3_1"><img src="<?php echo get_template_directory_uri(); ?>/image/26526.png" width="50" class="page3_message_3_1_img">06-7410−1982</span><span class="price2980"> ￥２,９８０</span>
+      </div>
+		
+　　　　　　　　<div class="yoyaku_box">
+　　　　　　　　　　　<a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">初回カウンセリング予約</a>
       </div>
 
     </div>
