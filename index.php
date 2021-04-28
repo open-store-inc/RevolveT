@@ -250,17 +250,14 @@
 
       <div class="page3_message_2">
         <div class="page3_message_2_1">まずは<br>ご相談ください<br></div>
-      </div>
+		  <div class="page3_message_3_image">
+			<img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
+		  </div>
+		</div>
 
       <div class="page3_message_3__">
         <span class="page3_message_3_1"><img src="<?php echo get_template_directory_uri(); ?>/image/26526.png" width="50" class="page3_message_3_1_img">06-7410−1982</span><span class="price2980"> ￥２,９８０</span>
       </div>
-
-      <!-- 以下はabsolute -->
-      <div class="page3_message_3_image">
-        <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
-      </div>
-      <!-- 以上はabsolute -->
  
       <div class="yoyaku_box">
 　　　　　　　　　　　<a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">初回カウンセリング予約</a>
@@ -457,7 +454,7 @@
       </div>
 
       <div class="page6_message_1">
-        ご家庭でして頂いた方が良いケア、しない方が良いケアをお教えします
+         ご家庭でして頂いた方が良いケア、しない方が良いケアをお教えします
       </div>
 
       <div class="page3_message_3">
@@ -479,9 +476,6 @@
       <div class="page6_message_image3">
       <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
       </div>
-      <div class="page6_message_image4">
-      <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
-      </div>
       <!-- 以上はabsolute -->
 
 
@@ -497,6 +491,9 @@
 
       <div class="page3_message_2">
         <div class="page3_message_2_1">まずは<br>ご相談ください<br></div>
+		  <div class="page6_message_image4">
+          <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon">
+        </div>
       </div>
 
       <div class="page3_message_3__">

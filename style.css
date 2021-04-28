@@ -467,6 +467,7 @@ ul {
 }
 .page3_message_2 {
   font-size: 2rem;
+	position: relative;
 }
 .page3_message_2_1 {
   margin: 10px 30% 20px 0;
@@ -486,7 +487,7 @@ ul {
 .page3_message_3_image{
   position: absolute;
   left: 65%;
-  top: 280px;
+  top: 0px;
 }
 
 .page3_message_3_{
@@ -673,7 +674,7 @@ ul {
 .page6_message_image4{
   position: absolute;
   left: 65%;
-  top: 1340px;
+  top: -5px;
 }
 
 
@@ -877,7 +878,6 @@ ul {
 	
   .page3_message_3_image{
     left: 75%;
-    top: 320px;
   }
 	
 	.page3_message_3__ {
@@ -898,7 +898,6 @@ ul {
 	
   .page6_message_image4 {
     left: 75%;
-    top: 1390px;
   }
 	
   .fix1 a {
@@ -1140,7 +1139,7 @@ ul {
 }
 
 	.page3_message_3_image {
-		top: 225px;
+		top: 15px;
       left: 62%;
 	}
 
@@ -1280,7 +1279,7 @@ ul {
    }
 
 	.page6_message_image4 {
-		 top: 1100px;
+		 top: 15px;
 		left: 61%;
 	}
 	
@@ -1446,7 +1445,7 @@ ul {
 	
 	.page1_message_5 {
     font-size: 0.8rem;
-    top: 250px;
+    top: 225px;
     width: 70%;
 }
 	
@@ -1547,7 +1546,7 @@ ul {
 	.page2_message_4_abusolute {
 		font-size: 0.8rem;
 		line-height: 1.5em;
-		top: 480px;
+		top: 500px;
 		font-weight: normal;
 	}
 	
@@ -1591,8 +1590,7 @@ ul {
 }
 
 	.page3_message_3_image {
-		top: 225px;
-      left: 70%;
+      left: 75%;
 	}
 
 	.page3_message_8{
@@ -1727,13 +1725,12 @@ ul {
 	
 		.page6_message_image3 {
     left: 30px;
-	top: 720px;
+	top: 710px;
 }
 
 	.page6_message_image4 {
-		top: 1220px;
-		left: 70%;
-	}left: 70%;
+		left: 75%;
+	}
 	
 	
 	.allow_icon {
@@ -1821,7 +1818,7 @@ ul {
 	.yoyaku_box {
     width: 90%;
     font-size: 1rem;
-    margin: 50px auto;
+    margin: 50px auto 15px;
    }
 	
 	.yoyaku_box a {
