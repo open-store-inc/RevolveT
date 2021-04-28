@@ -7,6 +7,55 @@ Author:
 
 @import url("css/normalize.css");
 
+
+/* ここからfrontページ用CSS */
+
+
+.front-header_box {
+	 position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    letter-spacing: 2px;
+    background-color:#f4f5f7;;
+}
+
+.logo {
+	position: absolute;
+}
+
+.header-logo {
+}
+
+.header_menu{
+	position: absolute;
+	right: 0;
+}
+
+.menu_btn {
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+	background: #ffa83d;
+	border: none;
+	width: 160px;
+	height: 80px;
+	overflow: hidden;
+	position: relative;
+	cursor: pointer;
+	outline: none;
+}
+
+
+.front-img {
+	width: 100%;
+}
+/* ここまでfrontページ用CSS */
+
+
+
 body {
   background-color: #f4f5f7;
   width: 100%;
@@ -16,48 +65,16 @@ body {
 
 #container {
 	width: 100%;
-	text-align: center;
 }
 
 ol {
   list-style-type: none;
 }
 
+
 .header_box {
   text-align: center;
   width: 100%;
-}
-
-.imagine {
-	margin: 0;
-}
-
-.desire {
-	margin: 0 5%;
-}
-
-.comparsion {
-	margin: 0 5%;
-}
-
-.reservation_box {
-  margin: 50px 5% 30px;
-  background-color: rgba(255, 255, 255, 0.7);
-  border-radius: 20px;
-  padding:10px 0 40px 0;
-	position: relative;
-}
-
-.yoyaku-box {
-  margin: 50px 5% 30px;
-  background-color: rgba(255, 255, 255, 0.7);
-  border-radius: 20px;
-  padding:10px 0 40px 0;
-	position: relative;
-}
-
-.info_box {
-  margin: 150px 5%;
 }
 
 .upper_lin {
@@ -250,6 +267,10 @@ ol {
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
+ul {
+    padding-inline-start: 0px;
+}
+
 .point-title {
 	padding: 25px 0px 25px 100px;
 	list-style: none;
@@ -274,7 +295,7 @@ ol {
   background-color: #0099ff;
   padding: 5% 1%;
   color: white;
-  top: 500px;
+  top: 540px;
   border-radius: 20px;
   left: 50%;
   transform: translateX(-50%);
@@ -299,10 +320,17 @@ ol {
 }
 
 .page2_message_4 {
-  margin: 450px 0 500px 0;
+  margin: 450px 0 200px 0;
   text-align: center;
 	position: relative;
-}   
+}
+
+.page2_message_10{
+  margin: 500px 5% 50px 5%;
+	padding-bottom: 100px;
+  text-align: center;
+}
+    
 
 .page2_message_4_image {
     margin-top: 60px;
@@ -394,6 +422,14 @@ ol {
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
+.page3_message_box {
+  margin: 50px 0 30px 0;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 20px;
+  padding:10px 0 40px 0;
+	position: relative;
+}
+
 .page3_message_title {
   padding-top: 20px;
   font-size: 3rem;
@@ -431,7 +467,7 @@ ol {
 }
 
 .page3_message_3_1_img{
-  margin: 10px;
+  padding-right:10px;
 }
 .price2980{
   color: red;
@@ -439,7 +475,7 @@ ol {
 
 .page3_message_3_image{
   position: absolute;
-  left: 68%;
+  left: 65%;
   top: 0px;
 }
 
@@ -660,6 +696,7 @@ ol {
 }
 .infomation_message_text{
   font-size:2.4rem;
+  padding-bottom: 100px;
 }
 
 .page2_message_4_6{
@@ -840,6 +877,10 @@ color: white;
 	.page2_message_4_6 {
     margin: 40px 10%;
 }
+	
+  .page2_message_10 {
+    margin-top: 600px;
+  }
 	
 	.page3_message_title_sub {
     margin: 50px 10%;
@@ -1131,7 +1172,6 @@ color: white;
 }
 	.page3_message_3_1_img {
     width: 25px;
-    margin-bottom: 3px;
 }
 	
 	.page3_message_5 {
@@ -1156,6 +1196,10 @@ color: white;
 
 	.page3_message_title_sub {
     font-size: 1.5rem;
+	}
+
+	.page3_message_box {
+		margin: 50px 0 170px 0;
 	}
 	
 	.page3_message_2_ {
@@ -1226,7 +1270,7 @@ color: white;
 	 top: 290px;
 }
 	
-  .page6_message_image2 {
+		.page6_message_image2 {
     left: 75px;
 		top: 480px;
 }
@@ -1323,6 +1367,10 @@ color: white;
 		font-size: 1.2rem;
 	}
 }
+
+
+
+
 
 
 
@@ -1560,7 +1608,7 @@ color: white;
     font-size: 1rem;
 }
 	.page3_message_3_1_img {
-	margin-bottom: 0px;
+    width: 25px;
 }
 	
 	.page3_message_5 {
@@ -1586,6 +1634,10 @@ color: white;
 	.page3_message_title_sub {
     margin: 30px 5%;
     font-size: 0.8rem;
+	}
+
+	.page3_message_box {
+		margin: 50px 0 170px 0;
 	}
 	
 	.page3_message_2_ {
@@ -1767,58 +1819,3 @@ color: white;
     padding: 30px;
    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-/* ここからfrontページ用CSS */
-.front-header_box {
-	 position: fixed;
-    z-index: 999;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 80px;
-    letter-spacing: 2px;
-    background-color:#f4f5f7;;
-}
-
-.logo {
-	position: absolute;
-}
-
-.header-logo {
-}
-
-.header_menu{
-	position: absolute;
-	right: 0;
-}
-
-.menu_btn {
-	color: #fff;
-	font-size: 16px;
-	font-weight: bold;
-	background: #ffa83d;
-	border: none;
-	width: 160px;
-	height: 80px;
-	overflow: hidden;
-	position: relative;
-	cursor: pointer;
-	outline: none;
-}
-
-
-.front-img {
-	width: 100%;
-}
-/* ここまでfrontページ用CSS */

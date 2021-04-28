@@ -1,90 +1,98 @@
 <html>
+	
   <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" />
   </head>
- 
+	
   <body>
   <div id="container">
   <header>
-	 <div class="header_box">
-     <img src=https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png alt="logo"/ class="image" alt="Re'volve 本町">
-    </div>
-   </header>
- 
+	  <div class="header_box">
+		<img src=https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png alt="logo"/ class="image" alt="Re'volve 本町">
+	  </div>
+  </header>
+
   <div class="main">
-  <section class="attention">
+  <section　 class="attention">
     <div class="upper_line"></div>
        <div class="page1_message_1">
          <h1>女性のための発育技術<br>自慢できる美しい髪で明るい生活を楽しめる</h1>
        </div>
        <div class="under_line"></div>
-       <div class="page1_message_2">
-		   <span class="page1_message_2_2">医師が推奨する技術を</span><br>
-         <span class="page1_message_2_2_1">使って顧客満足度</span>
-       </div>
-       <span class="page1_message_2_1">98.8%</span>
-       <div class="page1_message_4">
-		   <div class="page1_message_4_title">
-          <div class="page1_message_4_title_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/45312.png" width="40" alt="こんな髪の悩みはありませんか？" class="inline_img">
-            こんな髪の悩みはありませんか？
-          </div>
-		   </div>
-		   <ol>
-			   <li class="page1_message_4_title_li">
-				   <span class="page1_message_4_title_1_1">
-					   <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="薄毛をなんとかごまかそうと髪型に苦心している" class="inline_img">
-					   薄毛をなんとかごまかそうと髪型に苦心している
-				   </span>
-			   </li>
-			   <li class="page1_message_4_title_li">
-				   <span class="page1_message_4_title_1_1">
-					   <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="明るい所や日が当たる場所で、頭皮がみえてしまう..." class="inline_img">
-					   明るい所や日が当たる場所で、頭皮がみえてしまう...
-				   </span>
-			   </li>
-			   <li class="page1_message_4_title_li">
-				   <span class="page1_message_4_title_1_2">
-					   <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="髪が薄くなってきたことにより自信がなくなってた" class="inline_img">
-					   髪が薄くなってきたことにより自信がなくなってた
-				   </span>
-			   </li>
-			   <li class="page1_message_4_title_li">
-				   <span class="page1_message_4_title_1_1">
-					   <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="今まで散々色々なものを色々なものを試したがどれも効かなかった" class="inline_img">
-					   今まで散々色々なものを色々なものを試したがどれも効かなかった
-				   </span>
-			   </li>
-			   <li class="page1_message_4_title_li">
-				   <span class="page1_message_4_title_1_1">
-					   <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="風が強いとすぐに髪の毛が乱れてしまう" class="inline_img" >
-					風が強いとすぐに髪の毛が乱れてしまう
-				  </span>
-				</li>
-			  </ol>
-<!-- 以下はabsolute -->
-			  <div class="page1_message_5">
-				このようなお悩みをお持ちの方
-			  </div>
-
-			  <div class="page1_message_image">
-			  <img src="<?php echo get_template_directory_uri(); ?>/image/2021_0212.png" width="450">
-			  </div>
-<!-- 以上はabsolute -->
-	  		</div>
-
-		  <div class="page1_message_6">
-			  <div class="page1_message_6_xxx">
-				  安心してください。当サロンが研究を重ね発見した
-			  </div>
+		  <div class="page1_message_2">
+		    <span class="page1_message_2_2">医師が推奨する技術を</span>
 			  <br>
-			  <div class="page1_message_6_yyy">
-				  最新の
-				  <span class="page1_message_6_1">育毛発毛促進技術</span>
-				  が登場
+			 <span class="page1_message_2_2_1">使って顧客満足度</span>
+		  </div>
+		  
+		  <span class="page1_message_2_1">98.8%</span>
+
+			<div class="page1_message_4">
+			  <div class="page1_message_4_title">
+				 <div class="page1_message_4_title_1">
+					<img src="<?php echo get_template_directory_uri(); ?>/image/45312.png" width="40" alt="こんな髪の悩みはありませんか？" class="inline_img">
+					 こんな髪の悩みはありませんか？
+				 </div>
 			  </div>
-		  </div>	
+			
+      <ol>
+        <li class="page1_message_4_title_li">
+          <span class="page1_message_4_title_1_1">
+			  <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="薄毛をなんとかごまかそうと髪型に苦心している" class="inline_img">
+            薄毛をなんとかごまかそうと髪型に苦心している
+          </span>
+        </li>
+        <li class="page1_message_4_title_li">
+          <span class="page1_message_4_title_1_1">
+          <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="明るい所や日が当たる場所で、頭皮がみえてしまう..." class="inline_img">
+               明るい所や日が当たる場所で、頭皮がみえてしまう...
+          </span>
+       </li>
+        <li class="page1_message_4_title_li">
+        <span class="page1_message_4_title_1_2">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="髪が薄くなってきたことにより自信がなくなってた" class="inline_img">
+            髪が薄くなってきたことにより自信がなくなってた
+          </span>
+        </li>
+        <li class="page1_message_4_title_li">
+        <span class="page1_message_4_title_1_1">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="今まで散々色々なものを色々なものを試したがどれも効かなかった" class="inline_img">
+            今まで散々色々なものを色々なものを試したがどれも効かなかった
+          </span>
+        </li>
+        <li class="page1_message_4_title_li">
+        <span class="page1_message_4_title_1_1">
+            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="風が強いとすぐに髪の毛が乱れてしまう" class="inline_img" >
+            風が強いとすぐに髪の毛が乱れてしまう
+          </span>
+        </li>
+      </ol>
+<!-- 以下はabsolute -->
+		  <div class="page1_message_5">
+			このようなお悩みをお持ちの方
+		  </div>
+
+		  <div class="page1_message_image">
+		  <img src="<?php echo get_template_directory_uri(); ?>/image/2021_0212.png" width="450">
+		  </div>
+<!-- 以上はabsolute -->
+	  </div>
+
+
+
+
+    <div class="page1_message_6">
+		<div class="page1_message_6_xxx">
+         安心してください。当サロンが研究を重ね発見した
+		</div>
+      <br>
+		<div class="page1_message_6_yyy">
+			最新の
+        <span class="page1_message_6_1">育毛発毛促進技術</span>
+         が登場
+		</div>
+    </div>
 　
     <table class="page1_message_6_table">
       <tr><br>
@@ -93,13 +101,13 @@
              <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-1.png" class="image" width="300" width="300" alt="今テレビ雑誌メディアで話題">
           </div>
         </th>
- 
+
         <th>
           <div class="page2_message_1">
           <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-2.png" class="image" width="300" width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
           </div>
         </th>
- 
+
         <th>
           <div class="page2_message_1">
           <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-3.png" class="image" width="300" width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
@@ -107,7 +115,7 @@
         </th>
       </tr>
     </table>
- 
+
     <div class="page2_message_2">
     <span>ついに
       <span class="page2_message_2_1">最新の</span>
@@ -124,8 +132,8 @@
     </span>
       で発毛させます。<span class="page2_message_2_6"><br></span>
     </div>
- 
- 
+
+
     <div class="page2_message_3">
       <span>
 		   <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが当施術院は<br><span class="page2_message_2_6"><br></span>
@@ -133,16 +141,15 @@
          <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
       </span>
     </div>
-  </section>
- 
-	<section class="interest">
+  </section　>
+			  	  
     <div class="page2_message_3_title">
       <div class="page2_message_3_title_line">&nbsp;</div>
       POINT
       <div class="page2_message_3_title_line">&nbsp;</div>
     </div>
- 
- 
+
+
     <div class="page2_message_3">
       <div class="page2_message_3_1">
           <div class= "point-title">
@@ -157,7 +164,7 @@
       <!-- 以下はabsolute -->
       <div class="page2_message_3_abusolute">
         <span >
-        当サロンでは幹細胞の培養液と合わせてLED照射をおこないます。<br>
+        当サロンでは幹細胞の培養液と合わせてLED照射をおこないます。<br>
         </span><br>
         薬などで強制的に発毛させるのではなく、LEDとヒト幹細胞培養液とを<br>
         組み合わせる事によって
@@ -168,20 +175,23 @@
       </div>
       <!-- 以上はabsolute -->
     </div>
- 
- 
+
+
     <div class="page2_message_4">
       <div class="page2_message_4_1">
 		  <div class= "point-title">
 			  イオン導入の約60倍のエレクトロポーションで効果・持続性がアップ !
 		  </div>
       </div>
+
+
       <div class="page2_message_4_2">そもそもヒト幹細胞培養液に限らず、どれだけ高級な美容液や育毛剤を<br>ただ塗っているだけでは表面で止まっているだけで奥には浸透しません。</div>
         <div class="page2_message_4_image">
           <div class="page2_message_4_image_1">
             <span><img src="https://hidetonishi.com/wp-content/uploads/2021/02/スクリーンショット-2021-02-10-13.55.35.png" class="image" width="600" alt="エレクトロポーションで効果・持続性がアップ!"></span>
           </div>
         </div>
+
         <!-- 以下はabsolute -->
         <div class="page2_message_4_abusolute">
           当サロンではLED治療に加え、エレクトロポーションを使いヒト幹細胞培養液の最高峰である<br>
@@ -195,78 +205,76 @@
         </div>
       <!-- 以上はabsolute -->
     </div>
-   </section>
 
-   <section class="imagine">
-	  <div class="page2_message_4_5">
-		  <div class="point-title">
-			  当店がTV取材を受けました
-		  </div>
-	  </div>
+    <div class="page2_message_10">
+      <div class="page2_message_4_5">
+          <div class="point-title">
+            当店がTV取材を受けました
+		    </div>
+      </div>
 
-	  <div class="page2_message_4_iframe">
-		  <span>
-			  <iframe width="560" height="315" src="https://www.youtube.com/embed/b_aTGKeWGA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
-		  </span>
-	  </div>
+    <div class="page2_message_4_iframe">
+      <span>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/b_aTGKeWGA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
+      </span>
+    </div>
+	 
+	 <div class="page2_message_4_6">
+		 <div class="point-title">
+         こちらで分かりやすく解説しています 			 
+		 </div>
+    </div>
 
-	  <div class="page2_message_4_6">
-		  <div class="point-title">
-			  こちらで分かりやすく解説しています 			 
-		  </div>
-	  </div>
 	 <div class="page2_message_4_iframe">
 		 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3ife-OcREI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
 	 </div>
-	</section>
-   <div class="reservation_box">
-	   <div class="page3_message_title">
-		   <span>ホームページを見た方限定</span>
-	   </div>
+		
+    <div class="page3_message_box">
+      <div class="page3_message_title">
+        <span>ホームページを見た方限定</span>
+      </div>
+		
+      <div class="page3_message_title_sub">最先端の幹細胞施術による発毛促進</div>
+      <div class="page3_message_1">
+        <span class="page3_message_1_1">初回</span>カウンセリング&nbsp;&nbsp;  <span class="price8000">￥８,０００-</span><br>
+      </div>
 
-	   <div class="page3_message_title_sub">最先端の幹細胞施術による発毛促進</div>
-	   <div class="page3_message_1">
-		   <span class="page3_message_1_1">初回</span>カウンセリング&nbsp;&nbsp;  <span class="price8000">￥８,０００-</span><br>
-	   </div>
+      <div class="page3_message_2">
+        <div class="page3_message_2_1">まずは<br>ご相談ください<br></div>
+		  <div class="page3_message_3_image">
+			<img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
+		  </div>
+		</div>
 
-	   <div class="page3_message_2">
-		   <div class="page3_message_2_1">まずは<br>ご相談ください<br></div>
-		   <div class="page3_message_3_image">
-			   <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
-		   </div>
-	   </div>
-
-	   <div class="page3_message_3__">
-		   <img src="<?php echo get_template_directory_uri(); ?>/image/26526.png" width="50" class="page3_message_3_1_img">
-		   <span class="page3_message_3_1">06-7410−1982</span><span class="price2980"> ￥２,９８０</span>
-	   </div>
-
-	   <div class="yoyaku_box">
-		   <a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">初回カウンセリング予約</a>
-	   </div>
-
-	   <div class="page3_message_2_">
-		   初回カウンセリングの流れ
-	   </div>
-	   <div class="No">01</div>
-	   <div class="page3_message_3">
-		   専門スタップによるカウンセリング
-	   </div>
-	   <div class="No">02</div>
-	   <div class="page3_message_3">
-		   まずは現状をしっかり把握
-	   </div>
-	   <div class="No">03</div>
-	   <div class="page3_message_3">
-		   発毛・育毛に徹底したアドバイス
-	   </div>
-	   <div class="No">04</div>
-	   <div class="page3_message_3">
-		   今後の状態に見通しができる
-	   </div>
-	 </div>
+      <div class="page3_message_3__">
+        <span class="page3_message_3_1"><img src="<?php echo get_template_directory_uri(); ?>/image/26526.png" width="50" class="page3_message_3_1_img">06-7410−1982</span><span class="price2980"> ￥２,９８０</span>
+      </div>
  
-	<section class="desire">
+      <div class="yoyaku_box">
+　　　　　　　　　　　<a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">初回カウンセリング予約</a>
+      </div>
+
+      <div class="page3_message_2_">
+        初回カウンセリングの流れ
+      </div>
+      <div class="No">01</div>
+      <div class="page3_message_3">
+        専門スタップによるカウンセリング
+      </div>
+      <div class="No">02</div>
+      <div class="page3_message_3">
+        まずは現状をしっかり把握
+      </div>
+      <div class="No">03</div>
+      <div class="page3_message_3">
+        発毛・育毛に徹底したアドバイス
+      </div>
+      <div class="No">04</div>
+      <div class="page3_message_3">
+        今後の状態に見通しができる
+      </div>
+    </div>
+
     <div class="page3_message_4">
       <div class="page3_message_4_1">
         あなた自信が<br>
@@ -275,17 +283,17 @@
         薄毛の原因をわかっていますか?
         </div>
     </div>
- 
+
     <div class="page3_message_5">
        実は、薄毛で悩んでいる方で 「
       <span class="page3_message_5_1">自分自身の薄毛の原因</span>」<br>
-       をわかっていない方は大多数いらっしゃいます!!
+       をわかっていない方は大多数いらっしゃいます!!
     </div>
- 
+
     <div class="page3_message_5_image">
       <img src="<?php echo get_template_directory_uri(); ?>/image/image-02.jpg" class="image" width="800">
     </div>
- 
+
     <div class="page3_message_6_title">
       薄毛の原因は主に2つ。
     </div>
@@ -297,16 +305,16 @@
       次第に細くて柔らかい毛しか生えて来なくなります。<br>
       その結果薄毛の原因になります。
     </div>
- 
+
     <div class="page3_message_6_image">
       <img src="<?php echo get_template_directory_uri(); ?>/image/image-03.jpg" class="image" width="800">
     </div>
- 
+
     <div class="page3_message_6">
-      また頭皮のコラーゲンが不足すると、髪の毛や毛母細胞自身を痛める原因<br>にもなるので、その結果薄毛を誘発してしまいます。
+      また頭皮のコラーゲンが不足すると、髪の毛や毛母細胞自身を痛める原因<br>にもなるので、その結果薄毛を誘発してしまいます。
     </div>
- 
- 
+
+
     <div class="page3_message_4">
       <div class="page3_message_4_1">
         毛母細胞が弱ると<br>
@@ -315,23 +323,23 @@
         薬や従来の施術では難しい...?
       </div>
     </div>
- 
- 
- 
+
+
+
     <div class="page3_message_8">
 			毛髪細胞が髪の毛を生成する機能が残っていれば、<br>
 			若々しい髪の毛に戻すために従来通りのアプローチでも有効な場合があります。<br>
 			しかし、毛髪細胞がある一定の水準まで弱ってしまったり、<br>
 			そもそも細胞が死んでしまっていると二度と元の状態に戻すことはできません。<br>
- 
+
     	<div class="page3_message_8_1">つまり毛髪細胞が「手遅れ状態」に陥ってしまった方は泣き寝入りするしかなかったのです...</div>
     </div>
- 
+
     <div class="page3_message_9">
 			しかし医療の進歩によって「再生医療技術」が進化し、<br>
 			今までになかった新しい毛髪へのアプローチが可能になりました。
     </div>
- 
+		
 		<div class="page4_message_1">
 		  お客様の声
 		</div>
@@ -341,7 +349,7 @@
 		<div class="page4_message_1_age">
 		  53歳 &nbsp;&nbsp;&nbsp;女性
 		</div>
- 
+
 		<div class="page4_message_2">
 		  カウンセリングで悩みの原因や、<br>
 		  どうしたら髪の毛が生えてくるのかを丁寧におしえていただきました!
@@ -360,7 +368,7 @@
 			最初は不安でしたが、先生の応援もあって続ける事が出来ました。<br>
 			ありがとうございました。
 		</div>
- 
+
 		<div class="page4_message_1_image">
 		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-5.png" class="image" width="600">
 		</div>
@@ -381,67 +389,74 @@
 			ぺたんこでパーマをあてないと嫌だったのに もう、あてなくても良くなりそうな気がして<br>
 			今では、毎朝鏡を見てセットをするのが楽しみになっています。<br>
 		</div>
-    </section>
-	  
-    <section class="comparsion">
-		<div class="page4_message_2">
-		  当ページから限定の<br>
-		  特別な料金で初回カウンセリングをさせていただきます!
-		</div>
 
-		<div class="page5_message_1_image_box">
-		  <img src="<?php echo get_template_directory_uri(); ?>/image/image-04.jpg" class="image" width="540" >
-		  <div class="page5_message_1_image_text">
-			本町店オーナーの吉田です!
-		  </div>
-		</div>
 
-		<div class="page4_message_3"><br>
-		  薄毛、頭皮の状態に悩んでいる人の多くは、<br>
-		  「自分に合った正しい育毛の知識」を知らないことがほとんどです。<br><br>
-		  そのために間違った方法を取ってしまったり、効果のない商材を<br>
-		  何度も買ってしまい損をすることが多く、「薄毛は改善できない」<br>
-		  と思ってしまっている人も相当数います。<br><br>
-		  しかし、正しい知識を知ればマイナスの固定観念がなくなります。<br>
-		  少なくともあなたの心はスッとだいぶ楽になります。<br><br>
-		  精神的にポジティブな思考になり、もっと人生を楽しむためにも、<br>
-		  ぜひこの機会にカウンセリングを受けてみませんか？<br><br>
-		  しっかり責任を持って、丁寧に向き合いますので<br>
-		  少しの勇気と希望を持ってぜひご来店くださいませ！<br>
-		</div>
-    </section>
- 
-    <div class="reservation_box">
+    <div class="page4_message_2">
+      当ページから限定の<br>
+      特別な料金で初回カウンセリングをさせていただきます!
+    </div>
+
+    <div class="page5_message_1_image_box">
+      <img src="<?php echo get_template_directory_uri(); ?>/image/image-04.jpg" class="image" width="540" >
+      <div class="page5_message_1_image_text">
+        本町店オーナーの吉田です!
+      </div>
+    </div>
+
+    <div class="page4_message_3"><br>
+      薄毛、頭皮の状態に悩んでいる人の多くは、<br>
+      「自分に合った正しい育毛の知識」を知らないことがほとんどです。<br><br>
+      そのために間違った方法を取ってしまったり、効果のない商材を<br>
+      何度も買ってしまい損をすることが多く、「薄毛は改善できない」<br>
+      と思ってしまっている人も相当数います。<br><br>
+      しかし、正しい知識を知ればマイナスの固定観念がなくなります。<br>
+      少なくともあなたの心はスッとだいぶ楽になります。<br><br>
+      精神的にポジティブな思考になり、もっと人生を楽しむためにも、<br>
+      ぜひこの機会にカウンセリングを受けてみませんか？<br><br>
+      しっかり責任を持って、丁寧に向き合いますので<br>
+      少しの勇気と希望を持ってぜひご来店くださいませ！<br>
+    </div>
+
+
+    <div class="page3_message_box">
+
       <div class="page3_message_2_">
         初回カウンセリングの流れ
       </div>
+
       <div class="page3_message_3">
         専門スタッフによるカウンセリング
       </div>
+
       <div class="page6_message_1">
         専門スタッフがお客様のお悩みをしっかりお聞きします
       </div>
+
       <div class="page3_message_3">
         まずは現状をしっかり把握
       </div>
+
       <div class="page6_message_1">
         マイクロスコープを使い、頭皮の現状をしっかりチェックします
       </div>
+
       <div class="page3_message_3">
         発毛・育毛に徹底したアドバイス
       </div>
+
       <div class="page6_message_1 page6_message_1_exc">
          ご家庭でして頂いた方が良いケア、しない方が良いケアをお教えします
       </div>
+
       <div class="page3_message_3">
         今後の状態の見通しが出来る
       </div>
- 
+
       <div class="page6_message_1_end">
         薄くなる原因を徹底的に分析し、カウンセリングが終わる頃には、<br>
         今抱えているお悩みの原因を解消いたします!!
       </div>
- 
+
       <!-- 以下はabsolute -->
       <div class="page6_message_image1">
 		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
@@ -453,30 +468,34 @@
       <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon" >
       </div>
       <!-- 以上はabsolute -->
- 
+
+
+
       <div class="page3_message_title">
         <span>ホームページを見た方限定</span>
       </div>
       <div class="page3_message_title_sub">最先端の幹細胞施術による発毛促進</div>
       <div class="page3_message_1">
         <span class="page3_message_1_1">初回</span>カウンセリング  <span class="price8000">￥８,０００-</span><br>
+
       </div>
+
       <div class="page3_message_2">
         <div class="page3_message_2_1">まずは<br>ご相談ください<br></div>
 		  <div class="page6_message_image4">
           <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-6.png" width="100" class="allow_icon">
         </div>
       </div>
+
       <div class="page3_message_3__">
-		  <img src="<?php echo get_template_directory_uri(); ?>/image/26526.png" width="50" class="page3_message_3_1_img">
-        <span class="page3_message_3_1">06-7410−1982</span><span class="price2980"> ￥２,９８０</span>
+        <span class="page3_message_3_1"><img src="<?php echo get_template_directory_uri(); ?>/image/26526.png" width="50" class="page3_message_3_1_img">06-7410−1982</span><span class="price2980"> ￥２,９８０</span>
       </div>
- 
+		
 　　　　　　　　<div class="yoyaku_box">
 　　　　　　　　　　　<a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">初回カウンセリング予約</a>
       </div>
+
     </div>
-  <div class="info_box">
     <div class="infomation_line"></div>
     <div class="infomation">Infomation</div>
     <div class="infomation_line"></div>
@@ -485,60 +504,61 @@
       <br>
       本町店の所在地
     </div>
- 
+
     <div class="infomation_map">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.8817111170133!2d135.4963631152652!3d34.68293479167717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e71d62c8065b%3A0xba12c9e826b33a86!2z44CSNTQxLTAwNTMg5aSn6Ziq5bqc5aSn6Ziq5biC5Lit5aSu5Yy65pys55S677yU5LiB55uu77yU4oiS77yR77yW!5e0!3m2!1sja!2sjp!4v1613025845712!5m2!1sja!2sjp" width="900" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" class="google_map"></iframe>
     </div>
- 
+
     <div class="infomation_message">
-      店舗名
+      店舗名
     </div>
- 
+
     <span class="infomation_message_text">ヒト幹細胞サロン Re'volve本町店</span>
- 
+
     <div class="infomation_message">
       住所
     </div>
- 
+
     <span class="infomation_message_text">大阪府中央区本町４丁目４ー１６ RE-012-080</span>
- 
+
     <div class="infomation_message">
       電話番号
     </div>
- 
+
     <span class="infomation_message_text">06-7410-1982</span>
- 
+
     <div class="infomation_message">
       メール
     </div>
- 
+
     <span class="infomation_message_text">support@revolve-hair.com</span>
- 
+
     <div class="infomation_message">
       営業時間
     </div>
- 
+
     <span class="infomation_message_text">10:00〜20：00(完全予約制)</span>
- 
+
     <div class="infomation_message">
       定休日
     </div>
- 
+
     <span class="infomation_message_text">  無休(年末年始12/29〜1/4除く)</span>
- 
+
     <div class="infomation_message">
       駐車場
     </div>
- 
-    <span class="infomation_message_text">大変申し訳ございません。ご用意しておりません。</span>
-   </div>
-	 <div id="under-fix">
-     <ul id="nav">
-       <li class="fix1"><a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">WEBで予約</a></li> 
-       <li class="fix2"><a href="https://line.me/R/ti/p/%40170wzspd">LINEで予約</a></li>
-       <li class="fix3"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZQfF66CX4McXkESbbRglWnP6XmjxGCNnktxFO0X8lRe3_xg/viewform">お問い合わせ</a></li>
-	  </ul>
-    </div>
-  </div>
+
+    <span class="infomation_message_text">大変申し訳ございません。ご用意しておりません。</span>
+		
+     </div>
+	  <div id="under-fix">
+         <ul id="nav">
+				<li class="fix1"><a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">WEBで予約</a></li>
+				<li class="fix2"><a href="https://line.me/R/ti/p/%40170wzspd">LINEで予約</a></li>
+            <li class="fix3"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZQfF66CX4McXkESbbRglWnP6XmjxGCNnktxFO0X8lRe3_xg/viewform">お問い合わせ</a></li>
+			</ul>
+		</div>
+      </div>
   </body>
 </html>
