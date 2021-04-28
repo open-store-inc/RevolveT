@@ -6,20 +6,20 @@
   </head>
 	
   <body>
-	  <div id="container">
-	  <header>
-			<div class="header_box">
-			   <img src=https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png alt="logo"/ class="image" alt="Re'volve 本町">
-			</div>
-	  </header>
-	  
-	  <div class="main">
-        <div class="upper_line"></div>
-        <div class="page1_message_1">
-			  <span>女性のための発育技術<br>自慢できる美しい髪で明るい生活を楽しめる</span>
-		  </div>
-		  <div class="under_line"></div>
+  <div id="container">
+  <header>
+	  <div class="header_box">
+		<img src=https://revolve-official.com/wp-content/uploads/2021/04/Revolve-logo.png alt="logo"/ class="image" alt="Re'volve 本町">
+	  </div>
+  </header>
 
+  <div class="main">
+  <section　 class="attention">
+    <div class="upper_line"></div>
+       <div class="page1_message_1">
+         <h1>女性のための発育技術<br>自慢できる美しい髪で明るい生活を楽しめる</h1>
+       </div>
+       <div class="under_line"></div>
 		  <div class="page1_message_2">
 		    <span class="page1_message_2_2">医師が推奨する技術を</span>
 			  <br>
@@ -141,7 +141,8 @@
          <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
       </span>
     </div>
-	  
+  </section　>
+			  	  
     <div class="page2_message_3_title">
       <div class="page2_message_3_title_line">&nbsp;</div>
       POINT
@@ -151,11 +152,9 @@
 
     <div class="page2_message_3">
       <div class="page2_message_3_1">
-        <ul>
-          <li class= "page2_message_3_1_1  point-title">
+          <div class= "point-title">
             薬に依存しないLED照射で細胞自体を活性化!
-          </li>
-		  </ul>
+		  </div>
       </div>
       <div class="page2_message_3_image">
          <div class="page2_message_3_image_1">
@@ -180,11 +179,9 @@
 
     <div class="page2_message_4">
       <div class="page2_message_4_1">
-        <ul>
-          <li class="page2_message_4_1_1 point-title">
-            イオン導入の約60倍のエレクトロポーションで効果・持続性がアップ !
-          </li>
-        </ul>
+		  <div class= "point-title">
+			  イオン導入の約60倍のエレクトロポーションで効果・持続性がアップ !
+		  </div>
       </div>
 
 
@@ -211,12 +208,10 @@
 
     <div class="page2_message_10">
       <div class="page2_message_4_5">
-        <ul>
-          <li class="point-title">
+          <div class="point-title">
             当店がTV取材を受けました
-          </li>
-        </ul>
-    </div>
+		    </div>
+      </div>
 
     <div class="page2_message_4_iframe">
       <span>
@@ -225,19 +220,15 @@
     </div>
 	 
 	 <div class="page2_message_4_6">
-        <ul>
-          <li class="point-title">
-            こちらで分かりやすく解説しています
-          </li>
-        </ul>
+		 <div class="point-title">
+         こちらで分かりやすく解説しています 			 
+		 </div>
     </div>
 
 	 <div class="page2_message_4_iframe">
-	 <div class="video">
 		 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3ife-OcREI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
 	 </div>
-	 </div>
-
+		
     <div class="page3_message_box">
       <div class="page3_message_title">
         <span>ホームページを見た方限定</span>
@@ -453,7 +444,7 @@
         発毛・育毛に徹底したアドバイス
       </div>
 
-      <div class="page6_message_1">
+      <div class="page6_message_1 page6_message_1_exc">
          ご家庭でして頂いた方が良いケア、しない方が良いケアをお教えします
       </div>
 
