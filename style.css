@@ -815,12 +815,11 @@ ul {
 .yoyaku_box {
 	 width: 60%;
     margin: 80px auto;
-    background-color: #ff62d6;
+    background: linear-gradient(-135deg ,#ff9090, #ff62d6);
     font-size: 2rem;
     box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
     border-radius: 90px;
     line-height: 1px;
-    border: solid 1px #fff
 } 
 
 .yoyaku_box a {

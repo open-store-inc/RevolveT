@@ -45,10 +45,10 @@
         </li>
         <li class="page1_message_4_title_li">
           <span class="page1_message_4_title_1_1">
-            <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="明るい所や日が当たる場所で、頭皮がみえてしまう..." class="inline_img">
-            明るい所や日が当たる場所で、頭皮がみえてしまう...
+          <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="明るい所や日が当たる場所で、頭皮がみえてしまう..." class="inline_img">
+               明るい所や日が当たる場所で、頭皮がみえてしまう...
           </span>
-        </li>
+       </li>
         <li class="page1_message_4_title_li">
         <span class="page1_message_4_title_1_2">
             <img src="<?php echo get_template_directory_uri(); ?>/image/check.png" width="25" alt="髪が薄くなってきたことにより自信がなくなってた" class="inline_img">
@@ -568,7 +568,7 @@
          <ul id="nav">
 				<li class="fix1"><a href="https://docs.google.com/forms/d/e/1FAIpQLSep5-XsGXON93wIkhrNBaoX9Q6eTLv7LH5QT5KFOyHE6SCebw/viewform">WEBで予約</a></li>
 				<li class="fix2"><a href="https://line.me/R/ti/p/%40170wzspd">LINEで予約</a></li>
-            <li class="fix3"><a href="https://form.run/@revolve-info--1619426354">お問い合わせ</a></li>
+            <li class="fix3"><a href="https://docs.google.com/forms/d/e/1FAIpQLScZQfF66CX4McXkESbbRglWnP6XmjxGCNnktxFO0X8lRe3_xg/viewform">お問い合わせ</a></li>
 			</ul>
 		</div>
       </div>
