@@ -9,10 +9,10 @@ Author:
 
 body {
   background-color: #f4f5f7;
-  width: 100%;
   font-weight:bold;
   font-family: Meiryo, "メイリオ", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", Osaka, Verdana, serif;
 }
+
 
 #container {
 	width: 100%;
@@ -32,7 +32,8 @@ ol {
 }
 
 .imagine {
-	margin-top: 100px;
+	text-align: center;
+	margin: 100px 5%;
 }
 
 .desire {
@@ -73,7 +74,7 @@ ol {
 
 .h2_box {
   text-align: center;
-  margin: 100px auto;
+  margin: 100px 5%;
 }
 
 h2 {
@@ -229,6 +230,22 @@ h2 {
   font-size: 1rem;
 }
 
+.baiyoueki_img_box {
+
+}
+
+.baiyoueki_img_1 {
+	padding: 10px;
+    background-color: white;
+    width: 320px;
+    margin: 0px auto;
+    box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
+}
+
+
+.saitaiketu_box {
+  margin-top: 50px;
+}
 
 .page2_message_3 {
     text-align: center;
@@ -281,7 +298,7 @@ h2 {
 .page2_message_3_image {
   padding: 10px;
   background-color: white;
-  width: 420px;
+  width: 620px;
   margin: 50px auto 0px;
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
@@ -292,7 +309,7 @@ h2 {
   background-color: #0099ff;
   padding: 5% 1%;
   color: white;
-  top: 500px;
+  top: 620px;
   border-radius: 20px;
   left: 50%;
   transform: translateX(-50%);
@@ -316,24 +333,27 @@ h2 {
   left: 50%;
 }
 
+.led_explain {
+	font-size: 1.8rem;
+	margin-top: 480px;
+}
+
 .page2_message_4 {
-  margin: 600px 0 500px 0;
+  margin: 100px 0 550px 0;
   text-align: center;
-	position: relative;
+  position: relative;
 }   
 
 .page2_message_4_image {
-    margin-top: 60px;
     padding: 10px;
     background-color: white;
-    margin: 40px auto;
-    box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
-    width: 610px;
+    width: 620px;
+    margin: 50px auto 0px;
+    box-shadow: 5px 5px 5px 5px rgb(0, 0, 0, 0.5); 
 }
 
 .page2_message_4_iframe {
-    margin-top: 60px;
-    width: 570px;
+    width: 580px;
     padding: 10px;
     background-color: white;
     margin: 40px auto;
@@ -341,7 +361,7 @@ h2 {
 }
 
 .page2_message_4_image_1 {
-  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+   display: flex;
 }
 
 .page2_message_3_abusolute_1 {
@@ -373,7 +393,7 @@ h2 {
   background-color: #0099ff;
   padding: 5% 1%;
   color: white;
-  top: 670px;
+  top: 1100px;
   border-radius: 20px;
   width: 95%;
   left: 50%;
@@ -400,6 +420,65 @@ h2 {
 
 .page2_message_4_abusolute_1 {
   color: #ffff00f5;
+}
+
+.stress-hair {
+    color: white;
+    background-color: #0071BB;
+    margin: 40px 15%;
+    padding: 0px 3%;
+    text-align: center;
+    border-radius: 60px;
+    box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
+}
+
+.stress-hair_box {
+	position: relative;
+	margin-bottom: 400px;
+}
+
+.stress-hair_1 {
+    margin-top: 80px;
+    font-size: 1.6rem;
+}
+
+.stress-hair_image {
+    margin-top: 60px;
+    padding: 10px;
+    background-color: white;
+    margin: 40px auto;
+    box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
+    width: 620px;
+}
+
+.stress-hair_abusolute {
+    font-size: 1.6rem;
+    position: absolute;
+    background-color: #0099ff;
+    padding: 5% 1%;
+    color: white;
+    top: 830px;
+    border-radius: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.stress-hair_abusolute:before {
+  border: solid transparent;
+  content: "";
+  height: 0;
+  width: 0;
+  pointer-events: none;
+  position: absolute;
+  border-color: rgba(0, 153, 255, 0);
+  border-top-width: 42px;
+  border-bottom-width: 42px;
+  border-left-width: 49px;
+  border-right-width: 49px;
+  margin-left: -49px;
+  border-bottom-color: #0099ff;
+  bottom: 100%;
+  left: 50%;
 }
 
 .page2_message_4_5 {
@@ -471,6 +550,7 @@ h2 {
   border-radius: 20px;
   display:flex;
 }
+
 .tr{
   width: 0px;
   height:0px;
@@ -507,12 +587,12 @@ h2 {
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
 .page3_message_4{
-  font-size:2rem;
-  margin:100px 0 50px 0;
-  color:white;
-  border-radius: 30px;
-  background-color: #0071BB;
-  padding:10px 15%;
+    font-size: 2rem;
+    margin: 100px 15% 50px;
+    color: white;
+    border-radius: 30px;
+    background-color: #0071BB;
+    padding: 10px 5%;
 }
 .page3_message_4_1{
   text-align: left;
@@ -556,16 +636,44 @@ h2 {
 
 .page3_message_9{
   font-size:2.2rem;
-  margin-bottom: 100px;
+}
+
+.desire_box {
+	font-size: 2.5rem;
+}
+
+.intro {
+	margin-bottom: 30px;
+}
+
+.size {
+	font-size: 2rem;
+}
+
+.vision_img_1 {
+	margin-top: 60px;
+    padding: 10px;
+    background-color: white;
+    margin: 40px auto;
+    box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
+    width: 620px;
+}
+
+.vision_img_2 {
+    padding: 10px;
+    background-color: white;
+    margin: 80px auto 40px;
+    box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
+    width: 620px;
 }
 
 .page4_message_1{
-  font-size: 2.1rem;
-  margin: 20px 5%;
-  color: white;
-  border-radius: 30px;
-  background-color: #0071BB;
-  padding: 20px 15%;
+    font-size: 2.1rem;
+    margin: 150px 20% 20px;
+    color: white;
+    border-radius: 30px;
+    background-color: #0071BB;
+    padding: 20px 5%;
 }
 .page4_message_1_age{
   margin:10px 0;
@@ -573,7 +681,7 @@ h2 {
 }
 .page4_message_2{
   font-size: 1.8rem;
-  margin: 20px 0;
+  margin: 20px 10%;
   color: white;
   border-radius: 30px;
   background-color: #0071BB;
@@ -589,13 +697,14 @@ h2 {
   border-radius: 30px;
 }
 
-.page5_message_1_image_box{
-  margin: 0 auto 30px;
-  width:600px;
-  background-color: white;
-  height:480px;
-  text-align: center;
-  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+.page5_message_1_image_box {
+    margin: 50px auto;
+    width: 560px;
+    background-color: white;
+    height: 460px;
+    padding-top: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px rgb(0 0 0 / 50%);
 }
 
 .page5_message_1_image{
@@ -603,7 +712,7 @@ h2 {
 }
 
 .page5_message_1_image_text{
-  margin-top:5px;
+  margin-top:10px;
   font-size:1.8rem;
 }
 
@@ -644,7 +753,7 @@ h2 {
 }
 .page6_message_image4{
   position: absolute;
-  left: 65%;
+  left: 68%;
   top: -5px;
 }
 
@@ -719,7 +828,7 @@ color: white;
 .fix1 {
 	height: 100px;
 	background-color: #ff62d6;
-	background-image: url(http://revolvet.local/wp-content/uploads/2021/04/予約・受付け看板の無料アイコン素材-2.png);
+	background-image: url(https://revolve-official.com/wp-content/uploads/2021/04/予約・受付け看板の無料アイコン素材-2.png);
 	background-repeat: no-repeat;
 	background-position: 35px center;
 	background-size: 45px;
@@ -729,7 +838,7 @@ color: white;
 .fix2 {
     height: 100px;
     background-color: #07b53b;
-    background-image: url(http://revolvet.local/wp-content/uploads/2021/04/LINE_SOCIAL_Circle.png);
+    background-image: url(https://revolve-official.com/wp-content/uploads/2021/04/LINE_SOCIAL_Circle.png);
     background-repeat: no-repeat;
     background-position: 30px center;
     background-size: 68px;
@@ -740,7 +849,7 @@ color: white;
 .fix3 {
     height: 100px;
     background-color: #e69e45;
-    background-image: url(http://revolvet.local/wp-content/uploads/2021/04/お問い合わせのアイコン-Q-Aの吹き出し-4-2.png);
+    background-image: url(https://revolve-official.com/wp-content/uploads/2021/04/お問い合わせのアイコン-Q-Aの吹き出し-4-2.png);
     background-repeat: no-repeat;
     background-position: 30px center;
     background-size: 50px;
@@ -817,8 +926,24 @@ color: white;
 		width: 100%;
 	}
 	
+	.image {
+       width: 100%;
+	}
+	
+	.image-harf {
+       width: 50%;
+	}
+	
+	h2 {
+      font-size: 2rem;
+   }
+	
 	.page1_message_image {
      display:none;
+   }
+	
+  .interest {
+    margin: 0;
    }
 
 	.page1_message_2 {
@@ -835,15 +960,24 @@ color: white;
   }
 	
 	.page2_message_3_abusolute {
-    top: 500px;
+    width: 80%;
   }
 	
 	.page2_message_3_1 {
     margin: 40px 5%;
 }
+	
+	.stress-hair {
+    margin: 40px 5%;
+}
+	
+	.stress-hair_abusolute {
+    top: 870px;
+    width: 80%;
+}
 
 	.page2_message_4 {
-		margin: 380px 0 200px 0;
+       margin: 100px 0 650px 0;
 	}
 	
 	
@@ -871,8 +1005,20 @@ color: white;
 		font-size: 3.5rem;
 	}
 	
+	.page3_message_4 {
+    margin: 100px 5% 50px;
+}
+	
 	.page2_message_4_1 {
     margin: 40px 5%;
+}
+	
+	.page3_message_9 {
+    font-size: 2rem;
+}
+	
+	.page4_message_1 {
+    margin-top: 80px;
 }
 	
 	.page6_message_1_exc {
@@ -889,6 +1035,7 @@ color: white;
 	
   .page6_message_image3 {
     left: 7%;
+    top: 740px;
   }
 	
   .page6_message_image4 {
@@ -909,8 +1056,7 @@ color: white;
 .fix3 {
     background-position: 30px center;
     background-size: 50px;
-}
-
+   }
 }
 
 
@@ -922,8 +1068,8 @@ color: white;
 
 @media screen and (max-width: 991px) {
 	
-	.image {
-	  width: 100%;
+	.b-a_image {
+	  width: 60%;
 	}
 	
 	.inline_img {
@@ -976,6 +1122,10 @@ color: white;
     font-size: 1.5rem;
   }
 	
+	.h2_box {
+    margin: 100px 5%;
+}
+	
 	.page1_message_4_title_1 {
     font-size: 1.1rem;
 }
@@ -1011,7 +1161,6 @@ color: white;
 	
 	.page2_message_2 {
     font-size: 1rem;
-	 margin-top: 250px;
    }
 	
 	.page2_message_2_2 {
@@ -1054,7 +1203,7 @@ color: white;
 
 	.page2_message_3_abusolute {
 	   line-height: 1.3em;
-		top: 620px;
+		top: 530px;
 		width: 90%;
 		font-size: 1rem;
 	}
@@ -1071,10 +1220,39 @@ color: white;
 		line-height: 1.3em;
 		font-size: 1.2rem;
 	}
+	
+  .led_explain {
+    font-size: 1rem;
+    margin-top: 240px;
+  }
 
 	.page2_message_4 {
-		margin: 150px 0 0 0;
+		margin: 50px 0 450px 0;
 	}
+	
+	.stress-hair_1 {
+    margin-top: 0px;
+    font-size: 1rem;
+   }
+	
+	.stress-hair_abusolute {
+    font-size: 1rem;
+    top: 730px;
+    line-height: 1.5em;
+    width: 70%;
+}
+	
+	.stress-hair_abusolute:before {
+    border-top-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
+    border-right-width: 15px;
+    margin-left: -20px;
+}
+	
+	.stress-hair_box {
+    margin-bottom: 270px;
+}
 	
 	.page2_message_4_1 {
     margin: 40px 10%;
@@ -1086,16 +1264,15 @@ color: white;
 	}
 
 	.page2_message_100 {
-	  margin: 350px 0 200px 0;
 	}
 
 	.page2_message_4_abusolute {
 		font-size: 1rem;
 		line-height: 1.5em;
-		top: 650px;
+		top: 990px;
 	}
 	
-	  .page2_message_4_abusolute:before {
+  .page2_message_4_abusolute:before {
     border-top-width: 15px;
     border-bottom-width: 15px;
     border-left-width: 15px;
@@ -1110,7 +1287,7 @@ color: white;
 	
 .page2_message_4_2 {
     font-size: 1rem;
-    margin: 80px 5% 0px;
+    margin: 50px 5% 0px;
     line-height: 20px;
 }	
 	
@@ -1192,12 +1369,22 @@ color: white;
 	.page4_message_3 {
 		font-size: 1rem;
 		margin: 30px 0 100px 0;
-		padding: 40px 0 40px 3%;
+		padding: 30px 0 40px 3%;
 	}
 	
 	.page3_message_4 {
     font-size: 1.2rem;
+    margin: 50px 15% 0px;
 	}
+	
+	.desire_box {
+    font-size: 1.5rem;
+}
+	
+	.size {
+    font-size: 1.2rem;
+    line-height: 50px;
+}
 	
 	.page3_message_9 {
     font-size: 1rem;
@@ -1221,12 +1408,14 @@ color: white;
 }
 	
 	.page5_message_1_image_box {
-    width: 80%;
+	}
+	
+	.owner_image {
 	}
 	
 	.page5_message_1_image_text {
     font-size: 1.2rem;
-	margin-top: 25px;
+	margin-top: 15px;
 }
 	
 	.page6_message_1 {
@@ -1265,7 +1454,8 @@ color: white;
 	}
 
 	.No {
-    font-size: 1.2rem;
+    font-size: 1rem;
+    padding: 15px;
 }
 	
 	.infomation_image {
@@ -1350,10 +1540,6 @@ color: white;
 
 @media screen and (max-width: 767px){
 	
-	.image {
-	  width: 100%;
-	}
-	
 	.inline_img {
      width: 12px;
 	}
@@ -1366,6 +1552,27 @@ color: white;
 	.google_map {
 		width: 100%;
 	}
+	
+.interest {
+    margin: 0px 5%;
+   }
+	
+	.imagine {
+    margin: 100px 5% 50px;
+}
+	
+	.page1_message_6_table {
+    height: 120px;
+}
+	
+	h2 {
+    font-size: 1.2rem;
+    line-height: 25px;
+}
+	
+	.h2_box {
+    margin: 50px auto;
+}
 	
 	.page1_message_1 {
     font-size: 1.2rem;
@@ -1427,7 +1634,7 @@ color: white;
 	
 	.page1_message_6 {
     font-size: 1rem;
-	 margin: 150px 5% 30px;
+	 margin-top: 80px;
 }
 	
 	.page1_message_6_1 {
@@ -1436,7 +1643,7 @@ color: white;
 	
 	.page2_message_2 {
     font-size: 1rem;
-		    margin-top: 110px;
+    margin-top: 0px;
 }
 	
 	.page2_message_2_2 {
@@ -1449,6 +1656,19 @@ color: white;
 	
 	.page2_message_2_5 {
     font-size: 1rem;
+}
+	
+	.baiyoueki_img_box {
+	   width: 80%;
+       margin: 0px auto;
+	}
+	
+	.baiyoueki_img_1 {
+    width: 100%;
+}
+	
+	.saitaiketu_box {
+    line-height: 25px;
 }
 	
 	 .page2_message_2_7 {
@@ -1466,22 +1686,21 @@ color: white;
 	
 	.page2_message_3 {
 		font-size: 1rem;
+		margin: 0;
 	}
 	
 	.page2_message_3_1 {
-    margin: 40px 5%;
+    margin: 40px 0;
 }
 	
 	
 	
 	.page2_message_3_image {
-		width: 80%;
-		margin: 50px auto;
 	}
 
 	.page2_message_3_abusolute {
 	   line-height: 1.3em;
-		top: 400px;
+		top: 330px;
 		width: 90%;
 		font-size: 0.8rem;
 		font-weight: normal;
@@ -1499,19 +1718,23 @@ color: white;
 		line-height: 1.3em;
 		font-size: 1.2rem;
 	}
+	
+	.led_explain {
+    font-size: 0.8rem;
+    margin-top: 220px;
+}
 
 	.page2_message_4 {
-		margin: 150px 0 0 0;
+        margin: 50px 0 380px 0
 	}
 
 	.page2_message_100 {
-	  margin: 350px 0 200px 0;
 	}
 
 	.page2_message_4_abusolute {
 		font-size: 0.8rem;
 		line-height: 1.5em;
-		top: 500px;
+		top: 650px;
 		font-weight: normal;
 	}
 	
@@ -1525,10 +1748,16 @@ color: white;
 	
 	.point-title {
     font-size: 0.8rem;
+    padding-left: 30px;
+}
+	
+	.stress-hair_1 {
+    margin-top: 0px;
+    font-size: 0.8rem;
 }
 	
 	.page2_message_4_1 {
-    margin: 40px 5%;
+    margin: 40px 0;
 }
 	
 	.page2_message_4_1_1 {
@@ -1537,13 +1766,18 @@ color: white;
 	
 .page2_message_4_2 {
     font-size: 0.8rem;
-    margin: 80px 5% 0px;
-    line-height: 20px;
 }
 	.page2_message_4_5 {
-		margin: 40px 5%;
+		margin: 0px 5%;
 	}
-	
+.stress-hair_image {
+    width: 80%;
+    margin: 50px auto;
+}
+		.stress-hair_image {
+    width: 90%;
+    margin: 30px auto;
+}
 	
 	.page3_message_title {
     font-size: 1.5rem;
@@ -1586,7 +1820,7 @@ color: white;
 	}
 
 	.page2_message_4_image {
-     width: 90%;
+		margin-top: 30px;
 	}
 	
 	.page2_message_4_iframe {
@@ -1618,16 +1852,42 @@ color: white;
 	.page3_message_3__ {
      font-size: 1.2rem;
    }
+	
+.stress-hair_abusolute {
+    font-size: 0.8rem;
+    top: 460px;
+    line-height: 1.5em;
+    width: 90%;
+    font-weight: normal;
+  }
+	
+	.stress-hair_box {
+    margin-bottom: 200px;
+  }
 
 	.page4_message_3 {
 		font-size: 0.8rem;
-		margin: 30px 0 100px 0;
+        margin: 30px 0 50px 0;
 		padding: 40px 0 40px 3%;
 	}
 	
 	.page3_message_4 {
     font-size: 1rem;
+    margin: 50px 0;
 	}
+
+	.desire_box {
+    font-size: 1.2rem;
+}
+	.size {
+    font-size: 1rem;
+    line-height: 50px;
+}
+
+	.size {
+    font-size: 1rem;
+    line-height: 50px;
+}
 	
 	.page3_message_9 {
     font-size: 1rem;
@@ -1637,23 +1897,49 @@ color: white;
 		padding: 30px 0 20px;
 	}
 	
+	h4 {
+		font-size: 1.1rem;
+	}
+	
+	.vision_box {
+    margin: 0px auto;
+	}
+	
+	.vision_img_1 {
+		width: 100%;
+	}
+	
+	.vision_img_2 {
+		width: 100%;
+	}
+	
 	.page4_message_1_age {
     font-size: 1rem;
 }
 	
 	.page4_message_1 {
     font-size: 1rem;
-    margin: 20px 5%;
+    margin: 70px 5% 20px;
 }
 	
 	.page4_message_2 {
-    font-size: 1rem;
+    font-size: 0.8rem;
+    margin: 20px 0;
 }
 	
 	.page5_message_1_image_box {
-    width: 80%;
+    width: 90%;
     height: 260px;
+    margin: 30px auto 50px;
 	}
+	
+	.b-a_image {
+    width: 80%;
+}
+	
+.owner_image {
+    width: 90%;
+     }
 	
 	.page5_message_1_image_text {
 	 margin-top: 20px;

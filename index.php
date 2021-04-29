@@ -92,19 +92,19 @@
 		  <tr><br>
 			  <th>
 			  <div class="page2_message_1">
-				 <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-1.png" class="image" width="300" width="300" alt="今テレビ雑誌メディアで話題">
+				 <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-1.png" class="image"  width="300" alt="今テレビ雑誌メディアで話題">
 			  </div>
 			</th>
 
 			<th>
 			  <div class="page2_message_1">
-			  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-2.png" class="image" width="300" width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
+			  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-2.png" class="image"  width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
 			  </div>
 			</th>
 
 			<th>
 			  <div class="page2_message_1">
-			  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-3.png" class="image" width="300" width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
+			  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-3.png" class="image"  width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
 			  </div>
 			</th>
 		  </tr>
@@ -112,7 +112,7 @@
 		 
 	<div class="h2_box">
        <h2>
-		 いま話題の再生医療に用いられる<span class="red">ヒト幹細胞</span>を使用した<br>最先端の<span class="blue">再生発毛システム</span>
+		 いま話題の再生医療にも用いられている<span class="red">ヒト幹細胞</span>を使用した<br>業界で最先端の<span class="blue">再生発毛システム</span>
        </h2>
     </div>	 
 		 
@@ -135,7 +135,15 @@
 		<div class="page2_message_3">
 		  <span>
 			   <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが、当施術院は<span class="red">臍帯血幹細胞由来</span>の培養液を贅沢に使用しています。<br><span class="page2_message_2_6"><br></span>
-				  この臍帯血幹細胞由来の培養液は脂肪由来幹細胞培養液と比較すると<span><span class="red">264倍</span>も高い濃度で<span class="blue">再生因子</span>を含有しています。</span><br>
+			  <div class="baiyoueki_img_box">
+				  <div class="baiyoueki_img_1">
+					  <img src="https://revolve-official.com/wp-content/uploads/2021/04/スクリーンショット-2021-04-29-13.48.05.png" alt="臍帯血幹細胞培養液_1" / class="image" width="300">
+				  </div>
+			  </div>
+			  
+			  <div class="saitaiketu_box">
+				 臍帯血幹細胞とは母親から赤ちゃんに臍帯を通じて送る<span class="blue">「身体のもと」</span>となる少量しか摂取できない幹細胞です。<br>その<span class="red">最も希少な幹細胞</span>の培養液は脂肪由来幹細胞培養液と比較すると<span><span class="red">264倍</span>も高い濃度で<span class="blue">再生因子</span>を含有しています。</span><br>
+             </div>
 			 <span class="page2_message_2_7">(この臍帯血幹細胞の培養液を使用したサロンはRe'volve提供店のみとなります)</span>
 		  </span>
 		</div>
@@ -158,7 +166,7 @@
 		   </div>
 		   <div class="page2_message_3_image">
 			   <div class="page2_message_3_image_1">
-				   <img src="http://revolvet.local/wp-content/uploads/2021/04/5D5A0018.jpg" alt="LED照射" / class="image" width="400">
+                   <img src="https://revolve-official.com/wp-content/uploads/2021/04/5D5A0018.jpg" alt="発毛LED照射" / class="image" width="600">
 			   </div>
 		   </div>
 		   <!-- 以下はabsolute -->
@@ -174,19 +182,29 @@
 			   です。
 		   </div>
 		   <!-- 以上はabsolute -->
+		   <div class="led_explain">
+             ＊ LEDによる発毛は大阪大学、京都大学による研究で<span class="red">医学的</span>に証明されています。
+           </div>
 	   </div>
 
-
 	   <div class="page2_message_4">
-		   <div class="page2_message_4_1">
-			   <div class= "point-title">
-				   エレクトロポーションによる導入で効果・持続性がイオン導入の約60倍UP !
+           <div class="page2_message_4_1">
+               <div class= "point-title">
+                  エレクトロポーションによる導入で発毛効果・持続性がイオン導入の約60倍UP !
 			   </div>
-		   </div>
-		   <div class="page2_message_4_2">そもそもヒト幹細胞培養液に限らず、どれだけ高級な美容液や育毛剤も<br>ただ塗っているだけでは表面で止まっているだけで奥には浸透しません。</div>
+              </div>
+		   
 		   <div class="page2_message_4_image">
 			   <div class="page2_message_4_image_1">
-				   <span><img src="https://hidetonishi.com/wp-content/uploads/2021/02/スクリーンショット-2021-02-10-13.55.35.png" class="image" width="600" alt="エレクトロポーションで効果・持続性がアップ!"></span>
+                   <img src="https://revolve-official.com/wp-content/uploads/2021/04/スクリーンショット-2021-04-29-13.49.20.png" class="image-harf" width="300" alt="エレクトロポーション使用図">
+                   <img src="https://revolve-official.com/wp-content/uploads/2021/04/スクリーンショット-2021-04-29-13.49.49.png" class="image-harf" width="300" alt="エレクトロポーション拡大図">
+			   </div>
+		   </div>
+		   
+            <div class="page2_message_4_2">そもそもヒト幹細胞培養液に限らず、どれだけ高級な美容液や育毛剤も<br>ただ塗っているだけでは表面で止まっているだけで奥には浸透しません。</div>
+		   <div class="page2_message_4_image">
+              <div class="page2_message_4_image_1">
+                 <img src="https://hidetonishi.com/wp-content/uploads/2021/02/スクリーンショット-2021-02-10-13.55.35.png" class="image" width="600" alt="エレクトロポーションで発毛効果・持続性がアップ!">
 			   </div>
 		   </div>
 		   <!-- 以下はabsolute -->
@@ -202,7 +220,96 @@
 		   </div>
 		   <!-- 以上はabsolute -->
 	   </div>
+
+       <div class="stress-hair_box">
+		  <div class="stress-hair">
+			  <div class= "point-title">
+                  薄毛 = ストレス を解決する独自技術
+			  </div></div>
+           <div class="stress-hair_1">人はストレスを感じると血液中にコルチゾール（ストレスホルモン）を分泌します。このコルチゾールが髪の原料となるタンパク質を食べてしまう為、髪が育ちにくくなり抜け毛、薄毛につながってしまいます。</div>
+		    <div class="stress-hair_image">
+                <div class="stress-hair_image_1">
+                  <img src="https://revolve-official.com/wp-content/uploads/2021/04/スクリーンショット-2021-04-29-11.05.19.png" class="image" width="600" alt="ストレスによる薄毛・抜け毛治療">
+			   </div>
+		   </div>
+		   <!-- 以下はabsolute -->
+		   <div class="stress-hair_abusolute">
+             当サロンが研究に研究を重ねた結果、<br>頭にある反射区を刺激することで髪の毛を作る<br>毛母細胞の老朽化の原因である<span class="page2_message_3_abusolute_2">コルチゾールの<br>分泌を抑制</span>できることが判明しました !
+		   </div>
+	   </div>
+
+		<div class="page3_message_4">
+			<h3>
+				あなた自信が薄毛の原因をわかっていますか?
+			</h3>
+		</div>
+
+		<div class="page3_message_5">
+		   実は、薄毛で悩んでいる方で 「
+		  <span class="page3_message_5_1">自分自身の薄毛の原因</span>」<br>
+		   をわかっていない方は大多数いらっしゃいます!!
+		</div>
+
+		<div class="page3_message_5_image">
+		  <img src="<?php echo get_template_directory_uri(); ?>/image/image-02.jpg" class="image" width="800">
+		</div>
+
+		<div class="page3_message_6_title">
+		  薄毛の原因は主に2つ。
+		</div>
+		<div class="page3_message_6">
+		  １つは「毛髪サイクルの乱れ」でもう1つは「加齢によるコラーゲン等の減少」です。<br><br>
+		  髪の毛は2~6年ほどで成長しては抜け落ちてというサイクルを繰り返し、<br>
+		  通常毎日100本ぐらいの髪の毛は誰でも抜けています。<br><br>
+		  しかしなんらかの原因で毛母細胞の働きが弱くなるってくると<br>
+		  次第に細くて柔らかい毛しか生えて来なくなります。<br>
+		  その結果薄毛の原因になります。
+		</div>
+
+		<div class="page3_message_6_image">
+		  <img src="<?php echo get_template_directory_uri(); ?>/image/image-03.jpg" class="image" width="800">
+		</div>
+
+		<div class="page3_message_6">
+		  また頭皮のコラーゲンが不足すると、髪の毛や毛母細胞自身を痛める原因<br>にもなるので、その結果薄毛を誘発してしまいます。
+		</div>
+
+
+		<div class="page3_message_4">
+			毛母細胞が弱ると薬や従来の施術では難しい...?
+		</div>
+
+		<div class="page3_message_8">
+				毛髪細胞が髪の毛を生成する機能が残っていれば、<br>
+				若々しい髪の毛に戻すために従来通りのアプローチでも有効な場合があります。<br>
+				しかし、毛髪細胞がある一定の水準まで弱ってしまったり、<br>
+				そもそも細胞が死んでしまっていると二度と元の状態に戻すことはできません。<br>
+
+			<div class="page3_message_8_1">つまり毛髪細胞が「手遅れ状態」に陥ってしまった方は泣き寝入りするしかなかったのです...</div>
+		</div>
+
+		<div class="page3_message_9">
+				しかし医療の進歩によって「再生医療技術」が進化し、<br>
+				今までになかった新しい毛髪へのアプローチが可能になりました。
+		</div>
 	</section>
+	  
+	  <section class="desire">
+		  <div class="desire_box">
+              <div class="intro"><span class="red">LED +<br>エレクトロポーション +<br>独自技術 +<br>臍帯血ヒト幹細胞培養液<br></span>
+                  <span class="size">の組み合わせによって</span>
+			  </div>
+              <h4>実際に多くの方々が<span class="red">驚きの発毛効果</span>を実感されています！</h4>
+			  <div class="vision_box">
+                 <div class="vision_img_1">
+                     <img src="https://revolve-official.com/wp-content/uploads/2021/04/image-003.jpeg" class="image" width="600" alt="つむじ薄毛治療">
+				  </div>
+				  <div class="vision_img_2">
+                      <img src="https://revolve-official.com/wp-content/uploads/2021/04/image-004.jpeg" class="image" width="600" alt="分け目薄毛治療">
+				  </div>
+			  </div>
+		  </div>
+	  </section>
 	  
 	  
    <div class="reservation_box">
@@ -251,70 +358,22 @@
 		   今後の状態に見通しができる
 	   </div>
 	 </div>
- 
-	<section class="desire">
-    <div class="page3_message_4">
-        あなた自信が薄毛の原因をわかっていますか?
-    </div>
- 
-    <div class="page3_message_5">
-       実は、薄毛で悩んでいる方で 「
-      <span class="page3_message_5_1">自分自身の薄毛の原因</span>」<br>
-       をわかっていない方は大多数いらっしゃいます!!
-    </div>
- 
-    <div class="page3_message_5_image">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/image-02.jpg" class="image" width="800">
-    </div>
- 
-    <div class="page3_message_6_title">
-      薄毛の原因は主に2つ。
-    </div>
-    <div class="page3_message_6">
-      １つは「毛髪サイクルの乱れ」でもう1つは「加齢によるコラーゲン等の減少」です。<br><br>
-      髪の毛は2~6年ほどで成長しては抜け落ちてというサイクルを繰り返し、<br>
-      通常毎日100本ぐらいの髪の毛は誰でも抜けています。<br><br>
-      しかしなんらかの原因で毛母細胞の働きが弱くなるってくると<br>
-      次第に細くて柔らかい毛しか生えて来なくなります。<br>
-      その結果薄毛の原因になります。
-    </div>
- 
-    <div class="page3_message_6_image">
-      <img src="<?php echo get_template_directory_uri(); ?>/image/image-03.jpg" class="image" width="800">
-    </div>
- 
-    <div class="page3_message_6">
-      また頭皮のコラーゲンが不足すると、髪の毛や毛母細胞自身を痛める原因<br>にもなるので、その結果薄毛を誘発してしまいます。
-    </div>
- 
- 
-    <div class="page3_message_4">
-        毛母細胞が弱ると薬や従来の施術では難しい...?
-    </div>
- 
-    <div class="page3_message_8">
-			毛髪細胞が髪の毛を生成する機能が残っていれば、<br>
-			若々しい髪の毛に戻すために従来通りのアプローチでも有効な場合があります。<br>
-			しかし、毛髪細胞がある一定の水準まで弱ってしまったり、<br>
-			そもそも細胞が死んでしまっていると二度と元の状態に戻すことはできません。<br>
- 
-    	<div class="page3_message_8_1">つまり毛髪細胞が「手遅れ状態」に陥ってしまった方は泣き寝入りするしかなかったのです...</div>
-    </div>
- 
-    <div class="page3_message_9">
-			しかし医療の進歩によって「再生医療技術」が進化し、<br>
-			今までになかった新しい毛髪へのアプローチが可能になりました。
-    </div>
-		
-    </section>
 	  
-    <section class="comparsion">
-		  <div class="page2_message_4_5">
+<!--     <section class="comparsion">
+       <h5>育毛・発毛業界大手の他社様の頭皮ケア、頭皮洗浄、投薬治療との比較</h5>
+       <div>
+		</div>
+    </section> -->
+	  
+     <section class="consent">
+<!-- 		 <div class="h5_box">
+			 <h5>最新の医療技術と独自技術で業界最注目！</h5>
+		 </div> -->
+		 <div class="page2_message_4_5">
 		  <div class="point-title">
-			  当店がTV取材を受けました
-		  </div>
+			  TVでも当院の施術が話題に！
+         </div>
 	  </div>
-
 	  <div class="page2_message_4_iframe">
 		  <span>
 			  <iframe width="560" height="315" src="https://www.youtube.com/embed/b_aTGKeWGA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
@@ -330,14 +389,11 @@
 		 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3ife-OcREI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe"></iframe>
 	 </div>
 		
-    </section>
-	  
-    <section class="consent">
 	  <div class="page4_message_1">
 		  お客様の声
 		</div>
 		<div class="page4_message_1_image">
-		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-4.png" class="image" width="600">
+		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-4.png" class="b-a_image" width="600">
 		</div>
 		<div class="page4_message_1_age">
 		  53歳 &nbsp;&nbsp;&nbsp;女性
@@ -363,7 +419,7 @@
 		</div>
 		
 		<div class="page4_message_1_image">
-		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-5.png" class="image" width="600">
+		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-5.png" class="b-a_image" width="600">
 		</div>
 		<div class="page4_message_2">
 		  毎朝、鏡を見てセットをするのが楽しみになっています。
@@ -371,7 +427,7 @@
 		<div class="page4_message_1_age">
 		  61歳 &nbsp;&nbsp;&nbsp;女性
 		</div>
-		<div class="page4_message_3"><br><br>
+		<div class="page4_message_3">
 			今まではパーマをあてるとボリュームが出ていましたが、ここ最近はパーマを<br>
 			あてても満足いくようなボリュームがなく、髪の毛が痩せ細ってきたような気がします。<br><br>
 			歳なので仕方ないかなと思いつつも、若々しくいたいなという気持ちがあり、<br>
@@ -389,7 +445,7 @@
 		</div>
 
 		<div class="page5_message_1_image_box">
-		  <img src="<?php echo get_template_directory_uri(); ?>/image/image-04.jpg" class="image" width="540" >
+          <img src="<?php echo get_template_directory_uri(); ?>/image/image-04.jpg" class="owner_image" width="540" >
 		  <div class="page5_message_1_image_text">
 			本町店オーナーの吉田です!
 		  </div>
