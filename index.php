@@ -176,7 +176,7 @@
 			   </span><br>
 			   薬などで強制的に発毛させるのではなく、LEDとヒト幹細胞培養液とを<br>
 			   組み合わせる事によって
-			   <span class="page2_message_3_abusolute_2">
+			   <span class="yellow">
 				   髪の毛を作る細胞事態を再生させる事で<br>薄毛を改善させる最先端の発毛システム
 			   </span>
 			   です。
@@ -214,7 +214,7 @@
 			   エレクトロポーションを使えば今まで注射する以外導入することができなかった<br>
 			   高分子のものも導入可能になります。イオン導入では難しかった高分子成分やコラーゲンやヒアルロン酸や<br>
 			   ヒト幹細胞培養液を浸透させることができます。(浸透力はイオン導入の20~60倍と言われております)<br>また
-			   <span class="page2_message_4_abusolute_1">
+			   <span class="yellow">
 				   痛みを感じることはありませんので「痛みに弱い」という方や「注射が苦手」な方でも安心です。
 			   </span>
 		   </div>
@@ -226,7 +226,7 @@
 			  <div class= "point-title">
                   薄毛 = ストレス を解決する独自技術
 			  </div></div>
-           <div class="stress-hair_1">人はストレスを感じると血液中にコルチゾール（ストレスホルモン）を分泌します。このコルチゾールが髪の原料となるタンパク質を食べてしまう為、髪が育ちにくくなり抜け毛、薄毛につながってしまいます。</div>
+           <div class="stress-hair_1">人はストレスを感じると血液中に<span class="red">コルチゾール</span>（ストレスホルモン）を分泌します。このコルチゾールが髪の原料となるタンパク質を食べてしまう為、髪が育ちにくくなり抜け毛、薄毛につながってしまいます。</div>
 		    <div class="stress-hair_image">
                 <div class="stress-hair_image_1">
                   <img src="https://revolve-official.com/wp-content/uploads/2021/04/スクリーンショット-2021-04-29-11.05.19.png" class="image" width="600" alt="ストレスによる薄毛・抜け毛治療">
@@ -234,7 +234,7 @@
 		   </div>
 		   <!-- 以下はabsolute -->
 		   <div class="stress-hair_abusolute">
-             当サロンが研究に研究を重ねた結果、<br>頭にある反射区を刺激することで髪の毛を作る<br>毛母細胞の老朽化の原因である<span class="page2_message_3_abusolute_2">コルチゾールの<br>分泌を抑制</span>できることが判明しました !
+             当サロンが研究に研究を重ねた結果、<br>頭にある反射区を刺激することで髪の毛を作る<br>毛母細胞の老朽化の原因である<span class="yellow">コルチゾールの<br>分泌を抑制</span>できることが判明しました !
 		   </div>
 	   </div>
 
@@ -246,7 +246,7 @@
 
 		<div class="page3_message_5">
 		   実は、薄毛で悩んでいる方で 「
-		  <span class="page3_message_5_1">自分自身の薄毛の原因</span>」<br>
+		  <span class="page3_message_5_1">自分自身の薄毛の原因</span>」
 		   をわかっていない方は大多数いらっしゃいます!!
 		</div>
 
@@ -319,7 +319,7 @@
 
 	   <div class="page3_message_title_sub">最先端の幹細胞施術による発毛促進</div>
 	   <div class="page3_message_1">
-		   <span class="page3_message_1_1">初回</span>カウンセリング&nbsp;&nbsp;  <span class="price8000">￥８,０００-</span><br>
+		   <span class="page3_message_1_1">初回</span>カウンセリング&nbsp;&nbsp;  <span class="price8000">￥８,０００</span><br>
 	   </div>
 
 	   <div class="page3_message_2">
@@ -514,7 +514,7 @@
       </div>
       <div class="page3_message_title_sub">最先端の幹細胞施術による発毛促進</div>
       <div class="page3_message_1">
-        <span class="page3_message_1_1">初回</span>カウンセリング  <span class="price8000">￥８,０００-</span><br>
+        <span class="page3_message_1_1">初回</span>カウンセリング  <span class="price8000">￥８,０００</span><br>
       </div>
       <div class="page3_message_2">
         <div class="page3_message_2_1">まずは<br>ご相談ください<br></div>
