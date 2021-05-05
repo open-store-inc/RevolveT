@@ -366,8 +366,9 @@
     </section> -->
 	  
      <section class="consent">
-<!-- 		 <div class="h5_box">
-			 <h5>最新の医療技術と独自技術で業界最注目！</h5>
+<!--        <div class="safty_ap">
+		    <h5>安全面について</h5>
+          <span>効果性の高い幹細胞</span>
 		 </div> -->
 		 <div class="page2_message_4_5">
 		  <div class="point-title">
@@ -400,8 +401,7 @@
 		</div>
  
 		<div class="page4_message_2">
-		  カウンセリングで悩みの原因や、<br>
-		  どうしたら髪の毛が生えてくるのかを丁寧におしえていただきました!
+		  カウンセリングで悩みの原因や、<br>どうしたら髪の毛が生えてくるのかを<br>丁寧におしえていただきました!
 		</div>
 		<div class="page4_message_3">
 			ボリュームが気になり、いつしか分け目をどう隠そうかと気になっていたところ、<br>
@@ -422,7 +422,7 @@
 		  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/アセット-5.png" class="b-a_image" width="600">
 		</div>
 		<div class="page4_message_2">
-		  毎朝、鏡を見てセットをするのが楽しみになっています。
+		  毎朝、鏡を見てセットをするのが<br>楽しみになっています。
 		</div>
 		<div class="page4_message_1_age">
 		  61歳 &nbsp;&nbsp;&nbsp;女性
@@ -440,8 +440,7 @@
 		</div>
 		
 		<div class="page4_message_2">
-		  当ページから限定の<br>
-		  特別な料金で初回カウンセリングをさせていただきます!
+		  当ページから限定の特別な料金で<br>初回カウンセリングをさせていただきます!
 		</div>
 
 		<div class="page5_message_1_image_box">
@@ -471,23 +470,22 @@
         初回カウンセリングの流れ
       </div>
       <div class="page3_message_3">
-        専門スタッフによるカウンセリング
+		  専門スタッフによるカウンセリング
       </div>
       <div class="page6_message_1">
-        専門スタッフがお客様のお悩みをしっかりお聞きします
-      </div>
+         専門スタッフがお客様のお悩みをしっかりお聞き致します
+　　　　　　　　</div>
       <div class="page3_message_3">
         まずは現状をしっかり把握
       </div>
       <div class="page6_message_1">
-        マイクロスコープを使い、頭皮の現状をしっかりチェックします
+          マイクロスコープを使い、頭皮の現状をしっかりチェック致します
       </div>
       <div class="page3_message_3">
         発毛・育毛に徹底したアドバイス
       </div>
-      <div class="page6_message_1 page6_message_1_exc">
-         ご家庭でして頂いた方が良いケア、しない方が良いケアをお教えします
-      </div>
+      <div class="page6_message_1 page6_message_1_exc">ご家庭でして頂いた方が良いケア、しない方が良いケアをお教え致します
+　　　　　　　　</div>
       <div class="page3_message_3">
         今後の状態の見通しが出来る
       </div>

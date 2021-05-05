@@ -211,7 +211,7 @@ h2 {
 
 .page2_message_2 {
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: bold;
 }
 
@@ -223,7 +223,7 @@ h2 {
   font-size: 2rem;
 }
 .page2_message_2_5 {
-  font-size: 2.5rem;
+  font-size: 2rem;
 	color: red;
 }
 .page2_message_2_6 {
@@ -634,7 +634,7 @@ h2 {
 }
 
 .page3_message_9{
-  font-size:2.2rem;
+  font-size:1.5rem;
 }
 
 .desire_box {
@@ -671,7 +671,7 @@ h2 {
     margin: 150px 20% 20px;
     color: white;
     border-radius: 30px;
-    background-color: #0071BB;
+    background-color: #11c31e;
     padding: 20px 5%;
 }
 .page4_message_1_age{
@@ -682,8 +682,8 @@ h2 {
   font-size: 1.8rem;
   margin: 20px 10%;
   color: white;
-  border-radius: 30px;
-  background-color: #0071BB;
+  border-radius: 50px;
+  background-color: #11c31e;
   padding: 10px;
 }
 
@@ -752,7 +752,7 @@ h2 {
 }
 .page6_message_image4{
   position: absolute;
-  left: 68%;
+  left: 70%;
   top: -5px;
 }
 
@@ -997,7 +997,7 @@ color: white;
 }
 	
   .page3_message_3_image{
-    left: 75%;
+    left: 78%;
   }
 	
 	.page3_message_3__ {
@@ -1026,19 +1026,21 @@ color: white;
 	
   .page6_message_image1 {
     left: 7%;
+    top: 310px;
   }
 	
   .page6_message_image2 {
     left: 7%;
+    top: 540px;
   }
 	
   .page6_message_image3 {
     left: 7%;
-    top: 740px;
+    top: 765px;
   }
 	
   .page6_message_image4 {
-    left: 75%;
+    left: 78%;
   }
 	
 .fix1 {
@@ -1430,7 +1432,7 @@ color: white;
 	
 	.page6_message_image1 {
     left: 75px;
-	 top: 290px;
+	 top: 285px;
 }
 	
   .page6_message_image2 {
@@ -1647,7 +1649,7 @@ color: white;
 }
 	
 	.page2_message_2 {
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin-top: 0px;
 }
 	
@@ -1656,7 +1658,7 @@ color: white;
   }
 	
 	.page2_message_2_4 {
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
 	
 	.page2_message_2_5 {
@@ -1690,7 +1692,7 @@ color: white;
 }
 	
 	.page2_message_3 {
-		font-size: 1rem;
+		font-size: 0.9rem;
 		margin: 0;
 	}
 	
@@ -1710,14 +1712,6 @@ color: white;
 		font-size: 0.8rem;
 		font-weight: normal;
 	}
-	
-	.page2_message_3_abusolute:before {
-    border-top-width: 15px;
-    border-bottom-width: 15px;
-    border-left-width: 15px;
-    border-right-width: 15px;
-    margin-left: -20px;
-}
 
 	.page2_message_3_abusolute_1 {
 		line-height: 1.3em;
@@ -1753,7 +1747,7 @@ color: white;
 	
 	.point-title {
     font-size: 0.8rem;
-    padding-left: 30px;
+    padding-left: 40px;
 }
 	
 	.stress-hair_1 {
@@ -1794,7 +1788,7 @@ color: white;
 
 	.page3_message_8{
 	  margin: 40px 0 30px 0;
-	  font-size: 1rem;
+	  font-size: 0.8rem;
 	}
 
 	.page2_message_4_6 {
@@ -1822,7 +1816,7 @@ color: white;
 }
 	
 	.page3_message_5 {
-		font-size: 1rem;
+		font-size: 0.8rem;
 	}
 
 	.page2_message_4_image {
@@ -1834,7 +1828,7 @@ color: white;
 }
 
 	.page3_message_6 {
-		font-size: 1rem;
+		font-size: 0.8rem;
 	}
 	
 	.page3_message_6_title {
@@ -1893,12 +1887,12 @@ color: white;
 }
 
 	.size {
-    font-size: 1rem;
+    font-size: 0.8rem;
     line-height: 50px;
 }
 	
 	.page3_message_9 {
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
 
 	.page3_message_title {
@@ -1950,13 +1944,13 @@ color: white;
      }
 	
 	.page5_message_1_image_text {
-	 margin-top: 20px;
+	 margin-top: 17px;
     font-size: 1rem;
 }
 	
 	.page6_message_1 {
-    font-size: 1rem;
-    margin: 60px 20px 50px 80px;
+    font-size: 0.9rem;
+    margin: 60px 20px 50px 70px;
 }
 	
 	.page6_message_1_exc {
@@ -1964,7 +1958,7 @@ color: white;
 }
 	
 	.page6_message_1_end {
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin: 20px;
 }
 	
@@ -1974,12 +1968,12 @@ color: white;
 	
 		.page6_message_image2 {
     left: 30px;
-		top: 500px;
+		top: 505px;
 }
 	
 		.page6_message_image3 {
     left: 30px;
-	top: 710px;
+	top: 705px;
 }
 
 	.page6_message_image4 {
