@@ -205,8 +205,8 @@
 		   <div class="page2_message_4_image">
               <div class="page2_message_4_image_2">
                  <img src="https://hidetonishi.com/wp-content/uploads/2021/02/スクリーンショット-2021-02-10-13.55.35.png" class="image" width="600" alt="エレクトロポーションで発毛効果・持続性がアップ!">
-			   </div>
-		   </div>
+           </div>
+        </div>
 		   <!-- 以下はabsolute -->
 		   <div class="page2_message_4_abusolute">
 			   当サロンではLED治療に加え、エレクトロポーションを使いヒト幹細胞培養液の最高峰である<br>
