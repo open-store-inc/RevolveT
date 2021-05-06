@@ -391,7 +391,7 @@ h2 {
   background-color: #0099ff;
   padding: 5% 1%;
   color: white;
-  top: 1100px;
+  top: 1130px;
   border-radius: 20px;
   width: 95%;
   left: 50%;
@@ -455,7 +455,7 @@ h2 {
     background-color: #0099ff;
     padding: 5% 1%;
     color: white;
-    top: 830px;
+    top: 810px;
     border-radius: 20px;
     left: 50%;
     transform: translateX(-50%);
@@ -975,7 +975,7 @@ color: white;
 }
 	
 	.stress-hair_abusolute {
-    top: 870px;
+    top: 840px;
     width: 80%;
 }
 
@@ -1242,7 +1242,7 @@ color: white;
 	
 	.stress-hair_abusolute {
     font-size: 1rem;
-    top: 730px;
+    top: 720px;
     line-height: 1.5em;
     width: 70%;
 }
@@ -1274,7 +1274,7 @@ color: white;
 	.page2_message_4_abusolute {
 		font-size: 1rem;
 		line-height: 1.5em;
-		top: 990px;
+		top: 1020px;
 	}
 	
   .page2_message_4_abusolute:before {
@@ -1736,7 +1736,7 @@ color: white;
 	.page2_message_4_abusolute {
 		font-size: 0.8rem;
 		line-height: 1.5em;
-		top: 650px;
+		top: 680px;
 		font-weight: normal;
 	}
 	
