@@ -912,6 +912,10 @@ color: white;
 	transition-duration: 0.3s;	/*変化に掛かる時間*/
 } 
 
+.image-harf {
+  flex-shrink: 0;
+}
+
 
 
 
