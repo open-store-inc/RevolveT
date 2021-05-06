@@ -195,9 +195,8 @@
               </div>
 		   
 		   <div class="page2_message_4_image">
-			   <div class="page2_message_4_image_1">
-                   <img src="https://revolve-official.com/wp-content/uploads/2021/04/スクリーンショット-2021-04-29-13.49.20.png" class="image-harf" width="300" alt="エレクトロポーション使用図">
-                   <img src="https://revolve-official.com/wp-content/uploads/2021/04/スクリーンショット-2021-04-29-13.49.49.png" class="image-harf" width="300" alt="エレクトロポーション拡大図">
+			   <div class="page2_message_4_image_1">              
+               <img src="https://revolve-official.com/wp-content/uploads/2021/04/スクリーンショット-2021-04-29-13.49.49.png" class="image" width="600" alt="エレクトロポーション拡大図">
 			   </div>
 		   </div>
 		   

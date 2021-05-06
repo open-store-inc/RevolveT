@@ -361,7 +361,6 @@ h2 {
 }
 
 .page2_message_4_image_1 {
-   display: flex;
 }
 
 .page2_message_3_abusolute_1 {
@@ -391,7 +390,7 @@ h2 {
   background-color: #0099ff;
   padding: 5% 1%;
   color: white;
-  top: 1130px;
+  top: 1160px;
   border-radius: 20px;
   width: 95%;
   left: 50%;
@@ -612,11 +611,6 @@ h2 {
   margin:20px 0 0 0;
   color:red;
   font-size:2.4rem;
-  text-decoration : underline;
-  text-decoration-color:white;
-  text-decoration-thickness: 20px;
-  text-decoration-skip-ink: none;
-  text-underline-offset: -25px;
 }
 
 .page3_message_6{
@@ -1278,7 +1272,7 @@ color: white;
 	.page2_message_4_abusolute {
 		font-size: 1rem;
 		line-height: 1.5em;
-		top: 1020px;
+      top: 970px;
 	}
 	
   .page2_message_4_abusolute:before {
@@ -1344,7 +1338,7 @@ color: white;
 	}
 
 	.page2_message_4_image {
-     width: 90%;
+     width: 80%;
 	}
 	
 	.page2_message_4_iframe {
@@ -1740,7 +1734,7 @@ color: white;
 	.page2_message_4_abusolute {
 		font-size: 0.8rem;
 		line-height: 1.5em;
-		top: 680px;
+      top: 640px;
 		font-weight: normal;
 	}
 	
@@ -1840,8 +1834,6 @@ color: white;
 	
 	.page3_message_6_title {
     font-size: 1.2rem;
-    text-decoration-thickness: 10px;
-    text-underline-offset: -10px;
 }
 
 	.page3_message_title_sub {
