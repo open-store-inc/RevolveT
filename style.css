@@ -5,6 +5,7 @@ Version: 1.0
 Author:
 */
 
+
 @import url("css/normalize.css");
 
 body {
@@ -1734,7 +1735,7 @@ color: white;
 	.page2_message_4_abusolute {
 		font-size: 0.8rem;
 		line-height: 1.5em;
-      top: 640px;
+      top: 650px;
 		font-weight: normal;
 	}
 	
