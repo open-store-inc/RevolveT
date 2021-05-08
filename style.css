@@ -826,7 +826,7 @@ color: white;
 .fix1 {
 	height: 100px;
 	background-color: #ff62d6;
-	background-image: url(https://revolve-official.com/wp-content/uploads/2021/04/予約・受付け看板の無料アイコン素材-2.png);
+	background-image: url(https://revolve-official.com/wp-content/uploads/2021/05/予約・受付け看板の無料アイコン素材-2.png);
 	background-repeat: no-repeat;
 	background-position: 35px center;
 	background-size: 45px;
@@ -836,7 +836,7 @@ color: white;
 .fix2 {
     height: 100px;
     background-color: #07b53b;
-    background-image: url(https://revolve-official.com/wp-content/uploads/2021/04/LINE_SOCIAL_Circle.png);
+    background-image: url(https://revolve-official.com/wp-content/uploads/2021/05/LINE_SOCIAL_Circle.png);
     background-repeat: no-repeat;
     background-position: 30px center;
     background-size: 68px;
@@ -847,7 +847,7 @@ color: white;
 .fix3 {
     height: 100px;
     background-color: #e69e45;
-    background-image: url(https://revolve-official.com/wp-content/uploads/2021/04/お問い合わせのアイコン-Q-Aの吹き出し-4-2.png);
+    background-image: url(https://revolve-official.com/wp-content/uploads/2021/05/お問い合わせのアイコン-Q-Aの吹き出し-4-2.png);
     background-repeat: no-repeat;
     background-position: 30px center;
     background-size: 50px;
@@ -906,20 +906,6 @@ color: white;
   	transform: scale(1.1);	/*画像の拡大率*/
 	transition-duration: 0.3s;	/*変化に掛かる時間*/
 } 
-
-.image-harf {
-  flex-shrink: 0;
-}
-
-
-
-
-
-
-
-
-
-
 
 
 @media screen and (max-width: 1200px) {
@@ -1635,6 +1621,7 @@ color: white;
     font-size: 0.8rem;
     top: 230px;
     width: 70%;
+    padding: 12px 0;
 }
 	
 	.page1_message_5:before {
@@ -2107,6 +2094,7 @@ color: white;
 .header_menu{
 	position: absolute;
 	right: 0;
+	text-align: center;
 }
 
 .menu_btn {
