@@ -27,38 +27,38 @@
        <div class="page1_message_4">
 		   <div class="page1_message_4_title">
           <div class="page1_message_4_title_1">
-            <img src="https://revolve-official.com/wp-content/uploads/2021/05/45312.png" width="40" alt="こんな髪の悩みはありませんか？" class="inline_img">
+            <img src="https://revolve-official.com/wp-content/uploads/2021/05/45312.png" alt="こんな髪の悩みはありませんか？" class="inline_img">
             こんな髪の悩みはありませんか？
           </div>
 		   </div>
 		   <ol>
 			   <li class="page1_message_4_title_li">
 				   <span class="page1_message_4_title_1_1">
-					   <img src="https://revolve-official.com/wp-content/uploads/2021/05/check.png" width="25" alt="薄毛をなんとかごまかそうと髪型に苦心している" class="inline_img">
+					   <img src="https://revolve-official.com/wp-content/uploads/2021/05/check.png" alt="薄毛をなんとかごまかそうと髪型に苦心している" class="inline_img">
 					   薄毛をなんとかごまかそうと髪型に苦心している
 				   </span>
 			   </li>
 			   <li class="page1_message_4_title_li">
 				   <span class="page1_message_4_title_1_1">
-					   <img src="https://revolve-official.com/wp-content/uploads/2021/05/check.png" width="25" alt="明るい所や日が当たる場所で、頭皮がみえてしまう..." class="inline_img">
+					   <img src="https://revolve-official.com/wp-content/uploads/2021/05/check.png" alt="明るい所や日が当たる場所で、頭皮がみえてしまう..." class="inline_img">
 					   明るい所や日が当たる場所で、頭皮がみえてしまう...
 				   </span>
 			   </li>
 			   <li class="page1_message_4_title_li">
 				   <span class="page1_message_4_title_1_2">
-					   <img src="https://revolve-official.com/wp-content/uploads/2021/05/check.png" width="25" alt="髪が薄くなってきたことにより自信がなくなってた" class="inline_img">
+					   <img src="https://revolve-official.com/wp-content/uploads/2021/05/check.png" alt="髪が薄くなってきたことにより自信がなくなってた" class="inline_img">
 					   髪が薄くなってきたことにより自信がなくなってた
 				   </span>
 			   </li>
 			   <li class="page1_message_4_title_li">
 				   <span class="page1_message_4_title_1_1">
-					   <img src="https://revolve-official.com/wp-content/uploads/2021/05/check.png" width="25" alt="今まで散々色々なものを色々なものを試したがどれも効かなかった" class="inline_img">
+					   <img src="https://revolve-official.com/wp-content/uploads/2021/05/check.png" alt="今まで散々色々なものを色々なものを試したがどれも効かなかった" class="inline_img">
 					   今まで散々色々なものを色々なものを試したがどれも効かなかった
 				   </span>
 			   </li>
 			   <li class="page1_message_4_title_li">
 				   <span class="page1_message_4_title_1_1">
-					   <img src="https://revolve-official.com/wp-content/uploads/2021/05/check.png" width="25" alt="風が強いとすぐに髪の毛が乱れてしまう" class="inline_img" >
+					   <img src="https://revolve-official.com/wp-content/uploads/2021/05/check.png" alt="風が強いとすぐに髪の毛が乱れてしまう" class="inline_img" >
 					風が強いとすぐに髪の毛が乱れてしまう
 				  </span>
 				</li>
@@ -92,19 +92,19 @@
 		  <tr><br>
 			  <th>
 			  <div class="page2_message_1">
-				 <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-1.png" class="image"  width="300" alt="今テレビ雑誌メディアで話題">
+				 <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-1.png" class="image"  alt="今テレビ雑誌メディアで話題">
 			  </div>
 			</th>
 
 			<th>
 			  <div class="page2_message_1">
-			  <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-2.png" class="image"  width="300" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
+			  <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-2.png" class="image" alt="一度の出産で75gしか取れない貴重な臍帯血由来幹細胞培養液">
 			  </div>
 			</th>
 
 			<th>
 			  <div class="page2_message_1">
-			  <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-3.png" class="image"  width="300" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
+			  <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-3.png" class="image" alt="最先端の医療ノウハウを活用し弱った細胞を再生">
 			  </div>
 			</th>
 		  </tr>
@@ -137,7 +137,7 @@
 			   <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが、当施術院は<span class="red">臍帯血幹細胞由来</span>の培養液を贅沢に使用しています。<br><span class="page2_message_2_6"><br></span>
 			  <div class="baiyoueki_img_box">
 				  <div class="baiyoueki_img_1">
-					  <img src="https://revolve-official.com/wp-content/uploads/2021/05/スクリーンショット-2021-04-29-13.48.05.png" alt="臍帯血幹細胞培養液_1" / class="image">
+					  <img src="https://revolve-official.com/wp-content/uploads/2021/05/スクリーンショット-2021-04-29-13.48.05.png" alt="臍帯血幹細胞培養液_1" class="image">
 				  </div>
 			  </div>
 			  
@@ -166,7 +166,7 @@
 		   </div>
 		   <div class="page2_message_3_image">
 			   <div class="page2_message_3_image_1">
-                   <img src="https://revolve-official.com/wp-content/uploads/2021/05/5D5A0018.jpg" alt="発毛LED照射" / class="image">
+                   <img src="https://revolve-official.com/wp-content/uploads/2021/05/5D5A0018.jpg" alt="発毛LED照射"class="image">
 			   </div>
 		   </div>
 		   <!-- 以下はabsolute -->
