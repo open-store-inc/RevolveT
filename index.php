@@ -137,7 +137,7 @@
 			   <span class="page2_message_2_6"><br></span>他社の幹細胞培養液は脂肪由来ですが、当施術院は<span class="red">臍帯血幹細胞由来</span>の培養液を贅沢に使用しています。<br><span class="page2_message_2_6"><br></span>
 			  <div class="baiyoueki_img_box">
 				  <div class="baiyoueki_img_1">
-					  <img src="https://revolve-official.com/wp-content/uploads/2021/05/スクリーンショット-2021-04-29-13.48.05.png" alt="臍帯血幹細胞培養液_1" / class="image" width="300">
+					  <img src="https://revolve-official.com/wp-content/uploads/2021/05/スクリーンショット-2021-04-29-13.48.05.png" alt="臍帯血幹細胞培養液_1" / class="image">
 				  </div>
 			  </div>
 			  
@@ -166,7 +166,7 @@
 		   </div>
 		   <div class="page2_message_3_image">
 			   <div class="page2_message_3_image_1">
-                   <img src="https://revolve-official.com/wp-content/uploads/2021/05/5D5A0018.jpg" alt="発毛LED照射" / class="image" width="600">
+                   <img src="https://revolve-official.com/wp-content/uploads/2021/05/5D5A0018.jpg" alt="発毛LED照射" / class="image">
 			   </div>
 		   </div>
 		   <!-- 以下はabsolute -->
@@ -196,14 +196,14 @@
 		   
 		   <div class="page2_message_4_image">
 			   <div class="page2_message_4_image_1">              
-               <img src="https://revolve-official.com/wp-content/uploads/2021/05/スクリーンショット-2021-04-29-13.49.49.png" class="image" width="600" alt="エレクトロポーション拡大図">
+               <img src="https://revolve-official.com/wp-content/uploads/2021/05/スクリーンショット-2021-04-29-13.49.49.png" class="image" alt="エレクトロポーション拡大図">
 			   </div>
 		   </div>
 		   
             <div class="page2_message_4_2">そもそもヒト幹細胞培養液に限らず、どれだけ高級な美容液や育毛剤も<br>ただ塗っているだけでは表面で止まっているだけで奥には浸透しません。</div>
 		   <div class="page2_message_4_image">
               <div class="page2_message_4_image_2">
-                 <img src="https://revolve-official.com/wp-content/uploads/2021/05/スクリーンショット-2021-02-10-13.55.35.png" class="image" width="600" alt="エレクトロポーションで発毛効果・持続性がアップ!">
+                 <img src="https://revolve-official.com/wp-content/uploads/2021/05/スクリーンショット-2021-02-10-13.55.35.png" class="image" alt="エレクトロポーションで発毛効果・持続性がアップ!">
            </div>
         </div>
 		   <!-- 以下はabsolute -->
@@ -228,7 +228,7 @@
            <div class="stress-hair_1">人はストレスを感じると血液中に<span class="red">コルチゾール</span>（ストレスホルモン）を分泌します。このコルチゾールが髪の原料となるタンパク質を食べてしまう為、髪が育ちにくくなり抜け毛、薄毛につながってしまいます。</div>
 		    <div class="stress-hair_image">
                 <div class="stress-hair_image_1">
-                  <img src="https://revolve-official.com/wp-content/uploads/2021/05/スクリーンショット-2021-04-29-11.05.19.png" class="image" width="600" alt="ストレスによる薄毛・抜け毛治療">
+                  <img src="https://revolve-official.com/wp-content/uploads/2021/05/スクリーンショット-2021-04-29-11.05.19.png" class="image" alt="ストレスによる薄毛・抜け毛治療">
 			   </div>
 		   </div>
 		   <!-- 以下はabsolute -->
@@ -250,7 +250,7 @@
 		</div>
 
 		<div class="page3_message_5_image">
-		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/image-02.jpeg" class="image" width="800">
+		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/image-02.jpeg" class="image">
 		</div>
 
 		<div class="page3_message_6_title">
@@ -266,7 +266,7 @@
 		</div>
 
 		<div class="page3_message_6_image">
-		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/image-03.jpeg" class="image" width="800">
+		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/image-03.jpeg" class="image">
 		</div>
 
 		<div class="page3_message_6">
@@ -301,10 +301,10 @@
               <h4>実際に多くの方々が<span class="red">驚きの発毛効果</span>を実感されています！</h4>
 			  <div class="vision_box">
                  <div class="vision_img_1">
-                     <img src="https://revolve-official.com/wp-content/uploads/2021/05/image-003.jpeg" class="image" width="600" alt="つむじ薄毛治療">
+                     <img src="https://revolve-official.com/wp-content/uploads/2021/05/image-003.jpeg" class="image" alt="つむじ薄毛治療">
 				  </div>
 				  <div class="vision_img_2">
-                      <img src="https://revolve-official.com/wp-content/uploads/2021/05/image-004.jpeg" class="image" width="600" alt="分け目薄毛治療">
+                      <img src="https://revolve-official.com/wp-content/uploads/2021/05/image-004.jpeg" class="image"  alt="分け目薄毛治療">
 				  </div>
 			  </div>
 		  </div>
@@ -324,12 +324,12 @@
 	   <div class="page3_message_2">
 		   <div class="page3_message_2_1">まずは<br>ご相談ください<br></div>
 		   <div class="page3_message_3_image">
-			   <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-6.png" width="100" class="allow_icon" >
+			   <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-6.png" class="allow_icon" >
 		   </div>
 	   </div>
 
 	   <div class="page3_message_3__">
-		   <img src="https://revolve-official.com/wp-content/uploads/2021/05/26526.png" width="50" class="page3_message_3_1_img">
+		   <img src="https://revolve-official.com/wp-content/uploads/2021/05/26526.png" class="page3_message_3_1_img">
 		   <span class="page3_message_3_1">06-7410−1982</span><span class="price2980"> ￥２,９８０</span>
 	   </div>
 
@@ -393,7 +393,7 @@
 		  お客様の声
 		</div>
 		<div class="page4_message_1_image">
-		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-4.png" class="b-a_image" width="600">
+		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-4.png" class="b-a_image">
 		</div>
 		<div class="page4_message_1_age">
 		  53歳 &nbsp;&nbsp;&nbsp;女性
@@ -418,7 +418,7 @@
 		</div>
 		
 		<div class="page4_message_1_image">
-		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-5.png" class="b-a_image" width="600">
+		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-5.png" class="b-a_image">
 		</div>
 		<div class="page4_message_2">
 		  毎朝、鏡を見てセットをするのが<br>楽しみになっています。
@@ -443,7 +443,7 @@
 		</div>
 
 		<div class="page5_message_1_image_box">
-          <img src="https://revolve-official.com/wp-content/uploads/2021/05/image-04.jpeg" class="owner_image" width="540" >
+          <img src="https://revolve-official.com/wp-content/uploads/2021/05/image-04.jpeg" class="owner_image">
 		  <div class="page5_message_1_image_text">
 			本町店オーナーの吉田です!
 		  </div>
@@ -496,13 +496,13 @@
  
       <!-- 以下はabsolute -->
       <div class="page6_message_image1">
-		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-6.png" width="100" class="allow_icon" >
+		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-6.png" class="allow_icon" >
       </div>
       <div class="page6_message_image2">
-      <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-6.png" width="100" class="allow_icon" >
+      <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-6.png" class="allow_icon" >
       </div>
       <div class="page6_message_image3">
-      <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-6.png" width="100" class="allow_icon" >
+      <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-6.png" class="allow_icon" >
       </div>
       <!-- 以上はabsolute -->
  
@@ -516,11 +516,11 @@
       <div class="page3_message_2">
         <div class="page3_message_2_1">まずは<br>ご相談ください<br></div>
 		  <div class="page6_message_image4">
-          <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-6.png" width="100" class="allow_icon">
+          <img src="https://revolve-official.com/wp-content/uploads/2021/05/アセット-6.png" class="allow_icon">
         </div>
       </div>
       <div class="page3_message_3__">
-		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/26526.png" width="50" class="page3_message_3_1_img">
+		  <img src="https://revolve-official.com/wp-content/uploads/2021/05/26526.png" class="page3_message_3_1_img">
         <span class="page3_message_3_1">06-7410−1982</span><span class="price2980"> ￥２,９８０</span>
       </div>
  
