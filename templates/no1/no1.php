@@ -599,6 +599,6 @@ Template Name: no1.php
 	  </ul>
     </div>
   </div>
-	<?php wp_fotter(); ?>
+	<?php //wp_fotter(); ?>
   </body>
 </html>
